@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "Login with Icons8",
+      "LOGOUT": "लॉग आउट",
+      "ACCOUNT": "खाता",
+      "PROFILE": "प्रोफ़ाइल"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "लॉग इन करें",
+      "REGISTER_TITLE": "पंजीकरण",
+      "DESCRIPTION": "Since you've got an Icons8 account, you’ll able to login into any our product",
+      "LOGIN_SWITCH": "Already have an account? <strong>Login</strong>",
+      "REGISTER_SWITCH": "Don’t have an account yet? <strong>Register</strong>",
+      "TERMS": "Agree to our <a href=\"https://icons8.com/terms-and-conditions\">Terms and Conditions</a>",
+      "SUBSCRIBE": "Subscribe to <a href=\"https://icons8.com/blog\">Icons8 Mag</a> (<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">sample email</a>)",
+      "PLACEHOLDER_NAME": "Name",
+      "PLACEHOLDER_EMAIL": "ईमेल",
+      "PLACEHOLDER_PASSWORD": "पासवर्ड"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "Design Assets",
+        "ICONS": "प्रतीक",
+        "PHOTOS": "Moose Photos",
+        "OUCH": "Ouch! Illustrations",
+        "MUSIC": "Fugue Music"
+      },
+      "NAV_APPS": {
+        "TITLE": "Apps",
+        "PICHON": "Pichon Icons",
+        "MOOSE": "Moose Editor"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "About icons8",
+        "SHORT": "In Short",
+        "BUSINESS": "व्यापार मॉडल",
+        "LABS": "Labs"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "Community",
+        "BLOG": "ब्लॉग",
+        "FORUM": "Forum"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "निवेदन",
+        "ICON": "आइकॉन",
+        "PHOTO": "Photo Shooting",
+        "LUNACY": "Lunacy Feature"
+      },
+      "NAV_DEV": {
+        "TITLE": "For developers",
+        "ICONS": "Icons API",
+        "PHOTOS": "Photos API",
+        "MUSIC": "Music API"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "सहायता",
+        "FORUM": "Forum",
+        "FAQ": "अक्सर पूछे जाने वाले प्रश्न",
+        "CONTACT": "हमसे संपर्क करें"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "लाइसेंस",
+        "FREE": "नि: शुल्क लाइसेंस",
+        "PAID": "Paid License"
+      },
+      "ACCELERATED": "Accelerated by",
+      "PRIVACY": "गोपनीयता नीति",
+      "TERMS": "नियम और शर्तें"
+    }
+  }
+}

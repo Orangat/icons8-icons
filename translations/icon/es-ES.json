@@ -1,0 +1,485 @@
+{
+	"WEB_APP": {
+		"NEW_ICONS": "Nuevos iconos",
+		"SEO": {
+			"TITLE": "Iconos {{title}}",
+			"LATEST": {
+				"DESCRIPTION": "{{count}} iconos en 15 packs de iconos monster creados por un único equipo trabajando a tiempo completo. PNG, SVG, PDF, EPS, fuentes, y sets SVG.",
+				"TITLE_ALL": "Iconos gratis - Descargar PNG y vector",
+				"TITLE_IOS7": "{{count}} Iconos de iOS (iPhone)",
+				"TITLE_WIN8": "Set gratuito de iconos de {{count}} Iconos (PNG, vector)",
+				"TITLE_WIN10": "{{count}} Icons for Windows 10",
+				"TITLE_ANDROID": "{{count}} Iconos Android gratis (PNG, vector)",
+				"TITLE_MATERIAL": "{{count}} iconos Material Design (PNG, vector)",
+				"TITLE_COLOR": "{{count}} Flat Color Icons",
+				"TITLE_OFFICE": "{{count}} Office Icons",
+				"TITLE_DEFAULT": "{{count}} iconos gratis (PNG, vector)"
+			},
+			"CATEGORY": {
+				"TITLE_PACK": "{{categoryTitle}} Pack de iconos (PNG, vector)",
+				"DESCRIPTION": "Free {{categoryTitle}} icon pack in 15 flat styles. Download in any size, color, and format: SVG, PNG, and as a font.",
+				"ICON_TITLE": "{{name}} Icon - Free Download, PNG and Vector",
+				"ICON_DESCRIPTION_PLATFORM": "Free flat {{name}} icon of {{platform}}; available for download in PNG, SVG and as a font."
+			},
+			"SEARCH": {
+				"TITLE": "Iconos {{term}}",
+				"DESCRIPTION": "Aquí vamos con los iconos relacionados con {{term}}. Todos los iconos son creados por diseñadores de Icons8, con lo cual, todos tienen el mismo estilo y calidad. Cada {{term}} icono es un icono plano. Todos son iconos vectoriales. Pueden descargarse en PNG de hasta 100x100 px. Para vectoriales, como SVG, EPS o fuente, por favor, compra los iconos.",
+				"TITLE_ALL": "{{term}} Iconos - Descarga gratuita, PNG y SVG"
+			}
+		},
+		"SEARCH": {
+			"PLACEHOLDER": "Buscar iconos"
+		},
+		"COLLECTIONS": {
+			"DRAG_DROP_ICONS_OR": "Drag'n drop icons<br>or Upload SVG",
+			"DOWNLOAD_BUTTON": "Descargar",
+			"REMOVE_ICONS": "Los iconos seleccionados serán eliminados de la colección actual. ¿Deseas continuar?",
+			"CANCEL_ACTION": "Cancelar",
+			"DELETE_ACTION": "Eliminar",
+			"DELETE_COLLECTION": "Esta colección se eliminará. ¿Deseas continuar?"
+		},
+		"PAGE": {
+			"LANDING": {
+				"TITLE": "Iconos gratis",
+				"SUBTITLE": "Los íconos gratuitos diseñados para combinar y ajustar al estilo de tu diseño."
+			}
+		},
+		"EFFECT": {
+			"RECOLOR": {
+				"TITLE": "Volver a colorear",
+				"ADD": "Cambiar el color del icono"
+			},
+			"OVERLAY": {
+				"TITLE": "Capa superior",
+				"ADD": "Añadir capa"
+			},
+			"TEXT": {
+				"TITLE": "Texto",
+				"ADD": "Añadir texto"
+			},
+			"COLOR": "En color",
+			"STROKE_SIZE": "Tamaño del trazo",
+			"ADD_EFFECT": {
+				"TITLE": "Add Effects"
+			},
+			"NO_EFFECT": {
+				"TITLE": "Sin efectos"
+			},
+			"STROKE": {
+				"TITLE": "Contorno",
+				"ADD": "Añadir trazo"
+			},
+			"PADDING": {
+				"TITLE": "Relleno",
+				"ADD": "Añadir relleno"
+			},
+			"BACKGROUND": {
+				"TITLE": "Fondo",
+				"ADD": "Añadir fondo"
+			},
+			"CIRCLE": {
+				"TITLE": "Círculo",
+				"ADD": "Insertar en un círculo"
+			},
+			"SQUARE": {
+				"TITLE": "Cuadrado",
+				"ADD": "Insertar en un cuadrado"
+			},
+			"FILL": "Relleno",
+			"CIRCLE_SIZE": "Tamaño del círculo",
+			"ICON_SIZE": "Tamaño del icono",
+			"CORNER_RADIUS": "Radio de esquina",
+			"SQUARE_SIZE": "Tamaño del cuadrado"
+		},
+		"SINGLE_ICON": {
+			"SIMPLIFIED_SVG": "SVG simplificado",
+			"INSERT_SVG_IN_HTML": "Pega este fragmento en tu HTML",
+			"GENERATE_HTML_LINK": "Para utilizar los iconos de forma gratuita por favor pon el enlace en algún lugar de tu página. <a href=\"/license\">Más</a>",
+			"DOWNLOAD_BUTTON": "Descargar",
+			"SIMPLIFIED_SVG_TOOLTIP": "Los SVG simplificados contienen trazados compuestos es decir, el icono está formado por un solo trazo. Son apropiados como fuentes y otros usos, cuando no tengas planes de editar el icono."
+		},
+		"MESSAGES": {
+			"ERROR_TITLE": "Error",
+			"ERROR_TITLE_2": "Icons8 está abajo",
+			"ERROR_DESCRIPTION": "Algo va mal. Ya estamos trabajando en ello.",
+			"ERROR_DESCRIPTION_2": "A veces tenemos que decir 'no' para que no pienses que somos fáciles.<br> Vuelve dentro de una hora, por favor."
+		},
+		"VIEW_ICONS": {
+			"TITLE": {
+				"win8": "{{name}} - Free Web Icon",
+				"win10": "Icono {{name}} gratuito",
+				"ios7": "{{name}} Icon in iPhone Style",
+				"color": "{{name}} Icon in Flat  Style",
+				"office": "{{name}} Vector Icon",
+				"android": "{{name}} Icon in Android Style",
+				"p1em": "{{name}} — icono pequeño",
+				"dusk": "{{name}} — icono de fondo transparente",
+				"Dusk_Wired": "{{name}}, icono negro",
+				"androidL": "{{name}} Icon in Material  Style",
+				"dotty": "{{name}}, un icono (PNG y vector)",
+				"nolan": "{{name}} — icono gratis (PNG, vector)",
+				"ultraviolet": "Blue {{name}} Icon (PNG, Vector)"
+			},
+			"DESCRIPTION_PLATFORM": {
+				"win8": "Este icono {{name}} es parte de un pack de iconos de {{iconsCount}} iconos web. Los iconos están disponibles en formato PNG, SVG, CSS, PDF, EPS, como fuente, y en otros formatos vectoriales. A diferencia de otros packs de iconos, nuestros iconos web están diseñados por el mismo equipo de diseñadores que trabajan a tiempo completo, garantizando un estilo y calidad consistentes.",
+				"win10": "Este es el icono {{name}} para <a self=\"target\" href=\"https://icons8.com/articles/unofficial-style-guide-to-windows10icons/\" class=\"c-pretty-link m-blue m-no-border \">Windows 10</a>. Aquí vamos. Optimizados para 32x32px, estos son los iconos más simples en el estilo linear. Los formatos disponibles para la descarga son PNG y SVG, entre otros. El pack de iconos Icons8 es el único que provee un gran número de iconos diseñados por el mismo equipo de cuatro diseñadores que crean nuevos iconos cada día laboral, en el mismo estilo y con la misma calidad. Tan cool como Bat Face, eh.",
+				"ios7": "Hemos creado este icono en <a self=\"target\" href=\"/free-ios-7-icons-in-vector/\" class=\"c-pretty-link m-blue m-no-border \"> estilo iOS </a>, introducido en iOS versión 7 y compatible con todas las versiones posteriores hasta la fecha (al menos iOS 11). Este estilo se basa en líneas delgadas de dos píxeles y está optimizado para 50x50 px. A diferencia de otros paquetes de iconos planos que tienen apenas unos cientos de iconos, este contiene {{iconsCountsIos7}} iconos, todos en el mismo estilo y calidad.",
+				"color": "Este icono de {{name}} se hace en <a self=\"target\" href=\"/color-icons/\" class=\"c-pretty-link m-blue m-no-border\"> estilo de color plano</a>. Este formato fue desarrollado por el equipo de diseñadores de Icons8 y se hizo inmensamente popular en el uso de aplicaciones web y móviles. No dudes en descargar este icono gratis en formato PNG, u en otros formatos por $5. A diferencia de otros paquetes de iconos que tienen apenas cientos de iconos, este pack de iconos gigantesco contiene los iconos de {{iconsCountsColor}}, todos con el mismo estilo y calidad.",
+				"office": "Este icono es un icono {{name}} sensible. Esto significa que está optimizado para cuatro resoluciones, desde pequeño 16x16 hasta 80x80 con alto nivel de detalle. El estilo es del último <a self=\"target\" href=\"https://icons8.com/articles/5-reasons-why-our-office-icons-are-better-than-microsofts/\" class=\"c-pretty-link m-blue m-no-border \">Microsoft Office</a>, lo que lo hace perfecto para cualquier aplicación de Windows, en particular, los que tienen control desde el ribbon de la barra de herramientas. A diferencia de otros paquetes de iconos que tienen apenas cientos de iconos, este paquete de iconos gigantesco contiene iconos {{iconsCountsOffice}}, todos con el mismo estilo y calidad.",
+				"android": "Este icono {{name}} tiene <a self=\"target\" href=\"/android-kitkat-icons/\" class=\"c-pretty-link m-blue m-no-border \"> estilo Android KitKat</a>. Si utilizas los iconos de aplicaciones de Android, te recomendamos los iconos de nuestro último paquete de iconos de MaterialDesign (por favor, chequea nuestra barra lateral a la derecha). De lo contrario, se trata de un paquete de iconos que se ven bien en pequeñas resoluciones, ya sea en la web o en forma impresa. Está optimizado para 24x24 píxeles y se caracteriza por las líneas gruesas y esquinas redondeadas.",
+				"androidL": "Este icono {{name}} está hecho en <a self=\"target\" href=\"https://icons8.com/articles/a-comprehensive-overview-of-material-design/\" class=\"c-pretty-link m-blue m-no-border \">estilo Material Design style</a> desarrollado por Google. Este estilo está basado en formas extremadamente simples, líneas delgadas de dos píxeles y está optimizado para 24x24 px. A diferencia de otros packs de iconos vectoriales, este pack tiene iconos {{iconsCountsAndroidL}}, todos en el mismo estilo y la misma calidad."
+			},
+			"RELATED_TITLE": "Relacionados con el icono de {{name}}",
+			"RELATED_TEXT": "Los iconos relacionados son aquellos con etiquetas similares, así como <a class=\"c-pretty-link\" href=\"'{{url}}/icon/category/{{category}}\"> todos los iconos {{categoryLowercase}} </a>. Todos los iconos tienen el mismo estilo plano. Puedes descargar iconos PNG de forma gratuita o <a class=\"c-pretty-link\" href=\"//icons8.com/paid-license-99/\"> comprar vectores SVG</a>",
+			"BROWSE_TAG": "Browse More by Tags",
+			"BREADCRUMBS": {
+				"FREE_ICONS": "Iconos gratis"
+			},
+			"RANDOM_DESCRIPTION": {
+				"0": "This icon is a part of a collection of <a href=\"/\" class=\"c-pretty-link m-blue m-no-border \">{{name}} flat icons</a> produced by Icons8. Icons follow the guidelines of iOS, Windows, and Android and are designed by a single designer, guaranteeing the consistent quality.",
+				"1": "This page shows the different variations of the {{name}} from an Icons8 icon pack. Feel free to resize and recolor the icon, and then download the icon in PNG format for free.",
+				"2": "{{name}} and other {{iconsCount}} icons from Icons8 icon pack follow the visual guidelines of the operating systems: Windows, iOS, Android KitKat, and Material. PNG format is free up to 100x100 px.",
+				"3": "This page contains the {{icons}} vector icon, as well as variations of this icon in different visual styles, and related icons. All icons are in the flat vector style, however, differ by the line thickness, fill, and corner radius.",
+				"4": "Este es un icono {{icons}}. Está disponible en PNG y vector. La descarga es gratuita para PNG de hasta 100 x 100 pixeles.",
+				"default": "Este icono forma parte de una colección de {{count}} iconos planos producidos por Icons8. Los iconos siguen los estilos de iOS, Windows y Android y están diseñados por un único equipo de los diseñadores, lo cual garantiza una calidad uniforme."
+			},
+			"IDEA_TITLE": "Idea de icono {{name}}",
+			"IDEA_AUTHOR": "por {{author}}",
+			"IDEA_SUBTITLE": "Hemos recibido la idea de",
+			"IDEA_AND_CREATED": "y creó los iconos de",
+			"STORY_TITLE": "Historia del icono {{name}}"
+		},
+		"GRID_TOOLTIP": {
+			"CLASSIC": "Ver etiquetas",
+			"ICONS": "Sólo iconos",
+			"GRID": "Ver en tabla"
+		},
+		"DROPDOWN_SIZE": {
+			"CUSTOM": "Personalizado..."
+		}
+	},
+	"PLATFORMS": {
+		"ios7": {
+			"SHORT_TITLE": "iOS",
+			"TITLE": "Iconos iOS gratis",
+			"DESCRIPTION": "<p>Nuestro paquete de iconos de iOS sigue la <a href=\"https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/custom-icons/\">guía</a> de Apple. Estos iconos son <a href=\"https://icons8.com/articles/make-pixel-perfect-icons/\">pixel perfect</a> a 50×50 píxeles. El estilo se caracterisa por una linea de base de 2px. Todos los iconos tienen una versión rellena. Este paquete funciona para aplicaciones de iOS con listas verticales como la aplicación de correo de iOS.</p><p>Este es, de lejos, nuestro paquete de íconos más popular. El equipo de Icons8 creó todos los íconos en la empresa, y nuestro diseñador de íconos senior, Alex, lo comenzó inmediatamente después del lanzamiento de iOS 7 y continúa dibujándolo y supervisándolo hasta el día de hoy.</p>",
+			"FEATURES": "<p>Pixel-perfect at 50×50px</p><p>Line width 2px</p><p>Filled version</p>",
+			"CATEGORY_TITLE": "Iconos {{title}} para iOS",
+			"NEW_ICONS": "Nuevos iconos para iOS",
+			"SEARCH_TITLE": "Iconos {{term}} para iOS"
+		},
+		"androidL": {
+			"SHORT_TITLE": "Material lleno",
+			"TITLE": "Iconos de material design gratuitos",
+			"DESCRIPTION": "<p>This pack fits any Android app. These system icons symbolize common actions, files, devices, and directories.</p><p>Our Material Filled icon pack follows the material <a href=\"https://material.io/design/iconography/system-icons.html#design-principles\">guidelines</a> from Google, including the latest <a href=\"https://material.io/design/iconography/system-icons.html#icon-themes\">icon themes</a> (<a href=\"/icons/material\">filled</a>, outlined, rounded, two-tone, and sharp versions for each icon). All themes are pixel-perfect at 24×24 pixels.</p><p>Material icon pack succeeds the previous icon pack for Android, Ice Cream.</p><p>The Icons8 team created all the icons in-house. Our senior icon designer, Alex, started it immediately after iOS 7 release and keeps drawing and supervising it to this day.</p>",
+			"FEATURES": "<p>For Android and Google Material</p><p>Pixel-perfect at 24×24px</p><p>5 themes: filled, outlined, rounded, two-tone, and sharp</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Design Style",
+			"NEW_ICONS": "New Icons in Material Design Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Design Style"
+		},
+		"m_outlined": {
+			"SHORT_TITLE": "Material Outlined",
+			"TITLE": "Free Material Outlined Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-outlined\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>For Android and Google Material</p><p>Pixel-perfect at 24×24px</p><p>5 themes: filled, outlined, rounded, two-tone, and sharp</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Outlined Style",
+			"NEW_ICONS": "New Icons in Material Outlined Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Outlined Style"
+		},
+		"m_rounded": {
+			"SHORT_TITLE": "Material Rounded Icons",
+			"TITLE": "Free Material Rounded Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-rounded\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>For Android and Google Material</p><p>Pixel-perfect at 24×24px</p><p>5 themes: filled, outlined, rounded, two-tone, and sharp</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Rounded Style",
+			"NEW_ICONS": "New Icons in Material Rounded Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Rounded Style"
+		},
+		"m_two_tone": {
+			"SHORT_TITLE": "Material Two Tone",
+			"TITLE": "Free Material Two Tone Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-two-tone\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>For Android and Google Material</p><p>Pixel-perfect at 24×24px</p><p>5 themes: filled, outlined, rounded, two-tone, and sharp</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Two Tone Style",
+			"NEW_ICONS": "New Icons in Material Two Tone Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Two Tone Style"
+		},
+		"m_sharp": {
+			"SHORT_TITLE": "Material Sharp",
+			"TITLE": "Free Material Sharp Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-sharp\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>For Android and Google Material</p><p>Pixel-perfect at 24×24px</p><p>5 themes: filled, outlined, rounded, two-tone, and sharp</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Sharp Style",
+			"NEW_ICONS": "New Icons in Material Sharp Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Sharp Style"
+		},
+		"ios11": {
+			"SHORT_TITLE": "Glifos de iOS",
+			"TITLE": "Iconos iOS glyph gratis",
+			"DESCRIPTION": "<p>Our iOS Glyph icon pack follows the guidelines from Apple. iOS Glyph icons are created on a 30×30 px canvas with a consistent stroke width of 2 px. This pack fits iOS applications with tabs like Clock, Photos, or Health applications.</p>",
+			"FEATURES": "<p>Filled Icons</p><p>Pixel-perfect at 30×30</p><p>Line width 2px</p>",
+			"CATEGORY_TITLE": "{{title}} iOS Glyph Icons",
+			"NEW_ICONS": "New iOS Glyph Icons",
+			"SEARCH_TITLE": "{{term}} iOS Glyph Icons"
+		},
+		"color": {
+			"SHORT_TITLE": "En color",
+			"TITLE": "Free Color Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/color\">pixel-perfect</a> at 48×48 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>Color Icons</p><p>Pixel-perfect at 48×48</p><p>Line width 2px</p>",
+			"CATEGORY_TITLE": "{{title}} Color Icons",
+			"NEW_ICONS": "New Color Icons",
+			"SEARCH_TITLE": "{{term}} Color Icons"
+		},
+		"p1em": {
+			"SHORT_TITLE": "Simples pequeños",
+			"TITLE": "Free Simple Small Icons",
+			"DESCRIPTION": "<p>This icon pack was created especially for using the icons as a font. All of the icons are aligned on a font baseline and so are the best choice to be used as a font (ex: on the button)</p>",
+			"FEATURES": "<p>Pixel-perfect at 16x16</p><p>Line width 1 px</p><p>Created to be used as a font</p>",
+			"CATEGORY_TITLE": "Small {{title}} Icons",
+			"NEW_ICONS": "New Small Icons",
+			"SEARCH_TITLE": "Small {{term}} Icons"
+		},
+		"win10": {
+			"SHORT_TITLE": "Windows 10",
+			"TITLE": "Free Windows 10 Icons",
+			"DESCRIPTION": "<p>Our Windows 10 icon pack follows the guidelines from Microsoft. Windows 10 outline icons are created on a 32x32 px canvas with sharp corners and a consistent stroke width of 2 px.  This pack works for any Windows 10 application.</p>",
+			"FEATURES": "<p>Pixel-perfect at 32x32</p><p>Line width 2 px</p><p>Sharp corners</p>",
+			"CATEGORY_TITLE": "{{title}} iconos para Windows 10",
+			"NEW_ICONS": "Nuevos iconos para Windows 10",
+			"SEARCH_TITLE": "{{term}} iconos para Windows 10"
+		},
+		"android": {
+			"SHORT_TITLE": "Ice Cream",
+			"TITLE": "Iconos gratis Android Ice Cream",
+			"DESCRIPTION": "<p>Creamos estos iconos sobre un lienzo de 24x24 px con un ancho de trazo consistente de 2 px. Este paquete funciona para cualquier aplicación para Android OS 4 y versiones anteriores.</p>",
+			"FEATURES": "<p>Pixel-perfect at 24x24</p><p>Line width 2 px</p><p>For Android OS 4 and earlier </p>",
+			"CATEGORY_TITLE": "Icono {{title}} en estilo Android Ice Cream",
+			"NEW_ICONS": "New Icons for Android Ice Cream",
+			"SEARCH_TITLE": "Icono {{term}} en estilo Android Ice Cream"
+		},
+		"win8": {
+			"SHORT_TITLE": "Windows Metro",
+			"TITLE": "Free Windows Metro Icons",
+			"DESCRIPTION": "<p>This is the first Microsoft monochrome icon pack for the Windows 8 era. It was huge step for the flat design and the first icon pack for Icons8. We will always love you, <a href=\"/metro\">Metro</a>.</p>",
+			"FEATURES": "<p>Pixel-perfect at 26x26</p><p>For Windows 8</p><p>Glyph icons</p>",
+			"CATEGORY_TITLE": "{{title}} Icons for Metro (Windows 8)",
+			"NEW_ICONS": "New Icons for Metro (Windows 8)",
+			"SEARCH_TITLE": "{{term}} Iconos para Metro (Windows 8)"
+		},
+		"office": {
+			"SHORT_TITLE": "Office",
+			"TITLE": "Iconos gratis para la barra de herramientas de Microsoft Office",
+			"DESCRIPTION": "<p>This is our first responsive icon pack. Each icon was created in four different sizes with different level of detail. First, each icon has a small and large version (just like on the Microsoft Office toolbar, Office ribbon): 16x16, 30x30px. Second, each icon has the low-res and HD version(40x40, 80x80). This results in four sizes, each of which is a separate drawing created manually.</p><p>This icon pack fits any application in Microsoft Office style. </p>",
+			"FEATURES": "<p>Pixel-perfect at 4 sizes</p><p>4 sizes: 16, 30, 40, 80px</p><p>Border width 1 px</p>",
+			"CATEGORY_TITLE": "{{title}} Icons for Microsoft Office Toolbar",
+			"NEW_ICONS": "Nuevos iconos para la barra de herramientas de Microsoft Office",
+			"SEARCH_TITLE": "{{term}} Icons for Microsoft Office Toolbar"
+		},
+		"ultraviolet": {
+			"SHORT_TITLE": "UI azul",
+			"TITLE": "Iconos de UI azul gratis",
+			"DESCRIPTION": "<p>Since the blue theme is very popular in UI, our designer, Margarita decided to create this pack for you 🙂. This icon pack is a blue version of our <a href=\"/icon/new-icons/office\">office icon pack</a> with rounded corners.</p>",
+			"FEATURES": "<p>Pixel-perfect at 40x40</p><p>Rounded Corners</p><p>Border width 1px</p>",
+			"CATEGORY_TITLE": "{{title}} iconos azules",
+			"NEW_ICONS": "Nuevos iconos azules",
+			"SEARCH_TITLE": "Iconos azules {{term}}"
+		},
+		"dusk": {
+			"SHORT_TITLE": "Lindo color",
+			"TITLE": "Free Cute Color Icons",
+			"DESCRIPTION": "<p>Cute Color is a decorative cartoonish icon style. Each icon is decorated with short lines and has some shadows and highlights.Cute Color is a color version of the <a href=\"/icon/new-icons/wired\">Cute Outline</a> icon style and will fit any desktop, web application, or presentation.</p>",
+			"FEATURES": "<p>Pixel-perfect at 64x64</p><p>Border width 2px</p><p>Decorated by short lines</p>",
+			"CATEGORY_TITLE": "{{title}}, Decorative Color Icons",
+			"NEW_ICONS": "New, Decorative Color Icons",
+			"SEARCH_TITLE": "{{term}}, Decorative Color Icons"
+		},
+		"Dusk_Wired": {
+			"SHORT_TITLE": "Cute Outline",
+			"TITLE": "Free Cute Outline Icons",
+			"DESCRIPTION": "<p>Cute Outline is a decorative cartoonish icon style, decorated with short lines. This icon pack fits any desktop, web application, or presentation. <a href=\"/icon/new-icons/wired\">Cute Outline</a> is a outline version of <a href=\"/icon/new-icons/dusk\">Cute Color</a> icon style.</p>",
+			"FEATURES": "<p>Pixel-perfect at 64x64</p><p>Border width 2px</p><p>Decorated by short lines</p>",
+			"CATEGORY_TITLE": "{{title}}, Decorative Outline Icons",
+			"NEW_ICONS": "New, Decorative Outline Icons",
+			"SEARCH_TITLE": "{{term}}, Decorative Outline Icons"
+		},
+		"nolan": {
+			"SHORT_TITLE": "Línea de gradiente",
+			"TITLE": "Iconos de línea de gradiente gratis",
+			"DESCRIPTION": "<p>In contrast to <a href=\"/icon/new-icons/color\">color icons</a>, Gradient Line is the first icon pack with gradient fill. Most of the icon shapes in this pack are geometric and based on square and rectangular shapes. </p>",
+			"FEATURES": "<p>Pixel-perfect at 64x64</p><p>Gradient fill</p><p>Squared or rectangular shapes</p>",
+			"CATEGORY_TITLE": "{{title}}, iconos de gradiente",
+			"NEW_ICONS": "Nuevos iconos de gradiente",
+			"SEARCH_TITLE": "{{term}}, iconos de gradiente"
+		},
+		"dotty": {
+			"SHORT_TITLE": "Línea de puntos",
+			"TITLE": "Iconos gratis, linea de puntos",
+			"DESCRIPTION": "<p>Dotted icons are created on a 80x80 px canvas with a consistent stroke width of 2 px. Just like <a href=\"/icon/new-icons/ios\">iOS icons</a>, these are designed as outline. But these are decorated by 2 px dots. This icon pack works well for applications or websites with a light or clear design.</p>",
+			"FEATURES": "<p>Pixel-perfect at 80x80</p><p>Outline icons</p><p>Decorated by dots</p>",
+			"CATEGORY_TITLE": "{{title}}, Beautiful Decorative Icons",
+			"NEW_ICONS": "Nuevos, hermosos iconos decorativos",
+			"SEARCH_TITLE": "{{term}}, Beautiful Decorative Icons"
+		},
+		"plasticine": {
+			"SHORT_TITLE": "Color dibujado a mano",
+			"TITLE": "Iconos gratis de color, dibujados a mano",
+			"DESCRIPTION": "<p>Color Hand Drawn is a decorative cartoonish icon style. The inner decorative border is dashed by irregular spaces and works fine for any desktop, web application, or any presentation. Color Hand Drawn is a color version of <a href=\"/icon/pack/travel/carbon-copy\">Hand Drawn<a> icon style.</p>",
+			"FEATURES": "<p>Based on a 100x100 px canvas</p><p>Border width 2px</p><p>Decorative inner border 1 px</p>",
+			"CATEGORY_TITLE": "Cartoon Icons of {{title}}",
+			"NEW_ICONS": "New Cartoon Icons",
+			"SEARCH_TITLE": "Cartoon Icons of {{term}}"
+		},
+		"carbon_copy": {
+			"SHORT_TITLE": "Dibujados a mano",
+			"TITLE": "Iconos gratis de color, dibujados a mano",
+			"DESCRIPTION": "<p>Hand Drawn is a decorative cartoonish icon style. The inner decorative border is dashed by irregular spaces. This icon pack works fine for any desktop, web application, or any presentation and is a version of <a href=\"/icon/pack/travel/plasticine\">Color Hand Drawn</a> icon style.</p>",
+			"FEATURES": "<p>Based on a 100x100 px canvasv</p><p>Border width 2px</p><p>Decorative inner border 1 px</p>",
+			"CATEGORY_TITLE": "Cartoon Icons of {{title}}",
+			"NEW_ICONS": "New Cartoon Icons",
+			"SEARCH_TITLE": "Cartoon Icons of {{term}}"
+		},
+		"clouds": {
+			"SHORT_TITLE": "Nube",
+			"TITLE": "iconos gratuitos en la forma de nube",
+			"DESCRIPTION": "<p>Cloud is a decorative cartoonish icon style. Just like <a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> and <a href=\"/icon/set/wall-mount-camera/carbon-copy\">Hand Drawn</a>, these icons are based on a 100x100 px canvas and work great fro any desktop, web application, or presentation.</p>",
+			"FEATURES": "<p>Based on a 100x100 px canvas</p><p>Decorative background</p><p>Decorated by clouds</p>",
+			"CATEGORY_TITLE": "{{title}} Illustrations",
+			"NEW_ICONS": "New Illustrations",
+			"SEARCH_TITLE": "{{term}} Illustration"
+		},
+		"bubbles": {
+			"SHORT_TITLE": "Burbujas circulares",
+			"TITLE": "Free Circle Bubbles Icons",
+			"DESCRIPTION": "<p>Circile Bubbles is a decorative cartoonish icon style. Just like <a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> and <a href=\"/icon/set/wall-mount-camera/carbon-copy\">Hand Drawn</a>, these icons are based on a 100x100 px canvas and fit any desktop, web application, or presentation.</p>",
+			"FEATURES": "<p>Based on a 100x100 px canvas</p><p>Round background</p><p>Decorated by circles</p>",
+			"CATEGORY_TITLE": "{{title}} Vectors",
+			"NEW_ICONS": "New Vectors",
+			"SEARCH_TITLE": "{{term}} Vector"
+		},
+		"cotton": {
+			"SHORT_TITLE": "Pastel",
+			"TITLE": "Free Pastel Icons",
+			"DESCRIPTION": "<p>Pastel is a cartoonish color icon pack based on a 128x128 px canvas. All the icons have a bold border. Just like <a href=\"/icon/new-icons/dusk\">Cute Color</a> or <a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> this icon pack is a good choice for any desktop, web application or any presentation.</p>",
+			"FEATURES": "<p>Based on a 128x128px canvas</p><p>Border width 6px</p><p>Color icons with bold border</p>",
+			"CATEGORY_TITLE": "{{title}} Vector Images",
+			"NEW_ICONS": "New Vector Images",
+			"SEARCH_TITLE": "{{term}} Vector Image"
+		},
+		"flat_round": {
+			"SHORT_TITLE": "Infografía",
+			"TITLE": "Free Round Infographic Icons",
+			"DESCRIPTION": "<p>Round Infographic icons based on a 512x512 px canvas with the main object placed inside the colored circle. These icons work well with complicated backgrounds, photos, etc.</p>",
+			"FEATURES": "<p>Based on a 512x512 px canvas</p><p>Round icons</p><p>Color icons</p>",
+			"CATEGORY_TITLE": "{{title}} Round Icons",
+			"NEW_ICONS": "Nuevos iconos redondos",
+			"SEARCH_TITLE": "{{term}}, iconos redondos"
+		},
+		"doodle": {
+			"SHORT_TITLE": "Garabato",
+			"TITLE": "Free Doodle Icons",
+			"DESCRIPTION": "<p>Doodle is a decorative cartoonish icon style and, like <a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> and <a href=\"/icon/set/wall-mount-camera/carbon-copy\">Hand Drawn</a>, these icons are based on a 100x100 px canvas. This icon pack fits any desktop, web application, or any presentation</p>",
+			"FEATURES": "<p>Based on a 512x512 px canvas</p><p>Hand-drawn icons</p><p>Color icons</p>",
+			"CATEGORY_TITLE": "{{title}} iconos dibujados a mano",
+			"NEW_ICONS": "New Hand Drawn Icons",
+			"SEARCH_TITLE": "Hand Drawn Icons of {{term}}"
+		}
+	},
+	"ICON": {
+		"ICONS": {
+			"ICONS_LABEL": "Iconos",
+			"INDEX": {
+				"HOW_IT_WORKS": "Cómo funciona",
+				"POPULAR_STYLES": "Estilos populares",
+				"OTHER_STYLES": "Otros estilos"
+			},
+			"NEW": {
+				"POPULAR_STYLES": "Estilos populares",
+				"OTHER_STYLES": "Otros estilos",
+				"NEW_PAGE_DESCRIPTION": "Our community <a href=\"https://icons8.com/request-icon/\">requests the icons</a>; we draw them daily. Hey, community, we love you! Maybe for your ideas, and maybe it's just the smell, and that you make us laugh."
+			},
+			"SET": {
+				"POPULAR_STYLES": "Estilos populares",
+				"OTHER_STYLES": "Otros estilos",
+				"COOL_STYLES": "Cool Styles",
+				"SEARCH_TITLE": "Iconos {{term}}"
+			},
+			"PACK": {
+				"POPULAR_STYLES": "Estilos populares",
+				"OTHER_STYLES": "Otros estilos"
+			}
+		},
+		"COMPONENTS": {
+			"ACCORDION": {
+				"MORE": "Más",
+				"SHOW_MORE": "Show more...",
+				"OTHER_STYLES": "{{icon}} Icon in Other Styles",
+				"RELATED": "Relacionados a",
+				"COLLECT": "Colectar"
+			},
+			"LEFT_SIDEBAR": {
+				"STYLE": "Estilo",
+				"STYLE_POPULAR": "Popular styles",
+				"STYLE_MATERIAL": "Material",
+				"STYLE_OUTLINE": "Outline",
+				"STYLE_FILLED": "Filled",
+				"STYLE_COLOR": "En color",
+				"STYLE_TINY": "Tiny",
+				"STYLE_ALL": "All",
+				"CATEGORIES": "Categorías",
+				"TRENDS": "Tendencias",
+				"OLD_INTERFACE": "Interfaz antigua",
+				"COLLECTIONS": "Colecciones",
+				"VIEW_ALL": "Ver todos"
+			},
+			"COLLECTIONS": {
+				"COLLECTIONS": "Colecciones",
+				"SET": "set",
+				"SETS": "conjuntos",
+				"FAVORITES": "Favorites",
+				"MARK_ICONS": "Just mark beloved icons <br/> to use them later.",
+				"DOWNLOAD_AND_EDIT": "Download and <br/> edit multiple icons",
+				"CREATE_NEW": "Crear nuevo",
+				"CREATE_FONTS_SETS": "Create Icon fonts <br/> and SVG sets",
+				"STORE": "Store custom <br/> collections",
+				"DRAG_ICONS": "Arrastra los iconos aquí",
+				"DRAG_ICONS_PREVIEW": "Drag icons <br/>here",
+				"ICONS": "iconos",
+				"ICON": "icon",
+				"EMPTY_STATE_ICON": "There is no icons yet",
+				"AUTOCOLLECTION": "autogenerated collection <br/>",
+				"EDIT_TITLE": "Editar nombre",
+				"DELETE": "Eliminar",
+				"SHARE_COLLECTIONS": "Share collection",
+				"CREATE_PUBLIC_LINK": "Create public link",
+				"DELETE_COLLECTION": "Esta colección se eliminará. ¿Deseas continuar?",
+				"ICON_INFO": "from"
+			},
+			"DOWNLOAD_COLLECTION": {
+				"CHOOSE_SIZES": "Tamaños (elija múltiple con Ctrl o Cmd):",
+				"UNLOCK": "Unlock",
+				"UNLOCK_PRICE": "for $19.90/month",
+				"COLORED_FONT": "Generating font from colored icons may cause issues",
+				"SIZE_N_FORMAT": "All icons in any size and format: <br/> SVG, EPS, PDF, and PNG",
+				"NO_LINKING": "Enlace no requerido",
+				"ZIP": "ZIP with individual SVGs",
+				"APPS": "Desktop apps",
+				"BUY": "Buy for $19.90/mo"
+			},
+			"EFFECTS": {
+				"DONE": "Hecho",
+				"CANCEL": "Cancelar"
+			},
+			"DOWNLOAD_SELECTOR": {
+				"PRICING": "See pricing",
+				"LOGIN": "Iniciar sesión"
+			}
+		}
+	},
+	"REQUEST_ICONS": {
+		"TITLE": "Solicitar iconos",
+		"WEBAPP_REQUEST": {
+			"TEXT": "Por favor, dinos el icono que necesitas y lo dibujaremos de forma gratuita."
+		}
+	}
+}

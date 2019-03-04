@@ -1,0 +1,129 @@
+.effects-menu {
+	position: relative;
+	order: 0;
+	flex: 0 0 165px;
+	height: 100%;
+	border-radius: 4px 0 0 4px;
+	padding: 0 15px 8px 0;
+	transition: all 3s;
+	@media (max-width: 930px) {
+		display: none;
+	}
+	&.is-progress {
+		&:before {
+			content: '';
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			z-index: 9;
+			cursor: progress;
+		}
+	}
+	&.is-inactive {
+		pointer-events: none;
+	}
+	.item {
+		height: 32px;
+		line-height: 32px;
+		text-align: left;
+		border-radius: 4px;
+		white-space: nowrap;
+		user-select: none;
+		cursor: pointer;
+		transition: 0.3s all ease;
+		&:hover:not(.is-active) {
+			.item-text {
+				color: #5CA3FD;
+			}
+			.item-icon {
+				fill: #5CA3FD;
+			}
+		  }
+		&.init-effects {
+			.item-text {
+				opacity: 0;
+  				transition: opacity .3s .3s;
+			}
+		}
+		&.select-effect {
+			margin-left: -10px;
+			padding-left: 10px;
+			&.is-divider:after {
+				width: 160px;
+				left: -5px;
+			}
+		}
+
+		//  ------- IS -------  
+		&.is-active {
+			.item-text {
+				color: white;
+			}
+			.item-icon {
+				fill: white;
+			}
+			background-color: #5CA3FD;
+			.icon-effects-svg {
+				fill: #5CA3FD;
+			}
+		}
+		&.is-divider {
+			position: relative;
+			height: 17px;
+			width: 100%;
+			cursor: default;
+			&:after {
+				content: '';
+				display: block;
+				width: 40px;
+				height: 1px;
+				background: rgba(0,0,0,0.05);
+				position: absolute;
+				left: -15px;
+				top: 50%;
+				margin-top: -1px;
+				transition: all .3s;
+				transition-delay: .3s;
+			}
+		}
+		&.is-no-effect {
+			font-weight: 600;
+			height: 0;
+			overflow: hidden;
+			transition: height .4s;
+			&:hover {
+				.item-text {
+					color: inherit;
+				}
+			}
+			&.is-show {
+				height: 32px;
+			}
+		}
+	}
+	.item-icon {
+		display: inline-block;
+		vertical-align: top;
+		height: 13px;
+		width: 13px;
+		line-height: 0;
+		fill: #98989A;
+		margin: 9px 12px 0 0;
+		& svg,
+		& img,
+		&/deep/ svg,
+		&/deep/ img {
+			width: 100%;
+			height: 100%;
+			vertical-align: top;
+		}
+	}
+	.item-text {
+		display: inline-block;
+		color: #484848;
+		transition: color .3s;
+	}
+	.item-toggle {
+		float: right;
+	}
+}

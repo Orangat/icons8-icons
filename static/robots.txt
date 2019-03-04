@@ -1,0 +1,4 @@
+# Hello, crawlers! Thanks for checking our robots.txt ^_^
+
+User-agent: *
+Disallow: /

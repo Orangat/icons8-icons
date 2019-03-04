@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "Icons8 でログイン",
+      "LOGOUT": "ログアウト",
+      "ACCOUNT": "アカウント",
+      "PROFILE": "プロフィール"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "ログイン",
+      "REGISTER_TITLE": "登録",
+      "DESCRIPTION": "Icons8 のアカウントをお持ちの方は、弊社のどの製品にもログインできます",
+      "LOGIN_SWITCH": "すでにアカウントをお持ちですか？ <strong>ログイン</strong>",
+      "REGISTER_SWITCH": "まだアカウントをお持ちではありませんか？ <strong>登録</strong>",
+      "TERMS": "弊社の <a href=\"https://icons8.com/terms-and-conditions\">利用規約</a> に同意します",
+      "SUBSCRIBE": "<a href=\"https://icons8.com/blog\">Icons8 Mag</a> を購読します (<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">サンプルメール</a>)",
+      "PLACEHOLDER_NAME": "名前",
+      "PLACEHOLDER_EMAIL": "電子メール",
+      "PLACEHOLDER_PASSWORD": "パスワード"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "デザインアセット",
+        "ICONS": "アイコン",
+        "PHOTOS": "Moose Photos",
+        "OUCH": "Ouchi! イラスト集",
+        "MUSIC": "フーガ音楽"
+      },
+      "NAV_APPS": {
+        "TITLE": "アプリ",
+        "PICHON": "Pichon アイコン",
+        "MOOSE": "ムースエディタ"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "Icons8 について",
+        "SHORT": "一言でいうと",
+        "BUSINESS": "ビジネスモデル",
+        "LABS": "ラボ"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "コミュニティ",
+        "BLOG": "ブログ",
+        "FORUM": "フォーラム"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "リクエスト",
+        "ICON": "アイコン",
+        "PHOTO": "写真撮影",
+        "LUNACY": "Lunacy の機能"
+      },
+      "NAV_DEV": {
+        "TITLE": "開発者向け",
+        "ICONS": "アイコン API",
+        "PHOTOS": "写真 API",
+        "MUSIC": "音楽 API"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "サポート",
+        "FORUM": "フォーラム",
+        "FAQ": "よくある質問",
+        "CONTACT": "お問い合わせ"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "ライセンス",
+        "FREE": "無料ライセンス",
+        "PAID": "有料ライセンス"
+      },
+      "ACCELERATED": "協力",
+      "PRIVACY": "プライバシーポリシー",
+      "TERMS": "利用規約"
+    }
+  }
+}

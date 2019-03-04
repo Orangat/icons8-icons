@@ -1,0 +1,483 @@
+{
+	"WEB_APP": {
+		"NEW_ICONS": "crwdns2937370:0crwdne2937370:0",
+		"SEO": {
+			"TITLE": "crwdns2937368:0{{title}}crwdne2937368:0",
+			"LATEST": {
+				"DESCRIPTION": "crwdns2937412:0{{count}}crwdne2937412:0",
+				"TITLE_ALL": "crwdns2937414:0crwdne2937414:0",
+				"TITLE_IOS7": "crwdns2937416:0{{count}}crwdne2937416:0",
+				"TITLE_WIN8": "crwdns2937418:0{{count}}crwdne2937418:0",
+				"TITLE_WIN10": "crwdns2937432:0{{count}}crwdne2937432:0",
+				"TITLE_ANDROID": "crwdns2937422:0{{count}}crwdne2937422:0",
+				"TITLE_MATERIAL": "crwdns2937424:0{{count}}crwdne2937424:0",
+				"TITLE_COLOR": "crwdns2937434:0{{count}}crwdne2937434:0",
+				"TITLE_OFFICE": "crwdns2937436:0{{count}}crwdne2937436:0",
+				"TITLE_DEFAULT": "crwdns2937430:0{{count}}crwdne2937430:0"
+			},
+			"CATEGORY": {
+				"TITLE_PACK": "crwdns2937230:0{{categoryTitle}}crwdne2937230:0",
+				"DESCRIPTION": "crwdns2937316:0{{categoryTitle}}crwdne2937316:0",
+				"ICON_TITLE": "crwdns2937318:0{{name}}crwdne2937318:0",
+				"ICON_DESCRIPTION_PLATFORM": "crwdns2937320:0{{name}}crwdnd2937320:0{{platform}}crwdne2937320:0"
+			},
+			"SEARCH": {
+				"TITLE": "crwdns2937238:0{{term}}crwdne2937238:0",
+				"DESCRIPTION": "crwdns2937240:0{{term}}crwdnd2937240:0{{term}}crwdne2937240:0",
+				"TITLE_ALL": "crwdns2937242:0{{term}}crwdne2937242:0"
+			}
+		},
+		"SEARCH": {
+			"PLACEHOLDER": "crwdns2937184:0crwdne2937184:0"
+		},
+		"COLLECTIONS": {
+			"DRAG_DROP_ICONS_OR": "crwdns2938016:0crwdne2938016:0",
+			"DOWNLOAD_BUTTON": "crwdns2937186:0crwdne2937186:0",
+			"REMOVE_ICONS": "crwdns2937392:0crwdne2937392:0",
+			"CANCEL_ACTION": "crwdns2937396:0crwdne2937396:0",
+			"DELETE_ACTION": "crwdns2937394:0crwdne2937394:0",
+			"DELETE_COLLECTION": "crwdns2937946:0crwdne2937946:0"
+		},
+		"PAGE": {
+			"LANDING": {
+				"TITLE": "crwdns2937188:0crwdne2937188:0",
+				"SUBTITLE": "crwdns2937190:0crwdne2937190:0"
+			}
+		},
+		"EFFECT": {
+			"RECOLOR": {
+				"TITLE": "crwdns2937246:0crwdne2937246:0",
+				"ADD": "crwdns2937248:0crwdne2937248:0"
+			},
+			"OVERLAY": {
+				"TITLE": "crwdns2937250:0crwdne2937250:0",
+				"ADD": "crwdns2937252:0crwdne2937252:0"
+			},
+			"TEXT": {
+				"TITLE": "crwdns2937254:0crwdne2937254:0",
+				"ADD": "crwdns2937256:0crwdne2937256:0"
+			},
+			"COLOR": "crwdns2937192:0crwdne2937192:0",
+			"STROKE_SIZE": "crwdns2937194:0crwdne2937194:0",
+			"ADD_EFFECT": {
+				"TITLE": "crwdns2938018:0crwdne2938018:0"
+			},
+			"NO_EFFECT": {
+				"TITLE": "crwdns2937196:0crwdne2937196:0"
+			},
+			"STROKE": {
+				"TITLE": "crwdns2937198:0crwdne2937198:0",
+				"ADD": "crwdns2937200:0crwdne2937200:0"
+			},
+			"PADDING": {
+				"TITLE": "crwdns2937202:0crwdne2937202:0",
+				"ADD": "crwdns2937204:0crwdne2937204:0"
+			},
+			"BACKGROUND": {
+				"TITLE": "crwdns2937206:0crwdne2937206:0",
+				"ADD": "crwdns2937208:0crwdne2937208:0"
+			},
+			"CIRCLE": {
+				"TITLE": "crwdns2937210:0crwdne2937210:0",
+				"ADD": "crwdns2937212:0crwdne2937212:0"
+			},
+			"SQUARE": {
+				"TITLE": "crwdns2937214:0crwdne2937214:0",
+				"ADD": "crwdns2937216:0crwdne2937216:0"
+			},
+			"FILL": "crwdns2937398:0crwdne2937398:0",
+			"CIRCLE_SIZE": "crwdns2937400:0crwdne2937400:0",
+			"ICON_SIZE": "crwdns2937402:0crwdne2937402:0",
+			"CORNER_RADIUS": "crwdns2937404:0crwdne2937404:0",
+			"SQUARE_SIZE": "crwdns2937406:0crwdne2937406:0"
+		},
+		"SINGLE_ICON": {
+			"SIMPLIFIED_SVG": "crwdns2937384:0crwdne2937384:0",
+			"INSERT_SVG_IN_HTML": "crwdns2937386:0crwdne2937386:0",
+			"GENERATE_HTML_LINK": "crwdns2937408:0crwdne2937408:0",
+			"DOWNLOAD_BUTTON": "crwdns2937390:0crwdne2937390:0",
+			"SIMPLIFIED_SVG_TOOLTIP": "crwdns2937410:0crwdne2937410:0"
+		},
+		"MESSAGES": {
+			"ERROR_TITLE": "crwdns2937222:0crwdne2937222:0",
+			"ERROR_TITLE_2": "crwdns2937224:0crwdne2937224:0",
+			"ERROR_DESCRIPTION": "crwdns2937258:0crwdne2937258:0",
+			"ERROR_DESCRIPTION_2": "crwdns2937228:0crwdne2937228:0"
+		},
+		"VIEW_ICONS": {
+			"TITLE": {
+				"win8": "crwdns2937322:0{{name}}crwdne2937322:0",
+				"win10": "crwdns2937262:0{{name}}crwdne2937262:0",
+				"ios7": "crwdns2937324:0{{name}}crwdne2937324:0",
+				"color": "crwdns2937326:0{{name}}crwdne2937326:0",
+				"office": "crwdns2937328:0{{name}}crwdne2937328:0",
+				"android": "crwdns2937330:0{{name}}crwdne2937330:0",
+				"p1em": "crwdns2937272:0{{name}}crwdne2937272:0",
+				"dusk": "crwdns2937274:0{{name}}crwdne2937274:0",
+				"Dusk_Wired": "crwdns2937276:0{{name}}crwdne2937276:0",
+				"androidL": "crwdns2937332:0{{name}}crwdne2937332:0",
+				"dotty": "crwdns2937280:0{{name}}crwdne2937280:0",
+				"nolan": "crwdns2937282:0{{name}}crwdne2937282:0",
+				"ultraviolet": "crwdns2937334:0{{name}}crwdne2937334:0"
+			},
+			"DESCRIPTION_PLATFORM": {
+				"win8": "crwdns2937336:0{{name}}crwdnd2937336:0{{iconsCount}}crwdne2937336:0",
+				"win10": "crwdns2937338:0{{name}}crwdne2937338:0",
+				"ios7": "crwdns2937340:0{{name}}crwdnd2937340:0{{iconsCountsIos7}}crwdne2937340:0",
+				"color": "crwdns2937342:0{{name}}crwdnd2937342:0{{iconsCountsColor}}crwdne2937342:0",
+				"office": "crwdns2937344:0{{name}}crwdnd2937344:0{{iconsCountsOffice}}crwdne2937344:0",
+				"android": "crwdns2937346:0{{name}}crwdne2937346:0",
+				"androidL": "crwdns2937348:0{{name}}crwdnd2937348:0{{iconsCountsAndroidL}}crwdne2937348:0"
+			},
+			"RELATED_TITLE": "crwdns2937286:0{{name}}crwdne2937286:0",
+			"RELATED_TEXT": "crwdns2937288:0{{url}}crwdnd2937288:0{{category}}crwdnd2937288:0{{categoryLowercase}}crwdne2937288:0",
+			"BROWSE_TAG": "crwdns2937290:0crwdne2937290:0",
+			"BREADCRUMBS": {
+				"FREE_ICONS": "crwdns2937292:0crwdne2937292:0"
+			},
+			"RANDOM_DESCRIPTION": {
+				"0": "crwdns2937350:0{{name}}crwdne2937350:0",
+				"1": "crwdns2937352:0{{name}}crwdne2937352:0",
+				"2": "crwdns2937354:0{{name}}crwdnd2937354:0{{iconsCount}}crwdne2937354:0",
+				"3": "crwdns2937356:0{{icons}}crwdne2937356:0",
+				"4": "crwdns2937302:0{{icons}}crwdne2937302:0",
+				"default": "crwdns2937304:0{{icons}}crwdnd2937304:0{{iconsCount}}crwdne2937304:0"
+			},
+			"IDEA_TITLE": "crwdns2937358:0{{name}}crwdne2937358:0",
+			"IDEA_AUTHOR": "crwdns2937360:0{{author}}crwdne2937360:0",
+			"IDEA_SUBTITLE": "crwdns2937362:0crwdne2937362:0",
+			"IDEA_AND_CREATED": "crwdns2937364:0crwdne2937364:0",
+			"STORY_TITLE": "crwdns2937366:0{{name}}crwdne2937366:0"
+		},
+		"GRID_TOOLTIP": {
+			"CLASSIC": "crwdns2937306:0crwdne2937306:0",
+			"ICONS": "crwdns2937308:0crwdne2937308:0",
+			"GRID": "crwdns2937310:0crwdne2937310:0"
+		},
+		"DROPDOWN_SIZE": {
+			"CUSTOM": "crwdns2937388:0crwdne2937388:0"
+		}
+	},
+	"PLATFORMS": {
+		"ios7": {
+			"SHORT_TITLE": "crwdns2936712:0crwdne2936712:0",
+			"TITLE": "crwdns2936714:0crwdne2936714:0",
+			"DESCRIPTION": "crwdns2937740:0crwdne2937740:0",
+			"FEATURES": "crwdns2936718:0crwdne2936718:0",
+			"CATEGORY_TITLE": "crwdns2936720:0{{title}}crwdne2936720:0",
+			"NEW_ICONS": "crwdns2936722:0crwdne2936722:0",
+			"SEARCH_TITLE": "crwdns2936724:0{{term}}crwdne2936724:0"
+		},
+		"androidL": {
+			"SHORT_TITLE": "crwdns2936726:0crwdne2936726:0",
+			"TITLE": "crwdns2936728:0crwdne2936728:0",
+			"DESCRIPTION": "crwdns2936730:0crwdne2936730:0",
+			"FEATURES": "crwdns2936732:0crwdne2936732:0",
+			"CATEGORY_TITLE": "crwdns2936734:0{{title}}crwdne2936734:0",
+			"NEW_ICONS": "crwdns2936736:0crwdne2936736:0",
+			"SEARCH_TITLE": "crwdns2936738:0{{term}}crwdne2936738:0"
+		},
+		"m_outlined": {
+			"SHORT_TITLE": "crwdns2936740:0crwdne2936740:0",
+			"TITLE": "crwdns2936742:0crwdne2936742:0",
+			"DESCRIPTION": "crwdns2936744:0crwdne2936744:0",
+			"FEATURES": "crwdns2936746:0crwdne2936746:0",
+			"CATEGORY_TITLE": "crwdns2936748:0{{title}}crwdne2936748:0",
+			"NEW_ICONS": "crwdns2936750:0crwdne2936750:0",
+			"SEARCH_TITLE": "crwdns2936752:0{{term}}crwdne2936752:0"
+		},
+		"m_rounded": {
+			"SHORT_TITLE": "crwdns2936754:0crwdne2936754:0",
+			"TITLE": "crwdns2936756:0crwdne2936756:0",
+			"DESCRIPTION": "crwdns2936758:0crwdne2936758:0",
+			"FEATURES": "crwdns2936760:0crwdne2936760:0",
+			"CATEGORY_TITLE": "crwdns2936762:0{{title}}crwdne2936762:0",
+			"NEW_ICONS": "crwdns2936764:0crwdne2936764:0",
+			"SEARCH_TITLE": "crwdns2936766:0{{term}}crwdne2936766:0"
+		},
+		"m_two_tone": {
+			"SHORT_TITLE": "crwdns2936768:0crwdne2936768:0",
+			"TITLE": "crwdns2936770:0crwdne2936770:0",
+			"DESCRIPTION": "crwdns2936772:0crwdne2936772:0",
+			"FEATURES": "crwdns2936774:0crwdne2936774:0",
+			"CATEGORY_TITLE": "crwdns2936776:0{{title}}crwdne2936776:0",
+			"NEW_ICONS": "crwdns2936778:0crwdne2936778:0",
+			"SEARCH_TITLE": "crwdns2936780:0{{term}}crwdne2936780:0"
+		},
+		"m_sharp": {
+			"SHORT_TITLE": "crwdns2936782:0crwdne2936782:0",
+			"TITLE": "crwdns2936784:0crwdne2936784:0",
+			"DESCRIPTION": "crwdns2936786:0crwdne2936786:0",
+			"FEATURES": "crwdns2936788:0crwdne2936788:0",
+			"CATEGORY_TITLE": "crwdns2936790:0{{title}}crwdne2936790:0",
+			"NEW_ICONS": "crwdns2936792:0crwdne2936792:0",
+			"SEARCH_TITLE": "crwdns2936794:0{{term}}crwdne2936794:0"
+		},
+		"ios11": {
+			"SHORT_TITLE": "crwdns2936796:0crwdne2936796:0",
+			"TITLE": "crwdns2936798:0crwdne2936798:0",
+			"DESCRIPTION": "crwdns2936800:0crwdne2936800:0",
+			"FEATURES": "crwdns2936802:0crwdne2936802:0",
+			"CATEGORY_TITLE": "crwdns2936804:0{{title}}crwdne2936804:0",
+			"NEW_ICONS": "crwdns2936806:0crwdne2936806:0",
+			"SEARCH_TITLE": "crwdns2936808:0{{term}}crwdne2936808:0"
+		},
+		"color": {
+			"SHORT_TITLE": "crwdns2936810:0crwdne2936810:0",
+			"TITLE": "crwdns2936812:0crwdne2936812:0",
+			"DESCRIPTION": "crwdns2936814:0crwdne2936814:0",
+			"FEATURES": "crwdns2936816:0crwdne2936816:0",
+			"CATEGORY_TITLE": "crwdns2936818:0{{title}}crwdne2936818:0",
+			"NEW_ICONS": "crwdns2936820:0crwdne2936820:0",
+			"SEARCH_TITLE": "crwdns2936822:0{{term}}crwdne2936822:0"
+		},
+		"p1em": {
+			"SHORT_TITLE": "crwdns2936824:0crwdne2936824:0",
+			"TITLE": "crwdns2936826:0crwdne2936826:0",
+			"DESCRIPTION": "crwdns2936828:0crwdne2936828:0",
+			"FEATURES": "crwdns2936830:0crwdne2936830:0",
+			"CATEGORY_TITLE": "crwdns2936832:0{{title}}crwdne2936832:0",
+			"NEW_ICONS": "crwdns2936834:0crwdne2936834:0",
+			"SEARCH_TITLE": "crwdns2936836:0{{term}}crwdne2936836:0"
+		},
+		"win10": {
+			"SHORT_TITLE": "crwdns2936838:0crwdne2936838:0",
+			"TITLE": "crwdns2936840:0crwdne2936840:0",
+			"DESCRIPTION": "crwdns2936842:0crwdne2936842:0",
+			"FEATURES": "crwdns2936844:0crwdne2936844:0",
+			"CATEGORY_TITLE": "crwdns2936846:0{{title}}crwdne2936846:0",
+			"NEW_ICONS": "crwdns2936848:0crwdne2936848:0",
+			"SEARCH_TITLE": "crwdns2936850:0{{term}}crwdne2936850:0"
+		},
+		"android": {
+			"SHORT_TITLE": "crwdns2936852:0crwdne2936852:0",
+			"TITLE": "crwdns2936854:0crwdne2936854:0",
+			"DESCRIPTION": "crwdns2936856:0crwdne2936856:0",
+			"FEATURES": "crwdns2936858:0crwdne2936858:0",
+			"CATEGORY_TITLE": "crwdns2936860:0{{title}}crwdne2936860:0",
+			"NEW_ICONS": "crwdns2936862:0crwdne2936862:0",
+			"SEARCH_TITLE": "crwdns2936864:0{{term}}crwdne2936864:0"
+		},
+		"win8": {
+			"SHORT_TITLE": "crwdns2936866:0crwdne2936866:0",
+			"TITLE": "crwdns2936868:0crwdne2936868:0",
+			"DESCRIPTION": "crwdns2936870:0crwdne2936870:0",
+			"FEATURES": "crwdns2936872:0crwdne2936872:0",
+			"CATEGORY_TITLE": "crwdns2936874:0{{title}}crwdne2936874:0",
+			"NEW_ICONS": "crwdns2936876:0crwdne2936876:0",
+			"SEARCH_TITLE": "crwdns2936878:0{{term}}crwdne2936878:0"
+		},
+		"office": {
+			"SHORT_TITLE": "crwdns2936880:0crwdne2936880:0",
+			"TITLE": "crwdns2936882:0crwdne2936882:0",
+			"DESCRIPTION": "crwdns2936884:0crwdne2936884:0",
+			"FEATURES": "crwdns2936886:0crwdne2936886:0",
+			"CATEGORY_TITLE": "crwdns2936888:0{{title}}crwdne2936888:0",
+			"NEW_ICONS": "crwdns2936890:0crwdne2936890:0",
+			"SEARCH_TITLE": "crwdns2936892:0{{term}}crwdne2936892:0"
+		},
+		"ultraviolet": {
+			"SHORT_TITLE": "crwdns2936894:0crwdne2936894:0",
+			"TITLE": "crwdns2936896:0crwdne2936896:0",
+			"DESCRIPTION": "crwdns2936898:0crwdne2936898:0",
+			"FEATURES": "crwdns2936900:0crwdne2936900:0",
+			"CATEGORY_TITLE": "crwdns2936902:0{{title}}crwdne2936902:0",
+			"NEW_ICONS": "crwdns2936904:0crwdne2936904:0",
+			"SEARCH_TITLE": "crwdns2936906:0{{term}}crwdne2936906:0"
+		},
+		"dusk": {
+			"SHORT_TITLE": "crwdns2936908:0crwdne2936908:0",
+			"TITLE": "crwdns2936910:0crwdne2936910:0",
+			"DESCRIPTION": "crwdns2936912:0crwdne2936912:0",
+			"FEATURES": "crwdns2936914:0crwdne2936914:0",
+			"CATEGORY_TITLE": "crwdns2936916:0{{title}}crwdne2936916:0",
+			"NEW_ICONS": "crwdns2936918:0crwdne2936918:0",
+			"SEARCH_TITLE": "crwdns2936920:0{{term}}crwdne2936920:0"
+		},
+		"Dusk_Wired": {
+			"SHORT_TITLE": "crwdns2936922:0crwdne2936922:0",
+			"TITLE": "crwdns2936924:0crwdne2936924:0",
+			"DESCRIPTION": "crwdns2936926:0crwdne2936926:0",
+			"FEATURES": "crwdns2936928:0crwdne2936928:0",
+			"CATEGORY_TITLE": "crwdns2936930:0{{title}}crwdne2936930:0",
+			"NEW_ICONS": "crwdns2936932:0crwdne2936932:0",
+			"SEARCH_TITLE": "crwdns2936934:0{{term}}crwdne2936934:0"
+		},
+		"nolan": {
+			"SHORT_TITLE": "crwdns2936936:0crwdne2936936:0",
+			"TITLE": "crwdns2936938:0crwdne2936938:0",
+			"DESCRIPTION": "crwdns2936940:0crwdne2936940:0",
+			"FEATURES": "crwdns2936942:0crwdne2936942:0",
+			"CATEGORY_TITLE": "crwdns2936944:0{{title}}crwdne2936944:0",
+			"NEW_ICONS": "crwdns2936946:0crwdne2936946:0",
+			"SEARCH_TITLE": "crwdns2936948:0{{term}}crwdne2936948:0"
+		},
+		"dotty": {
+			"SHORT_TITLE": "crwdns2936950:0crwdne2936950:0",
+			"TITLE": "crwdns2936952:0crwdne2936952:0",
+			"DESCRIPTION": "crwdns2936954:0crwdne2936954:0",
+			"FEATURES": "crwdns2936956:0crwdne2936956:0",
+			"CATEGORY_TITLE": "crwdns2936958:0{{title}}crwdne2936958:0",
+			"NEW_ICONS": "crwdns2936960:0crwdne2936960:0",
+			"SEARCH_TITLE": "crwdns2936962:0{{term}}crwdne2936962:0"
+		},
+		"plasticine": {
+			"SHORT_TITLE": "crwdns2936964:0crwdne2936964:0",
+			"TITLE": "crwdns2936966:0crwdne2936966:0",
+			"DESCRIPTION": "crwdns2936968:0crwdne2936968:0",
+			"FEATURES": "crwdns2936970:0crwdne2936970:0",
+			"CATEGORY_TITLE": "crwdns2936972:0{{title}}crwdne2936972:0",
+			"NEW_ICONS": "crwdns2936974:0crwdne2936974:0",
+			"SEARCH_TITLE": "crwdns2936976:0{{term}}crwdne2936976:0"
+		},
+		"carbon_copy": {
+			"SHORT_TITLE": "crwdns2936978:0crwdne2936978:0",
+			"TITLE": "crwdns2936980:0crwdne2936980:0",
+			"DESCRIPTION": "crwdns2937220:0crwdne2937220:0",
+			"FEATURES": "crwdns2936984:0crwdne2936984:0",
+			"CATEGORY_TITLE": "crwdns2936986:0{{title}}crwdne2936986:0",
+			"NEW_ICONS": "crwdns2936988:0crwdne2936988:0",
+			"SEARCH_TITLE": "crwdns2936990:0{{term}}crwdne2936990:0"
+		},
+		"clouds": {
+			"SHORT_TITLE": "crwdns2936992:0crwdne2936992:0",
+			"TITLE": "crwdns2936994:0crwdne2936994:0",
+			"DESCRIPTION": "crwdns2936996:0crwdne2936996:0",
+			"FEATURES": "crwdns2936998:0crwdne2936998:0",
+			"CATEGORY_TITLE": "crwdns2937000:0{{title}}crwdne2937000:0",
+			"NEW_ICONS": "crwdns2937002:0crwdne2937002:0",
+			"SEARCH_TITLE": "crwdns2937004:0{{term}}crwdne2937004:0"
+		},
+		"bubbles": {
+			"SHORT_TITLE": "crwdns2937006:0crwdne2937006:0",
+			"TITLE": "crwdns2937008:0crwdne2937008:0",
+			"DESCRIPTION": "crwdns2937010:0crwdne2937010:0",
+			"FEATURES": "crwdns2937012:0crwdne2937012:0",
+			"CATEGORY_TITLE": "crwdns2937014:0{{title}}crwdne2937014:0",
+			"NEW_ICONS": "crwdns2937016:0crwdne2937016:0",
+			"SEARCH_TITLE": "crwdns2937018:0{{term}}crwdne2937018:0"
+		},
+		"cotton": {
+			"SHORT_TITLE": "crwdns2937020:0crwdne2937020:0",
+			"TITLE": "crwdns2937022:0crwdne2937022:0",
+			"DESCRIPTION": "crwdns2937024:0crwdne2937024:0",
+			"FEATURES": "crwdns2937026:0crwdne2937026:0",
+			"CATEGORY_TITLE": "crwdns2937028:0{{title}}crwdne2937028:0",
+			"NEW_ICONS": "crwdns2937030:0crwdne2937030:0",
+			"SEARCH_TITLE": "crwdns2937032:0{{term}}crwdne2937032:0"
+		},
+		"flat_round": {
+			"SHORT_TITLE": "crwdns2937034:0crwdne2937034:0",
+			"TITLE": "crwdns2937036:0crwdne2937036:0",
+			"DESCRIPTION": "crwdns2937038:0crwdne2937038:0",
+			"FEATURES": "crwdns2937040:0crwdne2937040:0",
+			"CATEGORY_TITLE": "crwdns2937042:0{{title}}crwdne2937042:0",
+			"NEW_ICONS": "crwdns2937044:0crwdne2937044:0",
+			"SEARCH_TITLE": "crwdns2937046:0{{term}}crwdne2937046:0"
+		},
+		"doodle": {
+			"SHORT_TITLE": "crwdns2937048:0crwdne2937048:0",
+			"TITLE": "crwdns2937050:0crwdne2937050:0",
+			"DESCRIPTION": "crwdns2937052:0crwdne2937052:0",
+			"FEATURES": "crwdns2937054:0crwdne2937054:0",
+			"CATEGORY_TITLE": "crwdns2937056:0{{title}}crwdne2937056:0",
+			"NEW_ICONS": "crwdns2937058:0crwdne2937058:0",
+			"SEARCH_TITLE": "crwdns2937060:0{{term}}crwdne2937060:0"
+		}
+	},
+	"ICON": {
+		"ICONS": {
+			"ICONS_LABEL": "crwdns2937062:0crwdne2937062:0",
+			"INDEX": {
+				"HOW_IT_WORKS": "crwdns2937064:0crwdne2937064:0",
+				"POPULAR_STYLES": "crwdns2937066:0crwdne2937066:0",
+				"OTHER_STYLES": "crwdns2937068:0crwdne2937068:0"
+			},
+			"NEW": {
+				"POPULAR_STYLES": "crwdns2937070:0crwdne2937070:0",
+				"OTHER_STYLES": "crwdns2937072:0crwdne2937072:0",
+				"NEW_PAGE_DESCRIPTION": "crwdns2937074:0crwdne2937074:0"
+			},
+			"SET": {
+				"POPULAR_STYLES": "crwdns2937076:0crwdne2937076:0",
+				"OTHER_STYLES": "crwdns2937078:0crwdne2937078:0",
+				"COOL_STYLES": "crwdns2937080:0crwdne2937080:0",
+				"SEARCH_TITLE": "crwdns2937082:0{{term}}crwdne2937082:0"
+			},
+			"PACK": {
+				"POPULAR_STYLES": "crwdns2937084:0crwdne2937084:0",
+				"OTHER_STYLES": "crwdns2937086:0crwdne2937086:0"
+			}
+		},
+		"COMPONENTS": {
+			"ACCORDION": {
+				"MORE": "crwdns2937088:0crwdne2937088:0",
+				"SHOW_MORE": "crwdns2937090:0crwdne2937090:0",
+				"OTHER_STYLES": "crwdns2937092:0{{icon}}crwdne2937092:0",
+				"RELATED": "crwdns2937094:0crwdne2937094:0",
+				"COLLECT": "crwdns2937096:0crwdne2937096:0"
+			},
+			"LEFT_SIDEBAR": {
+				"STYLE": "crwdns2937098:0crwdne2937098:0",
+				"STYLE_POPULAR": "crwdns2937100:0crwdne2937100:0",
+				"STYLE_MATERIAL": "crwdns2937102:0crwdne2937102:0",
+				"STYLE_OUTLINE": "crwdns2937104:0crwdne2937104:0",
+				"STYLE_FILLED": "crwdns2937106:0crwdne2937106:0",
+				"STYLE_COLOR": "crwdns2937108:0crwdne2937108:0",
+				"STYLE_TINY": "crwdns2937110:0crwdne2937110:0",
+				"STYLE_ALL": "crwdns2937112:0crwdne2937112:0",
+				"CATEGORIES": "crwdns2937114:0crwdne2937114:0",
+				"TRENDS": "crwdns2937116:0crwdne2937116:0",
+				"OLD_INTERFACE": "crwdns2937118:0crwdne2937118:0",
+				"COLLECTIONS": "crwdns2937120:0crwdne2937120:0",
+				"VIEW_ALL": "crwdns2937122:0crwdne2937122:0"
+			},
+			"COLLECTIONS": {
+				"COLLECTIONS": "crwdns2937124:0crwdne2937124:0",
+				"SET": "crwdns2937126:0crwdne2937126:0",
+				"SETS": "crwdns2937128:0crwdne2937128:0",
+				"FAVORITES": "crwdns2937130:0crwdne2937130:0",
+				"MARK_ICONS": "crwdns2937132:0crwdne2937132:0",
+				"DOWNLOAD_AND_EDIT": "crwdns2937134:0crwdne2937134:0",
+				"CREATE_NEW": "crwdns2937136:0crwdne2937136:0",
+				"CREATE_FONTS_SETS": "crwdns2937138:0crwdne2937138:0",
+				"STORE": "crwdns2937140:0crwdne2937140:0",
+				"DRAG_ICONS": "crwdns2937142:0crwdne2937142:0",
+				"DRAG_ICONS_PREVIEW": "crwdns2937144:0crwdne2937144:0",
+				"ICONS": "crwdns2937146:0crwdne2937146:0",
+				"ICON": "crwdns2937148:0crwdne2937148:0",
+				"AUTOCOLLECTION": "crwdns2937150:0crwdne2937150:0",
+				"EDIT_TITLE": "crwdns2937152:0crwdne2937152:0",
+				"DELETE": "crwdns2937154:0crwdne2937154:0",
+				"SHARE_COLLECTIONS": "crwdns2937758:0crwdne2937758:0",
+				"CREATE_PUBLIC_LINK": "crwdns2937934:0crwdne2937934:0",
+				"DELETE_COLLECTION": "crwdns2937944:0crwdne2937944:0"
+			},
+			"DOWNLOAD_COLLECTION": {
+				"CHOOSE_SIZES": "crwdns2937156:0crwdne2937156:0",
+				"UNLOCK": "crwdns2937158:0crwdne2937158:0",
+				"UNLOCK_PRICE": "crwdns2937160:0crwdne2937160:0",
+				"COLORED_FONT": "crwdns2937162:0crwdne2937162:0",
+				"SIZE_N_FORMAT": "crwdns2937164:0crwdne2937164:0",
+				"NO_LINKING": "crwdns2937166:0crwdne2937166:0",
+				"ZIP": "crwdns2937168:0crwdne2937168:0",
+				"APPS": "crwdns2937170:0crwdne2937170:0",
+				"BUY": "crwdns2937172:0crwdne2937172:0"
+			},
+			"EFFECTS": {
+				"DONE": "crwdns2937174:0crwdne2937174:0",
+				"CANCEL": "crwdns2937176:0crwdne2937176:0"
+			},
+			"DOWNLOAD_SELECTOR": {
+				"PRICING": "crwdns2937178:0crwdne2937178:0",
+				"LOGIN": "crwdns2937180:0crwdne2937180:0"
+			}
+		}
+	},
+	"REQUEST_ICONS": {
+		"TITLE": "crwdns2937312:0crwdne2937312:0",
+		"WEBAPP_REQUEST": {
+			"TEXT": "crwdns2937314:0crwdne2937314:0"
+		}
+	}
+}

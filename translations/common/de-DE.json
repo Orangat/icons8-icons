@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "Login mit Icons8",
+      "LOGOUT": "Abmelden",
+      "ACCOUNT": "Konto",
+      "PROFILE": "Profil"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "Anmelden",
+      "REGISTER_TITLE": "Registrieren",
+      "DESCRIPTION": "Da Sie über ein Icons8-Konto verfügen, können Sie sich bei jedem unserer Produkte anmelden",
+      "LOGIN_SWITCH": "Hast du schon ein Konto? <strong>Anmelden</strong>",
+      "REGISTER_SWITCH": "Du hast noch keinen Account? <strong>Register</strong>",
+      "TERMS": "Stimme unseren <a href=\"https://icons8.com/terms-and-conditions\">Allgemeinen Geschäftsbedingungen zu.</a>",
+      "SUBSCRIBE": "Abbonieren Sie <a href=\"https://icons8.com/blog\">Icons8 Mag</a>(<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">beispiel E-Mail</a>)",
+      "PLACEHOLDER_NAME": "Name",
+      "PLACEHOLDER_EMAIL": "E-Mail",
+      "PLACEHOLDER_PASSWORD": "Passwort"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "Design Assets",
+        "ICONS": "Icons",
+        "PHOTOS": "Moose Fotos",
+        "OUCH": "Ouch! Illustrationen",
+        "MUSIC": "Füllmusik"
+      },
+      "NAV_APPS": {
+        "TITLE": "Apps",
+        "PICHON": "Pichon-Symbole",
+        "MOOSE": "Mount Editor"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "Über icons8",
+        "SHORT": "Zusamenfassend",
+        "BUSINESS": "Geschäftsmodell",
+        "LABS": "Experimentelles"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "Gemeinschaft",
+        "BLOG": "Blog",
+        "FORUM": "Forum"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "Anfragen",
+        "ICON": "Icon",
+        "PHOTO": "Fotoshooting",
+        "LUNACY": "Lunacy-Funktion"
+      },
+      "NAV_DEV": {
+        "TITLE": "Für Entwickler",
+        "ICONS": "Ikone-API",
+        "PHOTOS": "Foto-API",
+        "MUSIC": "Musik-API"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "Support",
+        "FORUM": "Forum",
+        "FAQ": "FAQ",
+        "CONTACT": "Kontaktiere uns"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "Lizenzen",
+        "FREE": "Kostenlose Lizenz",
+        "PAID": "Umfassend Lizenz"
+      },
+      "ACCELERATED": "Beschleunigt mit",
+      "PRIVACY": "Datenschutzrichtlinien",
+      "TERMS": "Geschäftsbedinungen"
+    }
+  }
+}

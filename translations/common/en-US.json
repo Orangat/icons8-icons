@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "Login with Icons8",
+      "LOGOUT": "Logout",
+      "ACCOUNT": "Account",
+      "PROFILE": "Profile"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "Login",
+      "REGISTER_TITLE": "Register",
+      "DESCRIPTION": "Since you've got an Icons8 account, you’ll able to login into any our product",
+      "LOGIN_SWITCH": "Already have an account? <strong>Login</strong>",
+      "REGISTER_SWITCH": "Don’t have an account yet? <strong>Register</strong>",
+      "TERMS": "Agree to our <a href=\"https://icons8.com/terms-and-conditions\">Terms and Conditions</a>",
+      "SUBSCRIBE": "Subscribe to <a href=\"https://icons8.com/blog\">Icons8 Mag</a> (<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">sample email</a>)",
+      "PLACEHOLDER_NAME": "Name",
+      "PLACEHOLDER_EMAIL": "Email",
+      "PLACEHOLDER_PASSWORD": "Password"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "Design Assets",
+        "ICONS": "Icons",
+        "PHOTOS": "Moose Photos",
+        "OUCH": "Ouch! Illustrations",
+        "MUSIC": "Fugue Music"
+      },
+      "NAV_APPS": {
+        "TITLE": "Apps",
+        "PICHON": "Pichon Icons",
+        "MOOSE": "Moose Editor"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "About icons8",
+        "SHORT": "In Short",
+        "BUSINESS": "Business Model",
+        "LABS": "Labs"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "Community",
+        "BLOG": "Blog",
+        "FORUM": "Forum"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "Request",
+        "ICON": "Icon",
+        "PHOTO": "Photo Shoot",
+        "LUNACY": "Lunacy Feature"
+      },
+      "NAV_DEV": {
+        "TITLE": "For developers",
+        "ICONS": "Icons API",
+        "PHOTOS": "Photos API",
+        "MUSIC": "Music API"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "Support",
+        "FORUM": "Forum",
+        "FAQ": "FAQ",
+        "CONTACT": "Contact us"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "Licenses",
+        "FREE": "Free License",
+        "PAID": "Paid License"
+      },
+      "ACCELERATED": "Accelerated by",
+      "PRIVACY": "Privacy Policy",
+      "TERMS": "Terms and Conditions"
+    }
+  }
+}

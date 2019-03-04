@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "用Icons8登录",
+      "LOGOUT": "登出",
+      "ACCOUNT": "帐户",
+      "PROFILE": "资料"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "登录",
+      "REGISTER_TITLE": "注册",
+      "DESCRIPTION": "您可以使用Icons8帐户登录我们的任何产品",
+      "LOGIN_SWITCH": "已经有账号？ <strong>登录</strong>",
+      "REGISTER_SWITCH": "还没有账号？ <strong>注册</strong>",
+      "TERMS": "同意我们的 <a href=\"https://icons8.com/terms-and-conditions\">条款和条件</a>",
+      "SUBSCRIBE": "订阅 <a href=\"https://icons8.com/blog\">Icons8 Mag</a> (<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">示例邮件</a>)",
+      "PLACEHOLDER_NAME": "名称",
+      "PLACEHOLDER_EMAIL": "邮件",
+      "PLACEHOLDER_PASSWORD": "密码"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "设计资产",
+        "ICONS": "图标",
+        "PHOTOS": "Moose 图片",
+        "OUCH": "哎哟!插图",
+        "MUSIC": "赋格音乐"
+      },
+      "NAV_APPS": {
+        "TITLE": "应用",
+        "PICHON": "Pichon图标",
+        "MOOSE": "Moose编辑"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "关于icons8",
+        "SHORT": "简而言之",
+        "BUSINESS": "商业模式",
+        "LABS": "实验室"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "社区",
+        "BLOG": "博客",
+        "FORUM": "论坛"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "请求",
+        "ICON": "图标",
+        "PHOTO": "拍照片",
+        "LUNACY": "Lunacy功能"
+      },
+      "NAV_DEV": {
+        "TITLE": "对于开发者",
+        "ICONS": "图标API",
+        "PHOTOS": "照片API",
+        "MUSIC": "音乐API"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "技术支持",
+        "FORUM": "论坛",
+        "FAQ": "常见问题",
+        "CONTACT": "联系我们"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "许可证",
+        "FREE": "免费许可证",
+        "PAID": "付费许可证"
+      },
+      "ACCELERATED": "加速",
+      "PRIVACY": "隐私政策",
+      "TERMS": "使用条款"
+    }
+  }
+}

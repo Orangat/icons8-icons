@@ -1,0 +1,485 @@
+{
+	"WEB_APP": {
+		"NEW_ICONS": "新图标",
+		"SEO": {
+			"TITLE": "{{title}}图标",
+			"LATEST": {
+				"DESCRIPTION": "由一个全职团队创建的15个怪物图标包中的{{count}} 个图标。 PNG，SVG，PDF，EPS，字体和SVG集。",
+				"TITLE_ALL": "免费图标 - 下载PNG和向量",
+				"TITLE_IOS7": "{{count}} 个iOS图标（iPhone应用程序图标）",
+				"TITLE_WIN8": "免费图标集 {{count}}个图标（PNG，矢量）",
+				"TITLE_WIN10": "{{count}} 个适用于Windows 10的图标",
+				"TITLE_ANDROID": "{{count}}个免费Android图标（PNG，矢量）",
+				"TITLE_MATERIAL": "{{count}}个Material设计图标（PNG，矢量）",
+				"TITLE_COLOR": "{{count}} 个扁平彩色图标",
+				"TITLE_OFFICE": "{{count}} 个Office图标",
+				"TITLE_DEFAULT": "{{count}}个免费图标（PNG，矢量）"
+			},
+			"CATEGORY": {
+				"TITLE_PACK": "{{categoryTitle}}图标包（PNG，矢量）",
+				"DESCRIPTION": "15种扁平风格的免费{{categoryTitle}} 图标。以任意尺寸、颜色和格式下载这些图标：SVG、PNG或字体。",
+				"ICON_TITLE": "{{name}}图标 - 免费下载，PNG和矢量",
+				"ICON_DESCRIPTION_PLATFORM": "免费扁平 {{name}} 图标 {{platform}};可以下载PNG，SVG和字体格式。"
+			},
+			"SEARCH": {
+				"TITLE": "{{term}} 图标",
+				"DESCRIPTION": "这里是与{{term}}相关的图标。所有图标都由Icons8的设计师创作，因此它们具有相同的风格和质量。每个{{term}}图标都是一个平面图标。所有这些都是矢量图标。它们可以免费下载高达100x100像素的PNG格式。对于矢量格式，如SVG，EPS或字体，请购买图标。",
+				"TITLE_ALL": "{{term}}图标 - 免费下载，PNG和SVG"
+			}
+		},
+		"SEARCH": {
+			"PLACEHOLDER": "搜索图标"
+		},
+		"COLLECTIONS": {
+			"DRAG_DROP_ICONS_OR": "Drag'n drop icons<br>or Upload SVG",
+			"DOWNLOAD_BUTTON": "下载",
+			"REMOVE_ICONS": "选择图标将会从当前收藏夹中删除。是否继续？",
+			"CANCEL_ACTION": "取消",
+			"DELETE_ACTION": "删除",
+			"DELETE_COLLECTION": "此收藏夹将被删除。是否继续？"
+		},
+		"PAGE": {
+			"LANDING": {
+				"TITLE": "免费图标",
+				"SUBTITLE": "获得免费图标，完美结合并融入您的设计风格。"
+			}
+		},
+		"EFFECT": {
+			"RECOLOR": {
+				"TITLE": "着色",
+				"ADD": "重新着色图标"
+			},
+			"OVERLAY": {
+				"TITLE": "叠加层",
+				"ADD": "添加叠加层"
+			},
+			"TEXT": {
+				"TITLE": "文字",
+				"ADD": "添加文字"
+			},
+			"COLOR": "彩色",
+			"STROKE_SIZE": "笔触大小",
+			"ADD_EFFECT": {
+				"TITLE": "Add Effects"
+			},
+			"NO_EFFECT": {
+				"TITLE": "无效果"
+			},
+			"STROKE": {
+				"TITLE": "描边",
+				"ADD": "添加描边"
+			},
+			"PADDING": {
+				"TITLE": "内边距",
+				"ADD": "添加内边距"
+			},
+			"BACKGROUND": {
+				"TITLE": "背景",
+				"ADD": "添加背景"
+			},
+			"CIRCLE": {
+				"TITLE": "圆",
+				"ADD": "插入进圆圈内"
+			},
+			"SQUARE": {
+				"TITLE": "方形",
+				"ADD": "插入进方形内"
+			},
+			"FILL": "填充",
+			"CIRCLE_SIZE": "圆的大小",
+			"ICON_SIZE": "图标尺寸",
+			"CORNER_RADIUS": "圆角半径",
+			"SQUARE_SIZE": "方形尺寸"
+		},
+		"SINGLE_ICON": {
+			"SIMPLIFIED_SVG": "简化的SVG",
+			"INSERT_SVG_IN_HTML": "将此代码段粘贴到您的 HTML",
+			"GENERATE_HTML_LINK": "若要免费使用图标，请将这段链接放到您的网页里。<a href=\"/license\">更多</a>",
+			"DOWNLOAD_BUTTON": "下载",
+			"SIMPLIFIED_SVG_TOOLTIP": "简化的SVG包含复合路径，即整个图标由单个路径组成。他们适合用作字体和其他用途，除非你打算编辑图标。"
+		},
+		"MESSAGES": {
+			"ERROR_TITLE": "故障",
+			"ERROR_TITLE_2": "Icons8已关闭",
+			"ERROR_DESCRIPTION": "发生错误。我们已经着手解决。",
+			"ERROR_DESCRIPTION_2": "有时我们必须说不，以至于你不认为我们很易用.<br>请在一个小时内回来。"
+		},
+		"VIEW_ICONS": {
+			"TITLE": {
+				"win8": "{{name}} - 免费网页图标",
+				"win10": "免费的 {{name}} 图标",
+				"ios7": "iPhone 风格的 {{name}} 图标",
+				"color": "扁平风格的 {{name}} 图标",
+				"office": "{{name}} 矢量图标",
+				"android": "安卓风格的 {{name}} 图标",
+				"p1em": "小 {{name}} 图标",
+				"dusk": "在透明背景上的 {{name}} 图标",
+				"Dusk_Wired": "{{name}} 图标黑色",
+				"androidL": "{{name}} Material设计风格的图标",
+				"dotty": "{{name}} 图标 （PNG 和矢量）",
+				"nolan": "{{name}} 免费图标 （PNG，矢量）",
+				"ultraviolet": "蓝色 {{name}} 图标（PNG，矢量）"
+			},
+			"DESCRIPTION_PLATFORM": {
+				"win8": "这个{{name}} 图标的{{iconsCount}} 是网页图标图标包的一部分。图标有SVG，CSS，PDF，EPS格式，也可以作为字体，还有其它矢量格式。和其他的图标包不同，我们的网页图标由一个独立设计师设计，保证了一致的风格和品质。",
+				"win10": "这是<a self=\"target\" href=\"https://icons8.com/articles/unofficial-style-guide-to-windows10icons/\" class=\"c-pretty-link m-blue m-no-border \">Windows 10</a>的{{name}}图标。来吧。针对32x32像素进行了优化，这些是线条样式中最简单的图标。可下载的格式包括PNG和SVG等。 Icons8图标包是独一无二的，它提供了由四位设计师组成的团队所设计的大量图标，这些设计师每个工作日都以相同的风格和相同的质量创作新的图标。和蝙蝠脸一样酷，哈哈。",
+				"ios7": "这是一个{{name}} 图标。我们是依照<a self=\"target\" href=\"/free-ios-7-icons-in-vector/\" class=\"c-pretty-link m-blue m-no-border \">iOS风格</a>制作的。该风格首先在iOS7中引入，并且支持之后出现的所有新版本（至少到iOS 11）。这种风格是基于为50x50px优化的两条像素线。不像其它只有上百个图标的矢量图标包，这个图标包包含了{{iconsCountsIos7}} 个图标，而且都是相同风格和品质。",
+				"color": "这{{name}} 图标是<a self=\"target\" href=\"/color-icons/\" class=\"c-pretty-link m-blue m-no-border \">扁平化彩色风格的</a>的。这种格式是由Icons8设计师团队开发，并在网络和移动应用的使用中非常受欢迎。随意下载PNG格式免费图标，或需$ 5解锁其他格式。不同于仅仅有数以百计的图标其他图标包，这个怪物图标包包含{{iconsCountsColor}} 个图标，均有相同的风格和品质。",
+				"office": "这个{{name}}图标是响应性的图标。这意味着它针对四种分辨率进行了优化，从微小的16x16到细节丰富的80x80。该风格来自最新的<a self=\"target\" href=\"https://icons8.com/articles/5-reasons-why-our-office-icons-are-better-than-microsofts/\" class=\"c-pretty-link m-blue m-no-border \">Microsoft Office</a>，这使其非常适合任何Windows应用程序，特别是带有功能区工具栏控件的应用程序。与其他只有数百个图标的图标包不同，这个怪物图标包含有{{iconsCountsOffice}}图标，全部具有相同的风格和质量。",
+				"android": "这{{name}} 图标有<a self=\"target\" href=\"/android-kitkat-icons/\" class=\"c-pretty-link m-blue m-no-border \">Android KitKat风格</a>。如果您使用的Andr​​oid应用程序的图标，我们建议使用我们最新的Material 图标包（请查看我们的右侧边栏）。否则，这是一个可靠的图标包，在小分辨率下看起来也不错，无论是在网页上还是打印出来查看。它的特点是粗的线条，流畅的边角，以及24×24像素的优化。",
+				"androidL": "这个{{name}}图标是以Google开发的<a self=\"target\" href=\"https://icons8.com/articles/a-comprehensive-overview-of-material-design/\" class=\"c-pretty-link m-blue m-no-border \">Material设计风格</a>涉及的。这种风格是基于非常简化的形状，双像素线条，并针对24x24像素进行了优化。与其他仅有数百个图标的矢量图标包不同，这个图标包包含{{iconsCountsAndroidL}}个图标，所有图标都具有相同的风格和质量。"
+			},
+			"RELATED_TITLE": "相关{{name}} 图标",
+			"RELATED_TEXT": "相关图标是有匹配标签的图标，以及<a class=\"c-pretty-link\" href=\"{{url}}/icon/pack/{{category}}\">所有 {{categoryLowercase}}图标</a>。所有图标都是同样的扁平化风格。您可以下载免费PNG图标或<a class=\"c-pretty-link\" href=\"//icons8.com/paid-license-99/\">购买 SVG 矢量图标</a>",
+			"BROWSE_TAG": "按标签浏览更多",
+			"BREADCRUMBS": {
+				"FREE_ICONS": "免费图标"
+			},
+			"RANDOM_DESCRIPTION": {
+				"0": "此图标是由Icons8制作的<a href=\"/\" class=\"c-pretty-link m-blue m-no-border \">{{name}} 扁平图标</a>集合的一部分。图标由单一设计师按照iOS，Windows和Android的准则来设计，保证了稳定的质量。",
+				"1": "此页面显示了Icons8图标包中 {{name}} 的不同变体。您可以随意调整图标大小并重新着色，然后免费下载PNG格式的图标。",
+				"2": "Icons8图标包中的{{name}} 和其他 {{iconsCount}} 图标遵循操作系统的视觉规则：Windows，iOS，安卓 KitKat和Material。 PNG格式最高可达100x100像素。",
+				"3": "此页面包含 {{icons}} 矢量图标，以及不同视觉风格的此图标的变体，以及相关图标。所有图标均为扁平矢量样式，但有不同的线条粗细，填充和圆角半径。",
+				"4": "这是一个{{icons}} 图标。有PNG和矢量格式。免费下载高达100x100像素的PNG格式。",
+				"default": "这是一个{{icons}} 图标。它是由icons8制作的{{iconsCount}} 个扁平图标集合的一部份。这些图标由一个独立的图标设计团队遵照iOS, Windows, 和Android的准则设计。保证稳定的质量。有PNG和矢量格式（SVG, EPS, 和PDF）。"
+			},
+			"IDEA_TITLE": "{{name}} 图标的想法",
+			"IDEA_AUTHOR": "由 {{author}}",
+			"IDEA_SUBTITLE": "我们收到的想法",
+			"IDEA_AND_CREATED": "创造图标在",
+			"STORY_TITLE": "关于 {{name}} 图标的故事"
+		},
+		"GRID_TOOLTIP": {
+			"CLASSIC": "有标签",
+			"ICONS": "仅图标",
+			"GRID": "表格视图"
+		},
+		"DROPDOWN_SIZE": {
+			"CUSTOM": "自定义…"
+		}
+	},
+	"PLATFORMS": {
+		"ios7": {
+			"SHORT_TITLE": "iOS",
+			"TITLE": "免费的iOS图标",
+			"DESCRIPTION": "<p>我们的iOS图标包遵循Apple的 <a href=\"https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/custom-icons/\">指南</a> 。这些图标是50×50像素的 <a href=\"https://icons8.com/articles/make-pixel-perfect-icons/\">像素完美</a>笔触为2像素的轮廓风格图标。所有图标都有填充版本。此包适用于具有垂直列表的iOS应用程序（如iOS Mail App）。</p><p>这是迄今为止我们最受欢迎的图标包。 Icons8团队在内部创建了所有图标，我们的高级图标设计师Alex在iOS 7发布后立即启动了这个图标包，并一直在绘制和监督它。</p>",
+			"FEATURES": "<p>像素完美，50×50像素</p><p>线宽2像素</p><p>填充版</p>",
+			"CATEGORY_TITLE": "{{title}} iOS图标",
+			"NEW_ICONS": "新的iOS 图标",
+			"SEARCH_TITLE": "{{term}} iOS图标"
+		},
+		"androidL": {
+			"SHORT_TITLE": "材料填充",
+			"TITLE": "Material Design图标",
+			"DESCRIPTION": "<p>此包适用于任何Android应用程序。这些系统图标表示常见操作，文件，设备和目录。</p><p>我们的Material填充图标包遵循Google的material <a href=\"https://material.io/design/iconography/system-icons.html#design-principles\">指南</a> ，包括最新的 <a href=\"https://material.io/design/iconography/system-icons.html#icon-themes\">图标主题</a> （每个图标的<a href=\"/icons/material\">填充</a>，轮廓，圆角，双色和尖锐版本）。所有主题都是24×24像素的像素完美。</p><p>Material图标包继承了先前的Android图标包，Ice Cream。</p><p>Icons8团队在内部创建了所有图标。我们的高级偶像设计师Alex在iOS 7发布后立即启动了这个图标包，并一直在绘制和监督它。</p>",
+			"FEATURES": "<p>适用于Android和Google Material</p><p>像素完美，24×24像素</p><p>5个主题：填充，轮廓，圆润，双色调和锐利</p>",
+			"CATEGORY_TITLE": "{{title}} Material Design风格的图标",
+			"NEW_ICONS": "Material设计风格的新图标",
+			"SEARCH_TITLE": "{{term}} Material设计风格的图标"
+		},
+		"m_outlined": {
+			"SHORT_TITLE": "Material轮廓",
+			"TITLE": "免费Material轮廓图标",
+			"DESCRIPTION": "<p>这些图标是24×24个像素的 <a href=\"/icons/material-outlined\">像素完美</a> 图标，有PNG，SVG和PDF格式可用。与其他网站不同，Icons8在内部创建了大部分图标，确保了稳定的质量。</p>",
+			"FEATURES": "<p>适用于Android和Google Material</p><p>像素完美，24×24像素</p><p>5个主题：填充，轮廓，圆润，双色调和锐利</p>",
+			"CATEGORY_TITLE": "{{title}} Material轮廓风格图标",
+			"NEW_ICONS": "Material轮廓风格的新图标",
+			"SEARCH_TITLE": "{{term}} Material轮廓风格图标"
+		},
+		"m_rounded": {
+			"SHORT_TITLE": "Material圆形图标",
+			"TITLE": "免费Material圆形图标",
+			"DESCRIPTION": "<p>这些图标是24×24个像素的 <a href=\"/icons/material-rounded\">像素完美</a> 图标，有PNG，SVG和PDF格式可用。与其他网站不同，Icons8在内部创建了大部分图标，确保了稳定的质量。</p>",
+			"FEATURES": "<p>适用于Android和Google Material</p><p>像素完美，24×24像素</p><p>5个主题：填充，轮廓，圆润，双色调和锐利</p>",
+			"CATEGORY_TITLE": "{{title}} Material圆形风格图标",
+			"NEW_ICONS": "Material圆形风格的新图标",
+			"SEARCH_TITLE": "{{term}} Material圆形风格图标"
+		},
+		"m_two_tone": {
+			"SHORT_TITLE": "Material二色",
+			"TITLE": "免费Material双色调图标",
+			"DESCRIPTION": "<p>这些图标是24×24个像素的 <a href=\"/icons/material-two-tone\">像素完美</a> 图标，有PNG，SVG和PDF格式可用。与其他网站不同，Icons8在内部创建了大部分图标，确保了稳定的质量。</p>",
+			"FEATURES": "<p>适用于Android和Google Material</p><p>像素完美，24×24像素</p><p>5个主题：填充，轮廓，圆润，双色调和锐利</p>",
+			"CATEGORY_TITLE": "{{title}} Material双色调风格图标",
+			"NEW_ICONS": "Material双色调风格新图标",
+			"SEARCH_TITLE": "{{term}} Material双色调风格图标"
+		},
+		"m_sharp": {
+			"SHORT_TITLE": "Material尖锐",
+			"TITLE": "免费Material尖锐图标",
+			"DESCRIPTION": "<p>这些图标是24×24个像素的 <a href=\"/icons/material-sharp\">像素完美</a> 图标，有PNG，SVG和PDF格式可用。与其他网站不同，Icons8在内部创建了大部分图标，确保了稳定的质量。</p>",
+			"FEATURES": "<p>适用于Android和Google Material</p><p>像素完美，24×24像素</p><p>5个主题：填充，轮廓，圆润，双色调和锐利</p>",
+			"CATEGORY_TITLE": "{{title}} Material尖锐风格的图标",
+			"NEW_ICONS": "Material尖锐风格的新图标",
+			"SEARCH_TITLE": "{{term}} Material尖锐风格的图标"
+		},
+		"ios11": {
+			"SHORT_TITLE": "iOS字形",
+			"TITLE": "免费的iOS图标",
+			"DESCRIPTION": "<p>我们的iOS Glyph图标包遵循Apple的指导原则。 iOS Glyph图标在30 x 30 像素的画布上创建，笔触宽度一致为2 像素。此图标包包适用于带有选项卡的iOS应用程序，如时钟，照片或健康等应用程序。</p>",
+			"FEATURES": "<p>填充图标</p><p>像素完美，30×30像素</p><p>线宽2像素</p>",
+			"CATEGORY_TITLE": "{{title}} iOS字形图标",
+			"NEW_ICONS": "新的iOS Glyph图标",
+			"SEARCH_TITLE": "{{term}} iOS Glyph图标"
+		},
+		"color": {
+			"SHORT_TITLE": "彩色",
+			"TITLE": "免费彩色图标",
+			"DESCRIPTION": "<p>这些图标是48×48个像素的 <a href=\"/icons/color\">像素完美</a> 图标，有PNG，SVG和PDF格式可用。与其他网站不同，Icons8在内部创建了大部分图标，确保了稳定的质量。</p>",
+			"FEATURES": "像素完美的<p>彩色图标</p><p>，48×48像素</p><p>线宽2像素</p>",
+			"CATEGORY_TITLE": "{{title}} 彩色图标",
+			"NEW_ICONS": "新彩色图标",
+			"SEARCH_TITLE": "{{term}} 彩色图标"
+		},
+		"p1em": {
+			"SHORT_TITLE": "简单小",
+			"TITLE": "免费简单的小图标",
+			"DESCRIPTION": "<p>此图标包是专门为将图标用作字体而创建的。所有图标都在字体基线上对齐，因此是用作字体的最佳选择（例如：在按钮上）</p>",
+			"FEATURES": "<p>像素完美，16x16像素</p><p>线宽1 像素</p><p>作为字体创建</p>",
+			"CATEGORY_TITLE": "小 {{title}} 图标",
+			"NEW_ICONS": "新的小图标",
+			"SEARCH_TITLE": "小 {{term}} 图标"
+		},
+		"win10": {
+			"SHORT_TITLE": "Windows 10",
+			"TITLE": "免费的Windows 10图标",
+			"DESCRIPTION": "<p>我们的Windows 10图标包遵循Microsoft的指导原则。 Windows 10大纲图标在32x32 px画布上创建，具有锐角和一致的笔画宽度2 px。此包适用于任何Windows 10应用程序。</p>",
+			"FEATURES": "<p>像素完美，32×32像素</p><p>线宽2像素</p><p>锐角</p>",
+			"CATEGORY_TITLE": "{{title}} 适用于Windows 10的图标",
+			"NEW_ICONS": "新的Windows 10图标",
+			"SEARCH_TITLE": "{{term}} Windows 10图标"
+		},
+		"android": {
+			"SHORT_TITLE": "冰激凌",
+			"TITLE": "免费安卓冰淇淋图标",
+			"DESCRIPTION": "<p>这些图标是在24x24 px画布上创建的，画笔的一致行程宽度为2像素。此包适用于Android OS 4及更早版本的任何应用程序。</p>",
+			"FEATURES": "<p>像素完美，24x24像素</p><p>线宽2 像素</p><p>适用于Android OS 4及更早版本 </p>",
+			"CATEGORY_TITLE": "安卓风格的 {{title}} 图标",
+			"NEW_ICONS": "安卓冰淇淋的新图标",
+			"SEARCH_TITLE": "{{term}} 安卓冰淇淋图标"
+		},
+		"win8": {
+			"SHORT_TITLE": "Windows Metro",
+			"TITLE": "免费的Windows Metro图标",
+			"DESCRIPTION": "<p>这是Windows 8时代的第一个Microsoft单色图标包。这是平面设计的重要一步，也是Icons8的第一个图标包。我们将永远爱你，<a href=\"/metro\">Metro</a>。</p>",
+			"FEATURES": "<p>像素完美，26x26像素</p><p>适用于Windows 8</p><p>Glyph图标</p>",
+			"CATEGORY_TITLE": "{{title}} Metro图标（Windows 8）",
+			"NEW_ICONS": "Metro图标（Windows 8）的新图标",
+			"SEARCH_TITLE": "{{term}} Metro图标（Windows 8）"
+		},
+		"office": {
+			"SHORT_TITLE": "Office",
+			"TITLE": "Microsoft Office的免费图标",
+			"DESCRIPTION": "<p>这是我们的第一个响应式图标包。每个图标都以四种不同的尺寸创建，具有不同的细节层次。首先，每个图标都有一个小型和大型版本（就像Microsoft Office工具栏，Office功能区上的一样）：16x16, 30x30像素。其次，每个图标都有低分辨率和高清版本（40x40,80x80）。这形成了四种尺寸，每种尺寸都是单独手动绘制的。</p><p>此图标包适用于Microsoft Office风格的任何应用程序。 </p>",
+			"FEATURES": "<p>像素完美，4种尺寸</p><p>4种尺寸：16,30,40,80像素</p><p>边框宽度1 像素</p>",
+			"CATEGORY_TITLE": "{{title}} Microsoft Office工具栏的图标",
+			"NEW_ICONS": "Microsoft Office工具栏的新图标",
+			"SEARCH_TITLE": "{{term}} Microsoft Office工具栏的图标"
+		},
+		"ultraviolet": {
+			"SHORT_TITLE": "蓝色UI",
+			"TITLE": "免费的蓝色UI图标",
+			"DESCRIPTION": "<p>由于蓝色主题在UI中非常受欢迎，我们的设计师 <a href=\"https://dribbble.com/imargarita\">Margarita</a> 决定为您创建这个包。这个图标包是我们 <a href=\"/icon/new-icons/office\">office图标包</a> 的蓝色版本，带有圆角。</p>",
+			"FEATURES": "<p>像素完美，40x40像素</p><p>圆角</p><p>边框宽度1像素</p>",
+			"CATEGORY_TITLE": "蓝色 {{title}} 图标",
+			"NEW_ICONS": "新的蓝色图标",
+			"SEARCH_TITLE": "蓝色 {{term}} 图标"
+		},
+		"dusk": {
+			"SHORT_TITLE": "可爱的颜色",
+			"TITLE": "免费可爱的颜色图标",
+			"DESCRIPTION": "<p>可爱彩色是一种装饰卡通图标风格。每个图标都用短线装饰，并有一些阴影和高光。可爱彩色是 <a href=\"/icon/new-icons/wired\">可爱轮廓</a> 图标样式的彩色版本，适用于任何桌面，Web应用程序或演示文稿。</p>",
+			"FEATURES": "<p>像素完美，64x64像素</p><p>边框宽度2像素</p><p>用短线装饰</p>",
+			"CATEGORY_TITLE": "{{title}}，装饰颜色图标",
+			"NEW_ICONS": "新的装饰彩色图标",
+			"SEARCH_TITLE": "{{term}}，装饰彩色图标"
+		},
+		"Dusk_Wired": {
+			"SHORT_TITLE": "可爱的轮廓",
+			"TITLE": "免费可爱的轮廓图标",
+			"DESCRIPTION": "<p>可爱轮廓是一个装饰卡通图标风格，用短线装饰。此图标包适用于任何桌面，Web应用程序或演示文稿。 <a href=\"/icon/new-icons/wired\">可爱轮廓</a> 是 <a href=\"/icon/new-icons/dusk\">可爱彩色</a> 图标样式的轮廓版本。</p>",
+			"FEATURES": "<p>像素完美，64x64像素</p><p>边框宽度2像素</p><p>用短线装饰</p>",
+			"CATEGORY_TITLE": "{{title}}，装饰轮廓图标",
+			"NEW_ICONS": "新的装饰轮廓图标",
+			"SEARCH_TITLE": "{{term}}，装饰轮廓图标"
+		},
+		"nolan": {
+			"SHORT_TITLE": "渐变线",
+			"TITLE": "免费的渐变线图标",
+			"DESCRIPTION": "<p>与 <a href=\"/icon/new-icons/color\">彩色图标</a>对比，渐变线是第一个具有渐变填充的图标包。此包中的大多数图标形状都是基于方形和矩形的几何形状。 </p>",
+			"FEATURES": "<p>像素完美，64x64像素</p><p>渐变填充</p><p>方形或矩形</p>",
+			"CATEGORY_TITLE": "{{title}}，渐变图标",
+			"NEW_ICONS": "新的渐变图标",
+			"SEARCH_TITLE": "{{term}}，渐变图标"
+		},
+		"dotty": {
+			"SHORT_TITLE": "虚线",
+			"TITLE": "免费的虚线图标",
+			"DESCRIPTION": "<p>在80x80像素的画布上创建虚线图标，笔触宽度一致为2像素。就像 <a href=\"/icon/new-icons/ios\">iOS图标</a>一样，这些都被设计为轮廓。但这些都是由2个像素的点装饰的。此图标包适用于设计简洁或清晰的应用程序或网站。</p>",
+			"FEATURES": "<p>像素完美，80x80像素</p><p>轮廓图标</p><p>用点装饰</p>",
+			"CATEGORY_TITLE": "{{title}}，漂亮的装饰图标",
+			"NEW_ICONS": "新的，美丽的装饰图标",
+			"SEARCH_TITLE": "{{term}}，美丽的装饰图标"
+		},
+		"plasticine": {
+			"SHORT_TITLE": "彩色手绘",
+			"TITLE": "免费彩色手绘图标",
+			"DESCRIPTION": "<p>彩色手绘是一种装饰卡通图标风格。内部装饰边框由不规则空间分割，适用于任何桌面，Web应用程序或任何演示文稿。彩色手绘是 <a href=\"/icon/pack/travel/carbon-copy\">手绘<a> 图标风格的彩色版本。</p>",
+			"FEATURES": "<p>基于100x100 像素画布</p><p>边框宽度2像素</p><p>装饰性内边框1 像素</p>",
+			"CATEGORY_TITLE": "卡通图标的 {{title}}",
+			"NEW_ICONS": "新的卡通图标",
+			"SEARCH_TITLE": "{{term}} 的卡通图标"
+		},
+		"carbon_copy": {
+			"SHORT_TITLE": "手绘",
+			"TITLE": "免费手绘图标",
+			"DESCRIPTION": "<p>手绘是一种装饰卡通图标风格。内部装饰边框由不规则空间分割。此图标包适用于任何桌面，Web应用程序或任何演示文稿，并且是 <a href=\"/icon/pack/travel/plasticine\">彩色手绘</a> 图标风格的一个版本。</p>",
+			"FEATURES": "<p>基于100x100 像素画布</p><p>边框宽度2像素</p><p>装饰性内边框1 像素</p>",
+			"CATEGORY_TITLE": "卡通图标的 {{title}}",
+			"NEW_ICONS": "新的卡通图标",
+			"SEARCH_TITLE": "{{term}} 的卡通图标"
+		},
+		"clouds": {
+			"SHORT_TITLE": "云",
+			"TITLE": "免费的云图标",
+			"DESCRIPTION": "<p>云朵是一种装饰卡通图标风格，就像 <a href=\"/icon/set/wall-mount-camera/plasticine\">彩色手绘</a> 和 <a href=\"/icon/set/wall-mount-camera/carbon-copy\">手绘</a>一样，这些图标基于100x100 像素画布。此图标包适用于任何桌面，Web应用程序或任何演示文稿</p>",
+			"FEATURES": "<p>基于100x100像素画布</p><p>装饰背景</p><p>由云朵装饰</p>",
+			"CATEGORY_TITLE": "{{title}} 插图",
+			"NEW_ICONS": "新的插图",
+			"SEARCH_TITLE": "{{term}} 插图"
+		},
+		"bubbles": {
+			"SHORT_TITLE": "圆形气泡",
+			"TITLE": "免费泡泡图标",
+			"DESCRIPTION": "<p>圆泡泡是一种装饰卡通图标风格。就像 <a href=\"/icon/set/wall-mount-camera/plasticine\">彩色手绘</a> 和 <a href=\"/icon/set/wall-mount-camera/carbon-copy\">手绘</a>一样，这些图标基于100x100 像素画布，适合任何桌面，Web应用程序或演示文稿。</p>",
+			"FEATURES": "<p>基于100x100像素画布</p><p>圆形背景</p><p>由圆圈装饰</p>",
+			"CATEGORY_TITLE": "{{title}} 矢量",
+			"NEW_ICONS": "新的矢量",
+			"SEARCH_TITLE": "{{term}} 矢量"
+		},
+		"cotton": {
+			"SHORT_TITLE": "粉彩",
+			"TITLE": "免费的粉彩图标",
+			"DESCRIPTION": "<p>粉彩是一款基于128x128 像素画布的卡通彩色图标包。所有图标都有粗边框。就像 <a href=\"/icon/new-icons/dusk\">可爱彩色</a> 或 <a href=\"/icon/set/wall-mount-camera/plasticine\">彩色手绘</a> 一样，这个图标包是任何桌面，Web应用程序或任何演示文稿的好选择。</p>",
+			"FEATURES": "<p>基于128x128像素画布</p><p>边框宽度6像素</p><p>带粗边框的颜色图标</p>",
+			"CATEGORY_TITLE": "{{title}} 矢量图像",
+			"NEW_ICONS": "新的矢量图像",
+			"SEARCH_TITLE": "{{term}} 矢量图像"
+		},
+		"flat_round": {
+			"SHORT_TITLE": "图表",
+			"TITLE": "免费圆形图表图标",
+			"DESCRIPTION": "<p>基于512x512 像素画布的圆形图表图标，主对象放置在彩色圆圈内。这些图标适用于复杂的背景，照片等</p>",
+			"FEATURES": "<p>基于512x512 像素画布</p><p>圆形图标</p><p>颜色图标</p>",
+			"CATEGORY_TITLE": "{{title}} 圆形图标",
+			"NEW_ICONS": "新的圆形图标",
+			"SEARCH_TITLE": "{{term}} 圆形图标"
+		},
+		"doodle": {
+			"SHORT_TITLE": "涂鸦",
+			"TITLE": "免费涂鸦图标",
+			"DESCRIPTION": "<p>涂鸦是一种装饰卡通图标样式，像 <a href=\"/icon/set/wall-mount-camera/plasticine\">彩色手绘</a> 和 <a href=\"/icon/set/wall-mount-camera/carbon-copy\">手绘</a>一样，这些图标基于100x100 像素画布。此图标包适用于任何桌面，Web应用程序或任何演示文稿</p>",
+			"FEATURES": "<p>基于512x512 像素画布</p><p>手绘图标</p><p>颜色图标</p>",
+			"CATEGORY_TITLE": "{{title}} 手绘图标",
+			"NEW_ICONS": "新的手绘图标",
+			"SEARCH_TITLE": "{{term}} 的手绘图标"
+		}
+	},
+	"ICON": {
+		"ICONS": {
+			"ICONS_LABEL": "图标",
+			"INDEX": {
+				"HOW_IT_WORKS": "它是如何工作的",
+				"POPULAR_STYLES": "流行风格",
+				"OTHER_STYLES": "其他酷炫风格"
+			},
+			"NEW": {
+				"POPULAR_STYLES": "流行风格",
+				"OTHER_STYLES": "其他酷炫风格",
+				"NEW_PAGE_DESCRIPTION": "在我们的社区可以向我们<a href=\"https://icons8.com/request-icon/\">请求制作图标</a>，我们每天都画。嘿，社区的同志，我们爱你！不管是每天的灵感，抑或仅仅是氛围，你让我们每天都快乐。"
+			},
+			"SET": {
+				"POPULAR_STYLES": "流行风格",
+				"OTHER_STYLES": "其他酷炫风格",
+				"COOL_STYLES": "酷炫的风格",
+				"SEARCH_TITLE": "{{term}} 图标"
+			},
+			"PACK": {
+				"POPULAR_STYLES": "流行风格",
+				"OTHER_STYLES": "其他酷炫风格"
+			}
+		},
+		"COMPONENTS": {
+			"ACCORDION": {
+				"MORE": "更多",
+				"SHOW_MORE": "显示更多...",
+				"OTHER_STYLES": "其他风格的 {{icon}} 图标",
+				"RELATED": "关于",
+				"COLLECT": "收藏"
+			},
+			"LEFT_SIDEBAR": {
+				"STYLE": "风格",
+				"STYLE_POPULAR": "受欢迎的风格",
+				"STYLE_MATERIAL": "Material",
+				"STYLE_OUTLINE": "轮廓",
+				"STYLE_FILLED": "填充",
+				"STYLE_COLOR": "彩色",
+				"STYLE_TINY": "迷你",
+				"STYLE_ALL": "所有",
+				"CATEGORIES": "分类",
+				"TRENDS": "趋势",
+				"OLD_INTERFACE": "旧界面",
+				"COLLECTIONS": "收藏",
+				"VIEW_ALL": "查看全部"
+			},
+			"COLLECTIONS": {
+				"COLLECTIONS": "收藏",
+				"SET": "设置      ",
+				"SETS": "设置      ",
+				"FAVORITES": "喜爱",
+				"MARK_ICONS": "只需标记心爱的图标 <br/> 即可在以后使用它们。",
+				"DOWNLOAD_AND_EDIT": "下载和 <br/> 编辑多个图标",
+				"CREATE_NEW": "新建",
+				"CREATE_FONTS_SETS": "创建图标字体 <br/> 和SVG集",
+				"STORE": "存储自定义 <br/> 集合",
+				"DRAG_ICONS": "在这里拖动图标",
+				"DRAG_ICONS_PREVIEW": "在这里拖动图标 <br/>",
+				"ICONS": "图标",
+				"ICON": "图标",
+				"EMPTY_STATE_ICON": "There is no icons yet",
+				"AUTOCOLLECTION": "自动生成的集合 <br/>",
+				"EDIT_TITLE": "编辑标题",
+				"DELETE": "删除",
+				"SHARE_COLLECTIONS": "Share collection",
+				"CREATE_PUBLIC_LINK": "Create public link",
+				"DELETE_COLLECTION": "此收藏夹将被删除。是否继续？",
+				"ICON_INFO": "from"
+			},
+			"DOWNLOAD_COLLECTION": {
+				"CHOOSE_SIZES": "尺寸（使用ctrl或cmd选择多个）：",
+				"UNLOCK": "解锁​​​​",
+				"UNLOCK_PRICE": "每月19.90美元",
+				"COLORED_FONT": "从彩色图标生成字体可能会导致问题",
+				"SIZE_N_FORMAT": "任何尺寸和格式的所有图标：<br/> SVG，EPS，PDF，PNG",
+				"NO_LINKING": "无需链接",
+				"ZIP": "单个SVG的ZIP压缩包",
+				"APPS": "桌面应用",
+				"BUY": "以19.90 美元/月的价格购买"
+			},
+			"EFFECTS": {
+				"DONE": "完成",
+				"CANCEL": "取消"
+			},
+			"DOWNLOAD_SELECTOR": {
+				"PRICING": "查看价格",
+				"LOGIN": "登录"
+			}
+		}
+	},
+	"REQUEST_ICONS": {
+		"TITLE": "请求图标",
+		"WEBAPP_REQUEST": {
+			"TEXT": "缺少图标？请告诉我们您需要的图标，我们将免费绘制。"
+		}
+	}
+}

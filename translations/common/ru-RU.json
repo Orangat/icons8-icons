@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "Вход с Icons8",
+      "LOGOUT": "Выход",
+      "ACCOUNT": "Аккаунт",
+      "PROFILE": "Профиль"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "Вход",
+      "REGISTER_TITLE": "Регистрация",
+      "DESCRIPTION": "Есть аккаунт Icons8? Смело входите в любой из наших продуктов.",
+      "LOGIN_SWITCH": "Уже есть аккаунт? <strong>Войти</strong>",
+      "REGISTER_SWITCH": "У вас еще нет аккаунта? <strong>Регистрация</strong>",
+      "TERMS": "Примите наши <a href=\"https://icons8.com/terms-and-conditions\">условия</a>",
+      "SUBSCRIBE": "Подписаться на <a href=\"https://icons8.com/blog\">Icons8 Mag</a> (<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">пример электронной почты</a>)",
+      "PLACEHOLDER_NAME": "Имя",
+      "PLACEHOLDER_EMAIL": "Эл. почта",
+      "PLACEHOLDER_PASSWORD": "Пароль"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "Ресурсы для дизайна",
+        "ICONS": "Иконки",
+        "PHOTOS": "Moose фото",
+        "OUCH": "Ouch! иллюстрации",
+        "MUSIC": "Музыка Fugue"
+      },
+      "NAV_APPS": {
+        "TITLE": "Приложения",
+        "PICHON": "Pichon для иконок",
+        "MOOSE": "Moose Editor"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "Об Icons8",
+        "SHORT": "Коротко",
+        "BUSINESS": "Бизнес-модель",
+        "LABS": "Labs"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "Сообщество",
+        "BLOG": "Блог",
+        "FORUM": "Форум"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "Попросить",
+        "ICON": "Иконка",
+        "PHOTO": "Фотосессию",
+        "LUNACY": "Фичу для Lunacy"
+      },
+      "NAV_DEV": {
+        "TITLE": "Разработчикам",
+        "ICONS": "API для иконок",
+        "PHOTOS": "API фотографий",
+        "MUSIC": "API для музыки"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "Поддержка",
+        "FORUM": "Форум",
+        "FAQ": "Вопросы и ответы",
+        "CONTACT": "Напишите нам"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "Лицензии",
+        "FREE": "Бесплатная лицензия",
+        "PAID": "Платная лицензия"
+      },
+      "ACCELERATED": "На серверах",
+      "PRIVACY": "Конфиденциальность",
+      "TERMS": "Пользовательское&nbsp;соглашение"
+    }
+  }
+}

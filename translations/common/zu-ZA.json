@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "crwdns2935726:0crwdne2935726:0",
+      "LOGOUT": "crwdns2935728:0crwdne2935728:0",
+      "ACCOUNT": "crwdns2935730:0crwdne2935730:0",
+      "PROFILE": "crwdns2935732:0crwdne2935732:0"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "crwdns2935734:0crwdne2935734:0",
+      "REGISTER_TITLE": "crwdns2935736:0crwdne2935736:0",
+      "DESCRIPTION": "crwdns2935738:0crwdne2935738:0",
+      "LOGIN_SWITCH": "crwdns2935740:0crwdne2935740:0",
+      "REGISTER_SWITCH": "crwdns2935742:0crwdne2935742:0",
+      "TERMS": "crwdns2935744:0crwdne2935744:0",
+      "SUBSCRIBE": "crwdns2935746:0crwdne2935746:0",
+      "PLACEHOLDER_NAME": "crwdns2935748:0crwdne2935748:0",
+      "PLACEHOLDER_EMAIL": "crwdns2935750:0crwdne2935750:0",
+      "PLACEHOLDER_PASSWORD": "crwdns2935752:0crwdne2935752:0"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "crwdns2935754:0crwdne2935754:0",
+        "ICONS": "crwdns2935756:0crwdne2935756:0",
+        "PHOTOS": "crwdns2935758:0crwdne2935758:0",
+        "OUCH": "crwdns2935760:0crwdne2935760:0",
+        "MUSIC": "crwdns2935762:0crwdne2935762:0"
+      },
+      "NAV_APPS": {
+        "TITLE": "crwdns2935764:0crwdne2935764:0",
+        "PICHON": "crwdns2935766:0crwdne2935766:0",
+        "MOOSE": "crwdns2935768:0crwdne2935768:0"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "crwdns2935770:0crwdne2935770:0",
+        "SHORT": "crwdns2935772:0crwdne2935772:0",
+        "BUSINESS": "crwdns2935774:0crwdne2935774:0",
+        "LABS": "crwdns2935776:0crwdne2935776:0"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "crwdns2935778:0crwdne2935778:0",
+        "BLOG": "crwdns2935780:0crwdne2935780:0",
+        "FORUM": "crwdns2935782:0crwdne2935782:0"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "crwdns2935784:0crwdne2935784:0",
+        "ICON": "crwdns2935786:0crwdne2935786:0",
+        "PHOTO": "crwdns2935788:0crwdne2935788:0",
+        "LUNACY": "crwdns2935790:0crwdne2935790:0"
+      },
+      "NAV_DEV": {
+        "TITLE": "crwdns2935792:0crwdne2935792:0",
+        "ICONS": "crwdns2935794:0crwdne2935794:0",
+        "PHOTOS": "crwdns2935796:0crwdne2935796:0",
+        "MUSIC": "crwdns2935798:0crwdne2935798:0"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "crwdns2935800:0crwdne2935800:0",
+        "FORUM": "crwdns2935802:0crwdne2935802:0",
+        "FAQ": "crwdns2935804:0crwdne2935804:0",
+        "CONTACT": "crwdns2935806:0crwdne2935806:0"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "crwdns2935808:0crwdne2935808:0",
+        "FREE": "crwdns2935810:0crwdne2935810:0",
+        "PAID": "crwdns2935812:0crwdne2935812:0"
+      },
+      "ACCELERATED": "crwdns2935814:0crwdne2935814:0",
+      "PRIVACY": "crwdns2935816:0crwdne2935816:0",
+      "TERMS": "crwdns2935818:0crwdne2935818:0"
+    }
+  }
+}

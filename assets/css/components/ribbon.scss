@@ -1,0 +1,19 @@
+@import '../variables';
+@import '../breakpoints';
+
+.ribbon {
+  position: absolute;
+  z-index: 1;
+  top: 20px;
+  right: -70px;
+  font-size: 20px;
+  font-weight: 300;
+  background-color: darken($color-orange, 6%);
+  color: #fff;
+  padding: .5rem 5rem;
+  transform: rotate(45deg);
+
+  @media (max-width: $responsive-menu-medium) {
+    font-size: 16px;
+  }
+}

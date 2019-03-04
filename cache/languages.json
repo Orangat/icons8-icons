@@ -1,0 +1,82 @@
+[
+  {
+    "code": "de",
+    "locale": "de-DE",
+    "name": "German",
+    "url": "https://icons8.de",
+    "apiUrl": "https://api.icons8.de",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "en",
+    "locale": "en-US",
+    "name": "English",
+    "url": "https://icons8.com",
+    "apiUrl": "https://api.icons8.com",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "es",
+    "locale": "es-ES",
+    "name": "Spanish",
+    "url": "https://iconos8.es",
+    "apiUrl": "https://api.iconos8.es",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "fr",
+    "locale": "fr-FR",
+    "name": "French",
+    "url": "https://icones8.fr",
+    "apiUrl": "https://api.icones8.fr",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "it",
+    "locale": "it-IT",
+    "name": "Italian",
+    "url": "https://icons8.it",
+    "apiUrl": "https://api.icons8.it",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "ja",
+    "locale": "ja-JP",
+    "name": "Japanese",
+    "url": "https://icons8.jp",
+    "apiUrl": "https://api.icons8.jp",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "pl",
+    "locale": "pl-PL",
+    "name": "Polish",
+    "url": "https://pl.icons8.com",
+    "apiUrl": "https://api.icons8.com",
+    "blogUrl": "https://icons8.com/blog/"
+  },
+  {
+    "code": "pt",
+    "locale": "pt-BR",
+    "name": "Portuguese",
+    "url": "https://icons8.com.br",
+    "apiUrl": "https://api.icons8.com.br",
+    "blogUrl": "https://icons8.com/artigos/"
+  },
+  {
+    "code": "ru",
+    "locale": "ru-RU",
+    "name": "Russian",
+    "url": "https://icons8.ru",
+    "apiUrl": "https://api.icons8.ru",
+    "blogUrl": "https://icons8.com/gazeta/"
+  },
+  {
+    "code": "zh",
+    "locale": "zh-CN",
+    "name": "Chinese",
+    "url": "https://icons8.cn",
+    "apiUrl": "https://api.icons8.cn",
+    "blogUrl": "https://icons8.com/blog/"
+  }
+]

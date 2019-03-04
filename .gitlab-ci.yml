@@ -1,0 +1,104 @@
+# ==========================================================================
+variables:
+  HOME_REPO: /home/icon/${CI_COMMIT_SHA}
+  REPO_DIR: /home/icon/icons8-icon
+  GIT_REPO: git@gitlab.icons8.com:icons8/icons8-icon.git
+# ==========================================================================
+
+before_script:
+  - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN registry.icons8.com
+  - apk update && apk add curl
+
+stages:
+  - deploy
+
+# ==========================================================================
+
+project_deploy_dev:
+  stage: deploy
+  image: node:alpine
+  only:
+    - dev
+  before_script:
+    - apk update && apk add curl git bash openssh
+
+    # Run ssh-agent (inside the build environment)
+    - eval $(ssh-agent -s)
+
+    # Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
+    - echo "$TARGET_SERVER_SECRET_KEY" | ssh-add -
+
+    - mkdir ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+
+    - echo "Test ssh connection to dev server"
+    - ssh -p 1308 -T "${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV}"
+
+  script:
+    - echo "Deploy Icon repo on DEV-server"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "[[ -d ${HOME_REPO} ]] && rm -Rf ${HOME_REPO} || echo Directory ${HOME_REPO} no exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "mkdir -p ${HOME_REPO}"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "cd ${HOME_REPO} && git clone --branch dev ${GIT_REPO} ."
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "cd ${HOME_REPO} && npm install"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "cd ${HOME_REPO} && npm run build:dev"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "[[ -L ${REPO_DIR} ]] && rm -f ${REPO_DIR} || echo Symlink ${REPO_DIR} no exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "ln -s ${HOME_REPO} ${REPO_DIR}"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_DEV} "cd ${REPO_DIR} && pm2 delete icon && pm2 start npm --name "icon" -- run start:dev"
+
+# ==========================================================================
+
+project_deploy_prod:
+  stage: deploy
+  image: node:alpine
+  only:
+    - /^v[0-9]*.[0-9]*$/
+  before_script:
+    - apk update && apk add curl git bash openssh
+
+    # Run ssh-agent (inside the build environment)
+    - eval $(ssh-agent -s)
+
+    # Add the SSH key stored in SSH_PRIVATE_KEY variable to the agent store
+    - echo "$TARGET_SERVER_SECRET_KEY" | ssh-add -
+
+    - mkdir ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+
+    - echo "Test ssh connection to production server 1"
+    - ssh -p 1308 -T "${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD}"
+
+    - echo "Test ssh connection to production server 2"
+    - ssh -p 1308 -T "${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2}"
+
+  script:
+    - echo "Deploy Icon repo on PROD-server 1"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "[[ -d ${HOME_REPO} ]] && rm -Rf ${HOME_REPO} || echo Directory ${HOME_REPO} no exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "mkdir -p ${HOME_REPO}"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "cd ${HOME_REPO} && git clone --branch ${CI_COMMIT_REF_NAME} ${GIT_REPO} ."
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "cd ${HOME_REPO} && npm install"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "cd ${HOME_REPO} && npm run build"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "[[ -L ${REPO_DIR} ]] && rm -f ${REPO_DIR} || echo Symlink ${REPO_DIR} no exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "ln -s ${HOME_REPO} ${REPO_DIR}"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "cd ${REPO_DIR} && pm2 delete icon || echo icon process not exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD} "cd ${REPO_DIR} && pm2 start npm --name "icon" -- run start"
+
+    - echo "Deploy Icon repo on PROD-server 2"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "[[ -d ${HOME_REPO} ]] && rm -Rf ${HOME_REPO} || echo Directory ${HOME_REPO} no exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "mkdir -p ${HOME_REPO}"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "cd ${HOME_REPO} && git clone --branch ${CI_COMMIT_REF_NAME} ${GIT_REPO} ."
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "cd ${HOME_REPO} && npm install"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "cd ${HOME_REPO} && npm run build"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "[[ -L ${REPO_DIR} ]] && rm -f ${REPO_DIR} || echo Symlink ${REPO_DIR} no exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "ln -s ${HOME_REPO} ${REPO_DIR}"
+
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "cd ${REPO_DIR} && pm2 delete icon || echo icon process not exist!"
+    - ssh -p 1308 ${TARGET_SERVER_USER}@${TARGET_SERVER_HOST_PROD2} "cd ${REPO_DIR} && pm2 start npm --name "icon" -- run service"
+# ==========================================================================

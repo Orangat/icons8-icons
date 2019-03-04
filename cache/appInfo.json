@@ -1,0 +1,6410 @@
+{
+  "version": "80",
+  "cdnApiUrl": "https://apicdn.icons8.com",
+  "parseAnalytics": {
+    "serverURL": "https://analytics.icons8.com/parse",
+    "appId": "4UeCNf1ATEvLVKANr7QU77T9We9igp",
+    "javascriptKey": "ALs35VuVYY260UPeawEiWw3eIwexiS"
+  },
+  "websocketsUrl": "https://icons8.com:8765",
+  "stripePublicKey": "pk_live_90yYxj8Ba8Lo2pzYSgH0FDOF",
+  "activeLanguages": [
+    {
+      "code": "de",
+      "locale": "de-DE",
+      "name": "German",
+      "url": "https://icons8.de",
+      "apiUrl": "https://api.icons8.de",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "en",
+      "locale": "en-US",
+      "name": "English",
+      "url": "https://icons8.com",
+      "apiUrl": "https://api.icons8.com",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "es",
+      "locale": "es-ES",
+      "name": "Spanish",
+      "url": "https://iconos8.es",
+      "apiUrl": "https://api.iconos8.es",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "fr",
+      "locale": "fr-FR",
+      "name": "French",
+      "url": "https://icones8.fr",
+      "apiUrl": "https://api.icones8.fr",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "it",
+      "locale": "it-IT",
+      "name": "Italian",
+      "url": "https://icons8.it",
+      "apiUrl": "https://api.icons8.it",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "ja",
+      "locale": "ja-JP",
+      "name": "Japanese",
+      "url": "https://icons8.jp",
+      "apiUrl": "https://api.icons8.jp",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "pl",
+      "locale": "pl-PL",
+      "name": "Polish",
+      "url": "https://pl.icons8.com",
+      "apiUrl": "https://api.icons8.com",
+      "blogUrl": "https://icons8.com/blog/"
+    },
+    {
+      "code": "pt",
+      "locale": "pt-BR",
+      "name": "Portuguese",
+      "url": "https://icons8.com.br",
+      "apiUrl": "https://api.icons8.com.br",
+      "blogUrl": "https://icons8.com/artigos/"
+    },
+    {
+      "code": "ru",
+      "locale": "ru-RU",
+      "name": "Russian",
+      "url": "https://icons8.ru",
+      "apiUrl": "https://api.icons8.ru",
+      "blogUrl": "https://icons8.com/gazeta/"
+    },
+    {
+      "code": "zh",
+      "locale": "zh-CN",
+      "name": "Chinese",
+      "url": "https://icons8.cn",
+      "apiUrl": "https://api.icons8.cn",
+      "blogUrl": "https://icons8.com/blog/"
+    }
+  ],
+  "iconsCount": "92,100",
+  "iconsCounts": {
+    "ios7": "13,300",
+    "ios11": "5,400",
+    "androidL": "5,700",
+    "m_outlined": "2,900",
+    "m_rounded": "2,900",
+    "m_two_tone": "3,000",
+    "m_sharp": "2,800",
+    "color": "5,900",
+    "win10": "4,700",
+    "office": "15,800",
+    "Dusk_Wired": "2,200",
+    "dusk": "2,200",
+    "ultraviolet": "3,700",
+    "dotty": "3,400",
+    "nolan": "1,500",
+    "p1em": "4,500",
+    "cotton": "2,000",
+    "android": "1,400",
+    "doodle": "870",
+    "flat_round": "410",
+    "win8": "3,200",
+    "clouds": "720",
+    "bubbles": "630",
+    "plasticine": "580",
+    "carbon_copy": "580",
+    "pastel_glyph": "680"
+  },
+  "platforms": {
+    "all": {
+      "id": "0",
+      "apiCode": "all",
+      "seoCode": "all",
+      "title": "All",
+      "fullTitle": "All Icon Packs",
+      "description": "",
+      "shortDescription": "All Icon Packs",
+      "url": "/",
+      "order": "0",
+      "size": "",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 50,
+          "about": 50,
+          "isAll": true
+        },
+        {
+          "title": 100,
+          "about": 100,
+          "isAll": true
+        },
+        {
+          "title": 500,
+          "about": 500,
+          "premium": true,
+          "isAll": true
+        }
+      ],
+      "base64Encode": false,
+      "preview": false,
+      "effects": true,
+      "overlays": null,
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "flags",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "men",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "nature",
+        "network",
+        "operating-systems",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "programming-file-types",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather",
+        "women"
+      ]
+    },
+    "ios7": {
+      "id": "2",
+      "apiCode": "ios7",
+      "seoCode": "ios",
+      "title": "iOS",
+      "fullTitle": "iPhone/iOS",
+      "description": "",
+      "shortDescription": "iOS style",
+      "url": "/i",
+      "order": "10",
+      "size": "50",
+      "multiSizes": false,
+      "switchFilled": true,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 50,
+          "about": 50
+        },
+        {
+          "title": 100,
+          "about": 100
+        },
+        {
+          "title": 150,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 250,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 500,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/iOS_SM_preview@2x.png",
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/ios7/",
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "flags",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "nature",
+        "network",
+        "operating-systems",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "ios11": {
+      "id": "19",
+      "apiCode": "ios11",
+      "seoCode": "ios-glyphs",
+      "title": "iOS Glyph",
+      "fullTitle": "iOS Glyph",
+      "description": "Apple introduced a new icon style for the tab bar icons. They are not thin outline icons anymore; these are the filled icons. Apple calls them the \"glyphs.\"",
+      "shortDescription": "",
+      "url": "/ios",
+      "order": "12",
+      "size": "30",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 30,
+          "about": 50
+        },
+        {
+          "title": 60,
+          "about": 75
+        },
+        {
+          "title": 90,
+          "about": 100
+        },
+        {
+          "title": 120,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/icons8_ios11_preview@2x.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "androidL": {
+      "id": "5",
+      "apiCode": "androidL",
+      "seoCode": "material",
+      "title": "Material Filled",
+      "fullTitle": "Material Design Filled",
+      "description": "",
+      "shortDescription": "Material Design style",
+      "url": "/l",
+      "order": "13",
+      "size": "24",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 24
+        },
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 144,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/androidL/",
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "operating-systems",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "m_outlined": {
+      "id": "28",
+      "apiCode": "m_outlined",
+      "seoCode": "material-outlined",
+      "title": "Material Outlined",
+      "fullTitle": "Material Design Outlined",
+      "description": "",
+      "shortDescription": "",
+      "url": "m_o",
+      "order": "14",
+      "size": "24",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 24,
+          "about": 50
+        },
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 192,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 384,
+          "premium": true,
+          "extra": true
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/androidL/",
+      "packs": [
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "m_rounded": {
+      "id": "29",
+      "apiCode": "m_rounded",
+      "seoCode": "material-rounded",
+      "title": "Material Rounded",
+      "fullTitle": "Material Design Rounded",
+      "description": "",
+      "shortDescription": "",
+      "url": "m_r",
+      "order": "15",
+      "size": "24",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 24,
+          "about": 50
+        },
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 192,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 384,
+          "premium": true,
+          "extra": true
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/androidL/",
+      "packs": [
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "m_two_tone": {
+      "id": "30",
+      "apiCode": "m_two_tone",
+      "seoCode": "material-two-tone",
+      "title": "Material Two Tone",
+      "fullTitle": "Material Design Two Tone",
+      "description": "",
+      "shortDescription": "",
+      "url": "m_tt",
+      "order": "16",
+      "size": "24",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 24,
+          "about": 50
+        },
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 192,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 384,
+          "premium": true,
+          "extra": true
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "m_sharp": {
+      "id": "31",
+      "apiCode": "m_sharp",
+      "seoCode": "material-sharp",
+      "title": "Material Sharp",
+      "fullTitle": "Material Design Sharp",
+      "description": "",
+      "shortDescription": "",
+      "url": "m_sh",
+      "order": "17",
+      "size": "24",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 24,
+          "about": 50
+        },
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 192,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 384,
+          "premium": true,
+          "extra": true
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/androidL/",
+      "packs": [
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "color": {
+      "id": "6",
+      "apiCode": "color",
+      "seoCode": "color",
+      "title": "Color",
+      "fullTitle": "Flat Color",
+      "description": "",
+      "shortDescription": "Flat color style",
+      "url": "/c",
+      "order": "19",
+      "size": "48",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 144,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/color/",
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "flags",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "operating-systems",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "win10": {
+      "id": "7",
+      "apiCode": "win10",
+      "seoCode": "windows",
+      "title": "Windows 10",
+      "fullTitle": "Windows 10",
+      "description": "",
+      "shortDescription": "Windows 10 style",
+      "url": "/w10",
+      "order": "20",
+      "size": "32",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 32
+        },
+        {
+          "title": 64,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 128,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/win10/",
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "flags",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "operating-systems",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "office": {
+      "id": "8",
+      "apiCode": "office",
+      "seoCode": "office",
+      "title": "Office",
+      "fullTitle": "Icons for Microsoft Office",
+      "description": "",
+      "shortDescription": "Office style",
+      "url": "/of",
+      "order": "70",
+      "size": "40",
+      "multiSizes": true,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 16
+        },
+        {
+          "title": 30
+        },
+        {
+          "title": 40,
+          "about": 40
+        },
+        {
+          "title": 80,
+          "about": 100
+        },
+        {
+          "title": 160,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 480
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "flags",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "Dusk_Wired": {
+      "id": "17",
+      "apiCode": "Dusk_Wired",
+      "seoCode": "wired",
+      "title": "Cute Outline",
+      "fullTitle": "Cute Outline",
+      "description": "",
+      "shortDescription": "",
+      "url": "/wired",
+      "order": "75",
+      "size": "64",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 64,
+          "about": 50
+        },
+        {
+          "title": 128,
+          "about": 100
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/wired_preview_520x254.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "dusk": {
+      "id": "16",
+      "apiCode": "dusk",
+      "seoCode": "dusk",
+      "title": "Cute Color",
+      "fullTitle": "Cute Color",
+      "description": "",
+      "shortDescription": "",
+      "url": "/dusk",
+      "order": "78",
+      "size": "64",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 64,
+          "about": 64
+        },
+        {
+          "title": 128,
+          "premium": true,
+          "about": 128
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 1,
+      "preview": "https://maxcdn.icons8.com/platform_preview/Facebook Picture 1@2x.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "baby",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "ultraviolet": {
+      "id": "9",
+      "apiCode": "ultraviolet",
+      "seoCode": "ultraviolet",
+      "title": "Blue UI",
+      "fullTitle": "Blue UI",
+      "description": "",
+      "shortDescription": "",
+      "url": "/uv",
+      "order": "80",
+      "size": "40",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 40,
+          "about": 50
+        },
+        {
+          "title": 80
+        },
+        {
+          "title": 120,
+          "about": 100
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/Ultraviolet_preview_website.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "flags",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "dotty": {
+      "id": "12",
+      "apiCode": "dotty",
+      "seoCode": "dotty",
+      "title": "Dotted",
+      "fullTitle": "Dotted",
+      "description": "",
+      "shortDescription": "",
+      "url": "/dotty",
+      "order": "85",
+      "size": "80",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 80,
+          "about": 100
+        },
+        {
+          "title": 160,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 150,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "about": 250
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/SM_preview@2x.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "nolan": {
+      "id": "10",
+      "apiCode": "nolan",
+      "seoCode": "nolan",
+      "title": "Gradient",
+      "fullTitle": "Gradient Line",
+      "description": "",
+      "shortDescription": "",
+      "url": "/nolan",
+      "order": "90",
+      "size": "64",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 64,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 128,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 1,
+      "preview": "https://maxcdn.icons8.com/platform_preview/Nolan preview-44.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "computer-hardware",
+        "data",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "network",
+        "photo-video",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "p1em": {
+      "id": "11",
+      "apiCode": "p1em",
+      "seoCode": "small",
+      "title": "Simple Small",
+      "fullTitle": "Simple Small",
+      "description": "",
+      "shortDescription": "",
+      "url": "/1em",
+      "order": "100",
+      "size": "16",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 16
+        },
+        {
+          "title": 32
+        },
+        {
+          "title": 64,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 128,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/SM_preview_1em@2x.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "cotton": {
+      "id": "18",
+      "apiCode": "cotton",
+      "seoCode": "cotton",
+      "title": "Pastel",
+      "fullTitle": "Pastel",
+      "description": "",
+      "shortDescription": "",
+      "url": "/cotton",
+      "order": "140",
+      "size": "128",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 64,
+          "about": 50
+        },
+        {
+          "title": 128,
+          "about": 100
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "about": 250,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": "https://maxcdn.icons8.com/platform_preview/cotton@2x.png",
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "baby",
+        "beauty",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "android": {
+      "id": "3",
+      "apiCode": "android",
+      "seoCode": "android",
+      "title": "Ice Cream",
+      "fullTitle": "Android Ice Cream",
+      "description": "We suggest using <a class=\"c-pretty-link m-blue\" href=\"/web-app/new-icons/androidL\">Material Icons</a> instead of this one, but hey, these are great too. You can also <a class=\"c-pretty-link m-blue\" href=\"/request-icon/\">order some new icons</a> in this style; just make sure you specify Android KitKat style explicitly when ordering.",
+      "shortDescription": "Android 4 style",
+      "url": "/a",
+      "order": "150",
+      "size": "24",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 24
+        },
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 144,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/android/",
+      "packs": [
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "photo-video",
+        "plants",
+        "profile",
+        "science",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "doodle": {
+      "id": "24",
+      "apiCode": "doodle",
+      "seoCode": "doodle",
+      "title": "Doodle",
+      "fullTitle": "Doodle",
+      "description": "hand drawed ",
+      "shortDescription": "",
+      "url": "/doodle",
+      "order": "250",
+      "size": "48",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 48,
+          "about": 50
+        },
+        {
+          "title": 96,
+          "about": 100
+        },
+        {
+          "title": 192,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 240,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 480,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "baby",
+        "business",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "cultures",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "finance",
+        "food",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "messaging",
+        "mobile",
+        "music",
+        "photo-video",
+        "plants",
+        "science",
+        "shopping",
+        "social-networks",
+        "sports",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "flat_round": {
+      "id": "27",
+      "apiCode": "flat_round",
+      "seoCode": "flat_round",
+      "title": "Infographic",
+      "fullTitle": "Round Infographic",
+      "description": "",
+      "shortDescription": "",
+      "url": "/flatround",
+      "order": "253",
+      "size": "48",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 64,
+          "about": 64
+        },
+        {
+          "title": 128,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 512
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "arrows",
+        "baby",
+        "business",
+        "clothing",
+        "data",
+        "editing",
+        "files",
+        "free-icons",
+        "holidays",
+        "household",
+        "media-controls",
+        "messaging",
+        "social-networks",
+        "transport",
+        "travel",
+        "user-interface"
+      ]
+    },
+    "win8": {
+      "id": "1",
+      "apiCode": "win8",
+      "seoCode": "metro",
+      "title": "Windows Metro",
+      "fullTitle": "Windows Metro",
+      "description": "Icons8 started with this Windows 8 icons. Although we have created more icons in the newer <a class=\"c-pretty-link m-blue\" href=\"/web-app/new-icons/win10\">Windows 10 style</a> these days, you still can <a class=\"c-pretty-link m-blue\" href=\"/request-icon/\">request us</a> making some icons for it (please make sure you specify Windows 8 style explicitly when ordering).",
+      "shortDescription": "Windows 8 style",
+      "url": "/w",
+      "order": "300",
+      "size": "26",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 26,
+          "about": 50
+        },
+        {
+          "title": 52,
+          "about": 100
+        },
+        {
+          "title": 104,
+          "premium": true
+        },
+        {
+          "title": 208,
+          "premium": true
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": true,
+      "overlays": "/static/effects/svg/icons/win8/",
+      "packs": [
+        "alphabet",
+        "animals",
+        "arrows",
+        "astrology",
+        "baby",
+        "beauty",
+        "business",
+        "characters",
+        "cinema",
+        "city",
+        "clothing",
+        "computer-hardware",
+        "crime",
+        "cultures",
+        "data",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "files",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "gaming",
+        "hands",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "logos",
+        "maps",
+        "media-controls",
+        "messaging",
+        "military",
+        "mobile",
+        "music",
+        "network",
+        "operating-systems",
+        "photo-video",
+        "plants",
+        "printing",
+        "profile",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "transport",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "clouds": {
+      "id": "20",
+      "apiCode": "clouds",
+      "seoCode": "clouds",
+      "title": "Cloud",
+      "fullTitle": "Cloud",
+      "description": "",
+      "shortDescription": "",
+      "url": "/clouds",
+      "order": "301",
+      "size": "100",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 100,
+          "about": 100
+        },
+        {
+          "title": 150,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 200,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 500,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 1,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "business",
+        "computer-hardware",
+        "data",
+        "ecommerce",
+        "editing",
+        "finance",
+        "flags",
+        "folders",
+        "free-icons",
+        "gaming",
+        "healthcare",
+        "holidays",
+        "household",
+        "logos",
+        "maps",
+        "messaging",
+        "mobile",
+        "network",
+        "programming",
+        "science",
+        "security",
+        "shopping",
+        "social-networks",
+        "sports",
+        "time-and-date",
+        "travel",
+        "user-interface",
+        "users",
+        "weather"
+      ]
+    },
+    "bubbles": {
+      "id": "21",
+      "apiCode": "bubbles",
+      "seoCode": "bubbles",
+      "title": "Bubbles",
+      "fullTitle": "Circle Bubbles",
+      "description": "",
+      "shortDescription": "",
+      "url": "/bubbles",
+      "order": "302",
+      "size": "100",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 50,
+          "about": 50
+        },
+        {
+          "title": 100,
+          "about": 100
+        },
+        {
+          "title": 200,
+          "premium": true,
+          "extra": true
+        },
+        {
+          "title": 500,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "arrows",
+        "business",
+        "free-icons",
+        "healthcare",
+        "logos",
+        "men",
+        "messaging",
+        "mobile",
+        "social-networks",
+        "user-interface",
+        "users",
+        "women"
+      ]
+    },
+    "plasticine": {
+      "id": "22",
+      "apiCode": "plasticine",
+      "seoCode": "plasticine",
+      "title": "Color Hand Drawn",
+      "fullTitle": "Color Hand Drawn",
+      "description": "",
+      "shortDescription": "",
+      "url": "/plasticine",
+      "order": "303",
+      "size": "100",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": true,
+      "pngSizes": [
+        {
+          "title": 100,
+          "about": 100
+        },
+        {
+          "title": 200,
+          "premium": true
+        },
+        {
+          "title": 400,
+          "premium": true,
+          "about": 400
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "business",
+        "computer-hardware",
+        "data",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "healthcare",
+        "holidays",
+        "logos",
+        "messaging",
+        "mobile",
+        "network",
+        "science",
+        "shopping",
+        "social-networks",
+        "travel",
+        "user-interface",
+        "weather"
+      ]
+    },
+    "carbon_copy": {
+      "id": "23",
+      "apiCode": "carbon_copy",
+      "seoCode": "carbon-copy",
+      "title": "Hand Drawn",
+      "fullTitle": "Hand Drawn",
+      "description": "",
+      "shortDescription": "",
+      "url": "/carbon_copy",
+      "order": "304",
+      "size": "100",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 100,
+          "about": 100
+        },
+        {
+          "title": 200,
+          "premium": true
+        },
+        {
+          "title": 400,
+          "premium": true,
+          "about": 400
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "animals",
+        "business",
+        "computer-hardware",
+        "data",
+        "drinks",
+        "ecommerce",
+        "editing",
+        "finance",
+        "folders",
+        "food",
+        "free-icons",
+        "healthcare",
+        "holidays",
+        "logos",
+        "messaging",
+        "mobile",
+        "network",
+        "science",
+        "shopping",
+        "social-networks",
+        "travel",
+        "user-interface",
+        "weather"
+      ]
+    },
+    "pastel_glyph": {
+      "id": "33",
+      "apiCode": "pastel_glyph",
+      "seoCode": "pastel-glyph",
+      "title": "Pastel Glyph",
+      "fullTitle": "Pastel Glyph",
+      "description": "",
+      "shortDescription": "",
+      "url": "/pastel_glyph",
+      "order": "306",
+      "size": "128",
+      "multiSizes": false,
+      "switchFilled": false,
+      "isColor": false,
+      "pngSizes": [
+        {
+          "title": 64,
+          "about": 50
+        },
+        {
+          "title": 128,
+          "about": 100
+        },
+        {
+          "title": 256,
+          "premium": true,
+          "about": 250,
+          "extra": true
+        },
+        {
+          "title": 512,
+          "premium": true,
+          "about": 500
+        }
+      ],
+      "base64Encode": 0,
+      "preview": null,
+      "effects": false,
+      "overlays": null,
+      "packs": [
+        "cinema",
+        "city",
+        "clothing",
+        "cultures",
+        "diy",
+        "drinks",
+        "ecommerce",
+        "food",
+        "healthcare",
+        "holidays",
+        "household",
+        "industry",
+        "maps",
+        "mobile",
+        "music",
+        "photo-video",
+        "plants",
+        "science",
+        "shopping",
+        "sports",
+        "transport",
+        "travel",
+        "user-interface"
+      ]
+    }
+  },
+  "packs": [
+    {
+      "name": {
+        "de-DE": "Kino",
+        "en-US": "Cinema",
+        "es-ES": "Cine",
+        "fr-FR": "Cinéma",
+        "it-IT": "Cinema",
+        "ja-JP": "映画",
+        "pl-PL": "Kino",
+        "pt-BR": "Cinema",
+        "ru-RU": "Кино",
+        "zh-CN": "电影"
+      },
+      "code": "cinema"
+    },
+    {
+      "name": {
+        "de-DE": "Alphabet",
+        "en-US": "Alphabet",
+        "es-ES": "Alfabeto",
+        "fr-FR": "Alphabet",
+        "it-IT": "Alfabeto",
+        "ja-JP": "文字・アルファベット",
+        "pl-PL": "Alfabet",
+        "pt-BR": "Alfabeto",
+        "ru-RU": "Алфавит",
+        "zh-CN": "字母"
+      },
+      "code": "alphabet"
+    },
+    {
+      "name": {
+        "de-DE": "Baby",
+        "en-US": "Baby",
+        "es-ES": "Bebé",
+        "fr-FR": "Bébé",
+        "it-IT": "Bambino",
+        "ja-JP": "育児・ベビー",
+        "pl-PL": "Dziecko",
+        "pt-BR": "Bebê",
+        "ru-RU": "Детские",
+        "zh-CN": "婴儿"
+      },
+      "code": "baby"
+    },
+    {
+      "name": {
+        "de-DE": "Bearbeiten",
+        "en-US": "Editing",
+        "es-ES": "Edición",
+        "fr-FR": "Édition",
+        "it-IT": "Modifica",
+        "ja-JP": "エディット・編集",
+        "pl-PL": "Edytowanie",
+        "pt-BR": "Edição",
+        "ru-RU": "Редактирование",
+        "zh-CN": "编辑"
+      },
+      "code": "editing"
+    },
+    {
+      "name": {
+        "de-DE": "Beauty",
+        "en-US": "Beauty",
+        "es-ES": "Belleza",
+        "fr-FR": "Beauté",
+        "it-IT": "Bellezza",
+        "ja-JP": "美容・ビューティ",
+        "pl-PL": "Uroda",
+        "pt-BR": "Beleza",
+        "ru-RU": "Внешность",
+        "zh-CN": "美"
+      },
+      "code": "beauty"
+    },
+    {
+      "name": {
+        "de-DE": "Benutzeroberfläche",
+        "en-US": "User Interface",
+        "es-ES": "Interfaz de usuario",
+        "fr-FR": "Interface utilisateur",
+        "it-IT": "Interfaccia Utente",
+        "ja-JP": "ユーザーインターフェイス",
+        "pl-PL": "Interfejs użytkownika",
+        "pt-BR": "Interface de usuário",
+        "ru-RU": "Интерфейс",
+        "zh-CN": "用户界面"
+      },
+      "code": "user-interface"
+    },
+    {
+      "name": {
+        "de-DE": "Betriebssysteme",
+        "en-US": "Operating Systems",
+        "es-ES": "Sistemas operativos",
+        "fr-FR": "Systèmes d'exploitation",
+        "it-IT": "Sistemi Operativi",
+        "ja-JP": "オペレーティングシステム",
+        "pl-PL": "Systemy operacyjne",
+        "pt-BR": "Sistemas operacionais",
+        "ru-RU": "Операционки",
+        "zh-CN": "操作系统"
+      },
+      "code": "operating-systems"
+    },
+    {
+      "name": {
+        "de-DE": "Business",
+        "en-US": "Business",
+        "es-ES": "Negocios",
+        "fr-FR": "Business",
+        "it-IT": "Business",
+        "ja-JP": "ビジネス・経済",
+        "pl-PL": "Biznes",
+        "pt-BR": "Negócios",
+        "ru-RU": "Бизнес",
+        "zh-CN": "商业"
+      },
+      "code": "business"
+    },
+    {
+      "name": {
+        "de-DE": "Characters",
+        "en-US": "Characters",
+        "es-ES": "Characters",
+        "fr-FR": "Characters",
+        "it-IT": "Characters",
+        "ja-JP": "Characters",
+        "pl-PL": "Characters",
+        "pt-BR": "Characters",
+        "ru-RU": "Characters",
+        "zh-CN": "Characters"
+      },
+      "code": "characters",
+      "free": true
+    },
+    {
+      "name": {
+        "de-DE": "Computer-Hardware",
+        "en-US": "Computer Hardware",
+        "es-ES": "Hardware de ordenador",
+        "fr-FR": "Matériel informatique",
+        "it-IT": "Computer Hardware",
+        "ja-JP": "ハードウェア",
+        "pl-PL": "Sprzęt komputerowy",
+        "pt-BR": "Hardware",
+        "ru-RU": "Компьютерное железо",
+        "zh-CN": "计算机硬件"
+      },
+      "code": "computer-hardware"
+    },
+    {
+      "name": {
+        "de-DE": "Culture",
+        "en-US": "Culture",
+        "es-ES": "Culture",
+        "fr-FR": "Culture",
+        "it-IT": "Culture",
+        "ja-JP": "Culture",
+        "pl-PL": "Culture",
+        "pt-BR": "Culture",
+        "ru-RU": "Culture",
+        "zh-CN": "Culture"
+      },
+      "code": "cultures"
+    },
+    {
+      "name": {
+        "de-DE": "Dateien",
+        "en-US": "Files",
+        "es-ES": "Archivos",
+        "fr-FR": "Fichiers",
+        "it-IT": "Files",
+        "ja-JP": "ファイル",
+        "pl-PL": "Pliki",
+        "pt-BR": "Arquivos",
+        "ru-RU": "Файлы",
+        "zh-CN": "文件"
+      },
+      "code": "files"
+    },
+    {
+      "name": {
+        "de-DE": "Daten",
+        "en-US": "Data",
+        "es-ES": "Datos",
+        "fr-FR": "Données",
+        "it-IT": "Dati",
+        "ja-JP": "データベース",
+        "pl-PL": "Dane",
+        "pt-BR": "Dados",
+        "ru-RU": "Данные",
+        "zh-CN": "数据"
+      },
+      "code": "data"
+    },
+    {
+      "name": {
+        "de-DE": "Do It Yourself",
+        "en-US": "DIY",
+        "es-ES": "Hazlo tú mismo",
+        "fr-FR": "Bricolage et jardinage",
+        "it-IT": "Fai-da-te",
+        "ja-JP": "DIY",
+        "pl-PL": "Zrób to sam",
+        "pt-BR": "Faça você mesmo",
+        "ru-RU": "Сделай сам",
+        "zh-CN": "DIY"
+      },
+      "code": "diy"
+    },
+    {
+      "name": {
+        "de-DE": "Drucken",
+        "en-US": "Printing",
+        "es-ES": "Imprimir",
+        "fr-FR": "Impression",
+        "it-IT": "Stampa",
+        "ja-JP": "印刷・プリント",
+        "pl-PL": "Drukowanie",
+        "pt-BR": "Impressão",
+        "ru-RU": "Печать",
+        "zh-CN": "打印"
+      },
+      "code": "printing"
+    },
+    {
+      "name": {
+        "de-DE": "E-Commerce",
+        "en-US": "Ecommerce",
+        "es-ES": "E-commerce",
+        "fr-FR": "E-commerce",
+        "it-IT": "E-commerce",
+        "ja-JP": "ネット通販",
+        "pl-PL": "E-handel",
+        "pt-BR": "Comércio eletrônico",
+        "ru-RU": "Электронная торговля",
+        "zh-CN": "电子商务"
+      },
+      "code": "ecommerce"
+    },
+    {
+      "name": {
+        "de-DE": "Einkaufen",
+        "en-US": "Shopping",
+        "es-ES": "Compras",
+        "fr-FR": "Shopping",
+        "it-IT": "Shopping",
+        "ja-JP": "買い物・ショッピング",
+        "pl-PL": "Zakupy",
+        "pt-BR": "Compras",
+        "ru-RU": "Шоппинг",
+        "zh-CN": "购物"
+      },
+      "code": "shopping"
+    },
+    {
+      "name": {
+        "de-DE": "Essen",
+        "en-US": "Food",
+        "es-ES": "Comida",
+        "fr-FR": "Nourriture",
+        "it-IT": "Cibo",
+        "ja-JP": "食品・フード",
+        "pl-PL": "Żywność",
+        "pt-BR": "Comida",
+        "ru-RU": "Продукты",
+        "zh-CN": "食物"
+      },
+      "code": "food"
+    },
+    {
+      "name": {
+        "de-DE": "Ferien",
+        "en-US": "Holidays",
+        "es-ES": "Fiestas",
+        "fr-FR": "Vacances",
+        "it-IT": "Vacanze",
+        "ja-JP": "祝日・行事",
+        "pl-PL": "Wakacje",
+        "pt-BR": "Feriados",
+        "ru-RU": "Праздники",
+        "zh-CN": "假期"
+      },
+      "code": "holidays"
+    },
+    {
+      "name": {
+        "de-DE": "Finanzen",
+        "en-US": "Finance",
+        "es-ES": "Finanzas",
+        "fr-FR": "Finances",
+        "it-IT": "Finanza",
+        "ja-JP": "金融・ファイナンス",
+        "pl-PL": "Finanse",
+        "pt-BR": "Finanças",
+        "ru-RU": "Финансы",
+        "zh-CN": "经济"
+      },
+      "code": "finance"
+    },
+    {
+      "name": {
+        "de-DE": "Flags",
+        "en-US": "Flags",
+        "es-ES": "Flags",
+        "fr-FR": "Flags",
+        "it-IT": "Flags",
+        "ja-JP": "Flags",
+        "pl-PL": "Flags",
+        "pt-BR": "Flags",
+        "ru-RU": "Flags",
+        "zh-CN": "Flags"
+      },
+      "code": "flags"
+    },
+    {
+      "name": {
+        "de-DE": "Foto und Video",
+        "en-US": "Photo and Video",
+        "es-ES": "Foto y vídeo",
+        "fr-FR": "Photos et vidéo",
+        "it-IT": "Foto e Video",
+        "ja-JP": "写真とビデオ",
+        "pl-PL": "Zdjęcia i wideo",
+        "pt-BR": "Foto e Vídeo",
+        "ru-RU": "Фото и видео",
+        "zh-CN": "照片和视频"
+      },
+      "code": "photo-video"
+    },
+    {
+      "name": {
+        "de-DE": "Gaming",
+        "en-US": "Gaming",
+        "es-ES": "Juegos",
+        "fr-FR": "Jeux vidéo",
+        "it-IT": "Giochi",
+        "ja-JP": "ゲーム",
+        "pl-PL": "Gry",
+        "pt-BR": "Jogos",
+        "ru-RU": "Игры",
+        "zh-CN": "游戏"
+      },
+      "code": "gaming"
+    },
+    {
+      "name": {
+        "de-DE": "Gesundheitswesen",
+        "en-US": "Healthcare",
+        "es-ES": "Salud",
+        "fr-FR": "Santé",
+        "it-IT": "Salute",
+        "ja-JP": "健康管理・ヘルスケア",
+        "pl-PL": "Opieka zdrowotna",
+        "pt-BR": "Saúde",
+        "ru-RU": "Здоровье",
+        "zh-CN": "医疗健康"
+      },
+      "code": "healthcare"
+    },
+    {
+      "name": {
+        "de-DE": "Getränke",
+        "en-US": "Drinks",
+        "es-ES": "Bebidas",
+        "fr-FR": "Boissons",
+        "it-IT": "Bevande",
+        "ja-JP": "飲み物・ドリンク",
+        "pl-PL": "Napoje",
+        "pt-BR": "Bebidas",
+        "ru-RU": "Напитки",
+        "zh-CN": "饮品"
+      },
+      "code": "drinks"
+    },
+    {
+      "name": {
+        "de-DE": "Handy",
+        "en-US": "Mobile",
+        "es-ES": "Móvil",
+        "fr-FR": "Mobile",
+        "it-IT": "Mobile",
+        "ja-JP": "携帯電話・モバイル",
+        "pl-PL": "Telefon komórkowy",
+        "pt-BR": "Mobile",
+        "ru-RU": "Мобильные",
+        "zh-CN": "移动设备"
+      },
+      "code": "mobile"
+    },
+    {
+      "name": {
+        "de-DE": "Haushalt",
+        "en-US": "Household",
+        "es-ES": "Hogar",
+        "fr-FR": "Maison",
+        "it-IT": "Domestico",
+        "ja-JP": "家庭・家具",
+        "pl-PL": "Dom",
+        "pt-BR": "Casas",
+        "ru-RU": "Дом",
+        "zh-CN": "家用的"
+      },
+      "code": "household"
+    },
+    {
+      "name": {
+        "de-DE": "Hände",
+        "en-US": "Hands",
+        "es-ES": "Manos",
+        "fr-FR": "Mains",
+        "it-IT": "Mani",
+        "ja-JP": "手先・ハンド",
+        "pl-PL": "Ręce",
+        "pt-BR": "Mãos",
+        "ru-RU": "Руки",
+        "zh-CN": "手"
+      },
+      "code": "hands"
+    },
+    {
+      "name": {
+        "de-DE": "Industrie",
+        "en-US": "Industry",
+        "es-ES": "Industria",
+        "fr-FR": "Industrie",
+        "it-IT": "Industria",
+        "ja-JP": "工業・製造",
+        "pl-PL": "Przemysł",
+        "pt-BR": "Indústria",
+        "ru-RU": "Промышленность",
+        "zh-CN": "工业"
+      },
+      "code": "industry"
+    },
+    {
+      "name": {
+        "de-DE": "Karten",
+        "en-US": "Maps",
+        "es-ES": "Mapas",
+        "fr-FR": "Cartes",
+        "it-IT": "Mappe",
+        "ja-JP": "地図",
+        "pl-PL": "Mapy",
+        "pt-BR": "Mapas",
+        "ru-RU": "Карты",
+        "zh-CN": "地图"
+      },
+      "code": "maps"
+    },
+    {
+      "name": {
+        "de-DE": "Astrologie",
+        "en-US": "Astrology",
+        "es-ES": "Astrología",
+        "fr-FR": "Astrologie",
+        "it-IT": "Astrologia",
+        "ja-JP": "占星・干支",
+        "pl-PL": "Astrologia",
+        "pt-BR": "Astrologia",
+        "ru-RU": "Астрология",
+        "zh-CN": "占星术"
+      },
+      "code": "astrology"
+    },
+    {
+      "name": {
+        "de-DE": "Kleidung",
+        "en-US": "Clothing",
+        "es-ES": "Ropa",
+        "fr-FR": "Vêtements",
+        "it-IT": "Abbigliamento",
+        "ja-JP": "衣料品・裁縫",
+        "pl-PL": "Odzież",
+        "pt-BR": "Roupas",
+        "ru-RU": "Одежда",
+        "zh-CN": "衣物"
+      },
+      "code": "clothing"
+    },
+    {
+      "name": {
+        "de-DE": "Kriminalität",
+        "en-US": "Crime",
+        "es-ES": "Crimen",
+        "fr-FR": "Crime",
+        "it-IT": "Crimine",
+        "ja-JP": "犯罪",
+        "pl-PL": "Przestępstwa",
+        "pt-BR": "Crime",
+        "ru-RU": "Преступность",
+        "zh-CN": "犯罪"
+      },
+      "code": "crime"
+    },
+    {
+      "name": {
+        "de-DE": "Kurznachrichten",
+        "en-US": "Messaging",
+        "es-ES": "Mensajería",
+        "fr-FR": "Messagerie",
+        "it-IT": "Messaggistica",
+        "ja-JP": "メッセージ",
+        "pl-PL": "Wiadomości",
+        "pt-BR": "Mensagens",
+        "ru-RU": "Сообщения",
+        "zh-CN": "消息"
+      },
+      "code": "messaging"
+    },
+    {
+      "name": {
+        "de-DE": "Logos",
+        "en-US": "Logos",
+        "es-ES": "Logos",
+        "fr-FR": "Logos",
+        "it-IT": "Loghi",
+        "ja-JP": "ロゴ",
+        "pl-PL": "Loga",
+        "pt-BR": "Logotipos",
+        "ru-RU": "Логотипы",
+        "zh-CN": "标志"
+      },
+      "code": "logos",
+      "free": true
+    },
+    {
+      "name": {
+        "de-DE": "Mediensteuerelemente",
+        "en-US": "Media Controls",
+        "es-ES": "Controles multimedia",
+        "fr-FR": "Commandes multimédia",
+        "it-IT": "Controlli Multimediali",
+        "ja-JP": "再生の制御",
+        "pl-PL": "Multimedia",
+        "pt-BR": "Controles de mídia",
+        "ru-RU": "Управление медиа",
+        "zh-CN": "媒体控制"
+      },
+      "code": "media-controls"
+    },
+    {
+      "name": {
+        "de-DE": "Men",
+        "en-US": "Men",
+        "es-ES": "Men",
+        "fr-FR": "Men",
+        "it-IT": "Men",
+        "ja-JP": "Men",
+        "pl-PL": "Men",
+        "pt-BR": "Men",
+        "ru-RU": "Men",
+        "zh-CN": "Men"
+      },
+      "code": "men"
+    },
+    {
+      "name": {
+        "de-DE": "Menschen",
+        "en-US": "People",
+        "es-ES": "Personas",
+        "fr-FR": "Personnes",
+        "it-IT": "Persone",
+        "ja-JP": "人々",
+        "pl-PL": "Ludzie",
+        "pt-BR": "Pessoas",
+        "ru-RU": "Люди",
+        "zh-CN": "会员"
+      },
+      "code": "users"
+    },
+    {
+      "name": {
+        "de-DE": "Militär",
+        "en-US": "Military",
+        "es-ES": "Militar",
+        "fr-FR": "Militaire",
+        "it-IT": "Militare",
+        "ja-JP": "軍事・ミリタリー",
+        "pl-PL": "Wojskowe",
+        "pt-BR": "Militar",
+        "ru-RU": "Военные",
+        "zh-CN": "军事"
+      },
+      "code": "military"
+    },
+    {
+      "name": {
+        "de-DE": "Musik",
+        "en-US": "Music",
+        "es-ES": "Música",
+        "fr-FR": "Musique",
+        "it-IT": "Musica",
+        "ja-JP": "音楽・ミュージック",
+        "pl-PL": "Muzyka",
+        "pt-BR": "Músicas",
+        "ru-RU": "Музыка",
+        "zh-CN": "音乐"
+      },
+      "code": "music"
+    },
+    {
+      "name": {
+        "de-DE": "Natur",
+        "en-US": "Nature",
+        "es-ES": "Naturaleza",
+        "fr-FR": "Nature",
+        "it-IT": "Natura",
+        "ja-JP": "自然",
+        "pl-PL": "Natura",
+        "pt-BR": "Natureza",
+        "ru-RU": "Природа",
+        "zh-CN": "自然界"
+      },
+      "code": "nature"
+    },
+    {
+      "name": {
+        "de-DE": "Netzwerk",
+        "en-US": "Network",
+        "es-ES": "Red",
+        "fr-FR": "Réseau",
+        "it-IT": "Network",
+        "ja-JP": "ネットワーク",
+        "pl-PL": "Sieć",
+        "pt-BR": "Rede",
+        "ru-RU": "Сети",
+        "zh-CN": "移动网络"
+      },
+      "code": "network"
+    },
+    {
+      "name": {
+        "de-DE": "Ordner",
+        "en-US": "Folders",
+        "es-ES": "Carpetas",
+        "fr-FR": "Dossiers",
+        "it-IT": "Cartelle",
+        "ja-JP": "フォルダ",
+        "pl-PL": "Katalogi",
+        "pt-BR": "Pastas",
+        "ru-RU": "Папки",
+        "zh-CN": "文件夹"
+      },
+      "code": "folders"
+    },
+    {
+      "name": {
+        "de-DE": "Pfeile",
+        "en-US": "Arrows",
+        "es-ES": "Flechas",
+        "fr-FR": "Flèches",
+        "it-IT": "Frecce",
+        "ja-JP": "矢印・アロー",
+        "pl-PL": "Strzałki",
+        "pt-BR": "Setas",
+        "ru-RU": "Стрелки",
+        "zh-CN": "箭头"
+      },
+      "code": "arrows"
+    },
+    {
+      "name": {
+        "de-DE": "Pflanzen",
+        "en-US": "Plants",
+        "es-ES": "Plantas",
+        "fr-FR": "Plantes",
+        "it-IT": "Piante",
+        "ja-JP": "植物・ガーデニング",
+        "pl-PL": "Rośliny",
+        "pt-BR": "Plantas",
+        "ru-RU": "Растения",
+        "zh-CN": "植物"
+      },
+      "code": "plants"
+    },
+    {
+      "name": {
+        "de-DE": "Popular Icons",
+        "en-US": "Popular",
+        "es-ES": "Popular Icons",
+        "fr-FR": "Popular Icons",
+        "it-IT": "Popular Icons",
+        "ja-JP": "Popular Icons",
+        "pl-PL": "Popular Icons",
+        "pt-BR": "Popular Icons",
+        "ru-RU": "Popular Icons",
+        "zh-CN": "Popular Icons"
+      },
+      "code": "free-icons",
+      "free": true
+    },
+    {
+      "name": {
+        "de-DE": "Profil",
+        "en-US": "Profile",
+        "es-ES": "Perfil",
+        "fr-FR": "Profil",
+        "it-IT": "Profilo",
+        "ja-JP": "プロフィール",
+        "pl-PL": "Profil",
+        "pt-BR": "Perfil",
+        "ru-RU": "Профиль",
+        "zh-CN": "资料"
+      },
+      "code": "profile"
+    },
+    {
+      "name": {
+        "de-DE": "Programmierung",
+        "en-US": "Programming",
+        "es-ES": "Programación",
+        "fr-FR": "Programmation",
+        "it-IT": "Programmazione",
+        "ja-JP": "プログラミング",
+        "pl-PL": "Programowanie",
+        "pt-BR": "Programação",
+        "ru-RU": "Программирование",
+        "zh-CN": "程序设计"
+      },
+      "code": "programming"
+    },
+    {
+      "name": {
+        "de-DE": "Programming File Types",
+        "en-US": "Programming File Types",
+        "es-ES": "Programming File Types",
+        "fr-FR": "Programming File Types",
+        "it-IT": "Programming File Types",
+        "ja-JP": "Programming File Types",
+        "pl-PL": "Programming File Types",
+        "pt-BR": "Programming File Types",
+        "ru-RU": "Programming File Types",
+        "zh-CN": "Programming File Types"
+      },
+      "code": "programming-file-types"
+    },
+    {
+      "name": {
+        "de-DE": "Reisen",
+        "en-US": "Travel",
+        "es-ES": "Viajes",
+        "fr-FR": "Voyage",
+        "it-IT": "Viaggi",
+        "ja-JP": "旅行・トラベル",
+        "pl-PL": "Podróż",
+        "pt-BR": "Viagem",
+        "ru-RU": "Путешествия",
+        "zh-CN": "旅行"
+      },
+      "code": "travel"
+    },
+    {
+      "name": {
+        "de-DE": "Sicherheit",
+        "en-US": "Security",
+        "es-ES": "Seguridad",
+        "fr-FR": "Sécurité",
+        "it-IT": "Sicurezza",
+        "ja-JP": "セキュリティ",
+        "pl-PL": "Bezpieczeństwo",
+        "pt-BR": "Segurança",
+        "ru-RU": "Безопасность",
+        "zh-CN": "安全"
+      },
+      "code": "security"
+    },
+    {
+      "name": {
+        "de-DE": "Social Media",
+        "en-US": "Social Media",
+        "es-ES": "Social Media",
+        "fr-FR": "Social Media",
+        "it-IT": "Social Media",
+        "ja-JP": "Social Media",
+        "pl-PL": "Social Media",
+        "pt-BR": "Social Media",
+        "ru-RU": "Social Media",
+        "zh-CN": "Social Media"
+      },
+      "code": "social-networks"
+    },
+    {
+      "name": {
+        "de-DE": "Sport",
+        "en-US": "Sports",
+        "es-ES": "Deportes",
+        "fr-FR": "Sports",
+        "it-IT": "Sports",
+        "ja-JP": "体育・スポーツ",
+        "pl-PL": "Sport",
+        "pt-BR": "Esportes",
+        "ru-RU": "Спорт",
+        "zh-CN": "体育"
+      },
+      "code": "sports"
+    },
+    {
+      "name": {
+        "de-DE": "Stadt",
+        "en-US": "City",
+        "es-ES": "Ciudad",
+        "fr-FR": "Ville",
+        "it-IT": "Città",
+        "ja-JP": "都市・生活",
+        "pl-PL": "Miasto",
+        "pt-BR": "Cidade",
+        "ru-RU": "Город",
+        "zh-CN": "城市"
+      },
+      "code": "city"
+    },
+    {
+      "name": {
+        "de-DE": "Tiere",
+        "en-US": "Animals",
+        "es-ES": "Animales",
+        "fr-FR": "Animaux",
+        "it-IT": "Animali",
+        "ja-JP": "動物",
+        "pl-PL": "Zwierzęta",
+        "pt-BR": "Animais",
+        "ru-RU": "Животные",
+        "zh-CN": "动物"
+      },
+      "code": "animals"
+    },
+    {
+      "name": {
+        "de-DE": "Verkehr",
+        "en-US": "Transport",
+        "es-ES": "Transporte",
+        "fr-FR": "Transport",
+        "it-IT": "Trasporti",
+        "ja-JP": "交通・トランスポート",
+        "pl-PL": "Transport",
+        "pt-BR": "Transportes",
+        "ru-RU": "Транспорт",
+        "zh-CN": "运输"
+      },
+      "code": "transport"
+    },
+    {
+      "name": {
+        "de-DE": "Wetter",
+        "en-US": "Weather",
+        "es-ES": "El tiempo",
+        "fr-FR": "Météo",
+        "it-IT": "Meteo",
+        "ja-JP": "天気・ウェザー",
+        "pl-PL": "Pogoda",
+        "pt-BR": "Clima",
+        "ru-RU": "Погода",
+        "zh-CN": "天气"
+      },
+      "code": "weather"
+    },
+    {
+      "name": {
+        "de-DE": "Wissenschaft",
+        "en-US": "Science",
+        "es-ES": "Ciencia",
+        "fr-FR": "Science",
+        "it-IT": "Scienze",
+        "ja-JP": "科学・サイエンス",
+        "pl-PL": "Nauka",
+        "pt-BR": "Ciências",
+        "ru-RU": "Наука",
+        "zh-CN": "科技"
+      },
+      "code": "science"
+    },
+    {
+      "name": {
+        "de-DE": "Women",
+        "en-US": "Women",
+        "es-ES": "Women",
+        "fr-FR": "Women",
+        "it-IT": "Women",
+        "ja-JP": "Women",
+        "pl-PL": "Women",
+        "pt-BR": "Women",
+        "ru-RU": "Women",
+        "zh-CN": "Women"
+      },
+      "code": "women"
+    },
+    {
+      "name": {
+        "de-DE": "Zeit und Datum",
+        "en-US": "Time And Date",
+        "es-ES": "Fecha y hora",
+        "fr-FR": "Date et heure",
+        "it-IT": "Ora e Data",
+        "ja-JP": "日付と時刻",
+        "pl-PL": "Czas i data",
+        "pt-BR": "Data e hora",
+        "ru-RU": "Время и дата",
+        "zh-CN": "时间和日期"
+      },
+      "code": "time-and-date"
+    }
+  ],
+  "seoPacks": [
+    {
+      "code": "3d",
+      "name": {
+        "de-DE": "3D",
+        "en-US": "3D",
+        "es-ES": "3D",
+        "fr-FR": "3D",
+        "it-IT": "3D",
+        "ja-JP": "3D",
+        "pl-PL": "3D",
+        "pt-BR": "3D",
+        "ru-RU": "3D",
+        "zh-CN": "3D"
+      }
+    },
+    {
+      "code": "add",
+      "name": {
+        "de-DE": "Hinzufügen",
+        "en-US": "Add",
+        "es-ES": "Añadir",
+        "fr-FR": "Ajouter",
+        "it-IT": "Add",
+        "ja-JP": "追加",
+        "pl-PL": "Add",
+        "pt-BR": "Adicionar",
+        "ru-RU": "Добавить",
+        "zh-CN": "Add"
+      }
+    },
+    {
+      "code": "address",
+      "name": {
+        "de-DE": "Adresse",
+        "en-US": "Address",
+        "es-ES": "Dirección",
+        "fr-FR": "Adresse",
+        "it-IT": "Indirizzo",
+        "ja-JP": "Address",
+        "pl-PL": "Adres",
+        "pt-BR": "Endereço",
+        "ru-RU": "Адрес",
+        "zh-CN": "地址"
+      }
+    },
+    {
+      "code": "admin",
+      "name": {
+        "de-DE": "Admin",
+        "en-US": "Admin",
+        "es-ES": "Admin",
+        "fr-FR": "Admin",
+        "it-IT": "Admin",
+        "ja-JP": "管理者",
+        "pl-PL": "Admin",
+        "pt-BR": "Admin",
+        "ru-RU": "Администратор",
+        "zh-CN": "Admin"
+      }
+    },
+    {
+      "code": "airplane",
+      "name": {
+        "de-DE": "Flugzeug",
+        "en-US": "Airplane",
+        "es-ES": "Avión",
+        "fr-FR": "Avion",
+        "it-IT": "Airplane",
+        "ja-JP": "飛行機",
+        "pl-PL": "Samolot",
+        "pt-BR": "Avião",
+        "ru-RU": "Самолет",
+        "zh-CN": "飞机"
+      }
+    },
+    {
+      "code": "app",
+      "name": {
+        "de-DE": "App",
+        "en-US": "App",
+        "es-ES": "Aplicación",
+        "fr-FR": "App",
+        "it-IT": "App",
+        "ja-JP": "アプリ",
+        "pl-PL": "Aplikacja",
+        "pt-BR": "App",
+        "ru-RU": "Приложение",
+        "zh-CN": "App"
+      }
+    },
+    {
+      "code": "app-store",
+      "name": {
+        "de-DE": "App Store",
+        "en-US": "App Store",
+        "es-ES": "App Store",
+        "fr-FR": "App Store",
+        "it-IT": "App Store",
+        "ja-JP": "App Store",
+        "pl-PL": "App Store",
+        "pt-BR": "App Store",
+        "ru-RU": "App Store",
+        "zh-CN": "应用商店"
+      }
+    },
+    {
+      "code": "apple",
+      "name": {
+        "de-DE": "Apple",
+        "en-US": "Apple",
+        "es-ES": "Apple",
+        "fr-FR": "Pomme",
+        "it-IT": "Apple",
+        "ja-JP": "Apple",
+        "pl-PL": "Apple",
+        "pt-BR": "Apple",
+        "ru-RU": "Яблоко",
+        "zh-CN": "苹果"
+      }
+    },
+    {
+      "code": "apple-touch",
+      "name": {
+        "de-DE": "Apple Touch",
+        "en-US": "Apple Touch",
+        "es-ES": "Apple Touch",
+        "fr-FR": "Apple Touch",
+        "it-IT": "Apple Touch",
+        "ja-JP": "Apple Touch",
+        "pl-PL": "Apple Touch",
+        "pt-BR": "Apple Touch",
+        "ru-RU": "Apple Touch",
+        "zh-CN": "苹果触摸"
+      }
+    },
+    {
+      "code": "application",
+      "name": {
+        "de-DE": "Anwendung",
+        "en-US": "Application",
+        "es-ES": "Application",
+        "fr-FR": "Application",
+        "it-IT": "Applicazione",
+        "ja-JP": "Application",
+        "pl-PL": "Application",
+        "pt-BR": "Aplicação",
+        "ru-RU": "Application",
+        "zh-CN": "应用"
+      }
+    },
+    {
+      "code": "arrows",
+      "name": {
+        "de-DE": "Pfeile",
+        "en-US": "Arrows",
+        "es-ES": "Flechas",
+        "fr-FR": "Flèches",
+        "it-IT": "Frecce",
+        "ja-JP": "矢印・アロー",
+        "pl-PL": "Strzałki",
+        "pt-BR": "Setas",
+        "ru-RU": "Стрелки",
+        "zh-CN": "箭头"
+      }
+    },
+    {
+      "code": "avatar",
+      "name": {
+        "de-DE": "Avatar",
+        "en-US": "Avatar",
+        "es-ES": "Avatar",
+        "fr-FR": "Avatar",
+        "it-IT": "Avatar",
+        "ja-JP": "アバター",
+        "pl-PL": "Avatar",
+        "pt-BR": "Avatar",
+        "ru-RU": "Аватар",
+        "zh-CN": "阿凡达"
+      }
+    },
+    {
+      "code": "back",
+      "name": {
+        "de-DE": "Zurück",
+        "en-US": "Back",
+        "es-ES": "Back",
+        "fr-FR": "Back",
+        "it-IT": "Indietro",
+        "ja-JP": "Back",
+        "pl-PL": "Back",
+        "pt-BR": "Back",
+        "ru-RU": "Назад",
+        "zh-CN": "Back"
+      }
+    },
+    {
+      "code": "bank",
+      "name": {
+        "de-DE": "Bank",
+        "en-US": "Bank",
+        "es-ES": "Banco",
+        "fr-FR": "Banque",
+        "it-IT": "Banca",
+        "ja-JP": "Bank",
+        "pl-PL": "Bank",
+        "pt-BR": "Banco",
+        "ru-RU": "Bank",
+        "zh-CN": "银行"
+      }
+    },
+    {
+      "code": "battery",
+      "name": {
+        "de-DE": "Battery",
+        "en-US": "Battery",
+        "es-ES": "Batería",
+        "fr-FR": "Batterie",
+        "it-IT": "Batteria",
+        "ja-JP": "Battery",
+        "pl-PL": "Battery",
+        "pt-BR": "Bateria",
+        "ru-RU": "Battery",
+        "zh-CN": "电池"
+      }
+    },
+    {
+      "code": "bike",
+      "name": {
+        "de-DE": "Fahrrad",
+        "en-US": "Bike",
+        "es-ES": "Bicicleta",
+        "fr-FR": "Bike",
+        "it-IT": "Bike",
+        "ja-JP": "自転車",
+        "pl-PL": "Rower",
+        "pt-BR": "Bicicleta",
+        "ru-RU": "Велосипед",
+        "zh-CN": "自行车"
+      }
+    },
+    {
+      "code": "birthday",
+      "name": {
+        "de-DE": "Geburtstag",
+        "en-US": "Birthday",
+        "es-ES": "Cumpleaños",
+        "fr-FR": "Anniversaire",
+        "it-IT": "Compleanno",
+        "ja-JP": "Birthday",
+        "pl-PL": "Urodziny",
+        "pt-BR": "Aniversário",
+        "ru-RU": "День рождения",
+        "zh-CN": "生日"
+      }
+    },
+    {
+      "code": "black",
+      "name": {
+        "de-DE": "Schwarz",
+        "en-US": "Black",
+        "es-ES": "Negro",
+        "fr-FR": "Noir",
+        "it-IT": "Nero",
+        "ja-JP": "ブラック",
+        "pl-PL": "Czarny",
+        "pt-BR": "Preto",
+        "ru-RU": "Черный",
+        "zh-CN": "Black"
+      }
+    },
+    {
+      "code": "blogger",
+      "name": {
+        "de-DE": "Blogger",
+        "en-US": "Blogger",
+        "es-ES": "Blogger",
+        "fr-FR": "Blogger",
+        "it-IT": "Blogger",
+        "ja-JP": "Blogger",
+        "pl-PL": "Blogger",
+        "pt-BR": "Blogger",
+        "ru-RU": "Blogger",
+        "zh-CN": "博客"
+      }
+    },
+    {
+      "code": "book",
+      "name": {
+        "de-DE": "Buch",
+        "en-US": "Book",
+        "es-ES": "Libro",
+        "fr-FR": "Livre",
+        "it-IT": "Libro",
+        "ja-JP": "本",
+        "pl-PL": "Book",
+        "pt-BR": "Livro",
+        "ru-RU": "Книга",
+        "zh-CN": "书"
+      }
+    },
+    {
+      "code": "brain",
+      "name": {
+        "de-DE": "Gehirn",
+        "en-US": "Brain",
+        "es-ES": "Cerebro",
+        "fr-FR": "Cerveau",
+        "it-IT": "Cervello",
+        "ja-JP": "脳",
+        "pl-PL": "Mózg",
+        "pt-BR": "Cérebro",
+        "ru-RU": "Brain",
+        "zh-CN": "脑"
+      }
+    },
+    {
+      "code": "building",
+      "name": {
+        "de-DE": "Gebäude",
+        "en-US": "Building",
+        "es-ES": "Edificio",
+        "fr-FR": "Bâtiment",
+        "it-IT": "Costruzione",
+        "ja-JP": "建物",
+        "pl-PL": "Budynek",
+        "pt-BR": "Building",
+        "ru-RU": "Здание",
+        "zh-CN": "Building"
+      }
+    },
+    {
+      "code": "bus",
+      "name": {
+        "de-DE": "Bus",
+        "en-US": "Bus",
+        "es-ES": "Bus",
+        "fr-FR": "Bus",
+        "it-IT": "Autobus",
+        "ja-JP": "バス",
+        "pl-PL": "Autobus",
+        "pt-BR": "Ônibus",
+        "ru-RU": "Автобус",
+        "zh-CN": "Bus"
+      }
+    },
+    {
+      "code": "business",
+      "name": {
+        "de-DE": "Business",
+        "en-US": "Business",
+        "es-ES": "Negocios",
+        "fr-FR": "Business",
+        "it-IT": "Business",
+        "ja-JP": "ビジネス・経済",
+        "pl-PL": "Biznes",
+        "pt-BR": "Negócios",
+        "ru-RU": "Бизнес",
+        "zh-CN": "商业"
+      }
+    },
+    {
+      "code": "calculation",
+      "name": {
+        "de-DE": "Berechnung",
+        "en-US": "Calculation",
+        "es-ES": "Cálculo",
+        "fr-FR": "Calcul",
+        "it-IT": "Calcolo",
+        "ja-JP": "計算",
+        "pl-PL": "Obliczenie",
+        "pt-BR": "Cálculo",
+        "ru-RU": "Расчет",
+        "zh-CN": "计算"
+      }
+    },
+    {
+      "code": "calendar",
+      "name": {
+        "de-DE": "Kalender",
+        "en-US": "Calendar",
+        "es-ES": "Calendario",
+        "fr-FR": "Calendrier",
+        "it-IT": "Calendario",
+        "ja-JP": "カレンダー",
+        "pl-PL": "Kalendarz",
+        "pt-BR": "Calendário",
+        "ru-RU": "Календарь",
+        "zh-CN": "日历"
+      }
+    },
+    {
+      "code": "call",
+      "name": {
+        "de-DE": "Call",
+        "en-US": "Call",
+        "es-ES": "Call",
+        "fr-FR": "Appel",
+        "it-IT": "Chiamata",
+        "ja-JP": "Call",
+        "pl-PL": "Call",
+        "pt-BR": "Call",
+        "ru-RU": "Вызов",
+        "zh-CN": "Call"
+      }
+    },
+    {
+      "code": "camera",
+      "name": {
+        "de-DE": "Kamera",
+        "en-US": "Camera",
+        "es-ES": "Cámara",
+        "fr-FR": "Camera",
+        "it-IT": "Camera",
+        "ja-JP": "カメラ",
+        "pl-PL": "Camera",
+        "pt-BR": "Câmera",
+        "ru-RU": "Камера",
+        "zh-CN": "相机"
+      }
+    },
+    {
+      "code": "car",
+      "name": {
+        "de-DE": "Auto",
+        "en-US": "Car",
+        "es-ES": "Coche",
+        "fr-FR": "Voiture",
+        "it-IT": "Auto",
+        "ja-JP": "車",
+        "pl-PL": "Samochód",
+        "pt-BR": "Carro",
+        "ru-RU": "Автомобиль",
+        "zh-CN": "汽车"
+      }
+    },
+    {
+      "code": "cellphone",
+      "name": {
+        "de-DE": "Handy",
+        "en-US": "Cellphone",
+        "es-ES": "Teléfono móvil",
+        "fr-FR": "Téléphone portable",
+        "it-IT": "Cellulare",
+        "ja-JP": "携帯電話",
+        "pl-PL": "Cellphone",
+        "pt-BR": "Cellphone",
+        "ru-RU": "Cellphone",
+        "zh-CN": "手机"
+      }
+    },
+    {
+      "code": "chat",
+      "name": {
+        "de-DE": "Chat",
+        "en-US": "Chat",
+        "es-ES": "Chat",
+        "fr-FR": "Chat",
+        "it-IT": "Chat",
+        "ja-JP": "チャット",
+        "pl-PL": "Czat",
+        "pt-BR": "Bate-papo",
+        "ru-RU": "Чат",
+        "zh-CN": "Chat"
+      }
+    },
+    {
+      "code": "check",
+      "name": {
+        "de-DE": "Check",
+        "en-US": "Check",
+        "es-ES": "Check",
+        "fr-FR": "Vérifier",
+        "it-IT": "Check",
+        "ja-JP": "チェック",
+        "pl-PL": "Check",
+        "pt-BR": "Check",
+        "ru-RU": "Check",
+        "zh-CN": "检查"
+      }
+    },
+    {
+      "code": "christmas",
+      "name": {
+        "de-DE": "Weihnachten",
+        "en-US": "Christmas",
+        "es-ES": "Navidad",
+        "fr-FR": "Christmas",
+        "it-IT": "Natale",
+        "ja-JP": "クリスマス",
+        "pl-PL": "Boże Narodzenie",
+        "pt-BR": "Natal",
+        "ru-RU": "Рождество",
+        "zh-CN": "Christmas"
+      }
+    },
+    {
+      "code": "circle",
+      "name": {
+        "de-DE": "Kreis",
+        "en-US": "Circle",
+        "es-ES": "Circle",
+        "fr-FR": "Cercle",
+        "it-IT": "Cerchio",
+        "ja-JP": "Circle",
+        "pl-PL": "Circle",
+        "pt-BR": "Círculo",
+        "ru-RU": "Круг",
+        "zh-CN": "Circle"
+      }
+    },
+    {
+      "code": "clean",
+      "name": {
+        "de-DE": "Reinigen",
+        "en-US": "Clean",
+        "es-ES": "Limpiar",
+        "fr-FR": "Nettoyer",
+        "it-IT": "Clean",
+        "ja-JP": "Clean",
+        "pl-PL": "Clean",
+        "pt-BR": "Clean",
+        "ru-RU": "Clean",
+        "zh-CN": "清洁"
+      }
+    },
+    {
+      "code": "clock",
+      "name": {
+        "de-DE": "Uhr",
+        "en-US": "Clock",
+        "es-ES": "Reloj",
+        "fr-FR": "Clock",
+        "it-IT": "Orologio",
+        "ja-JP": "Clock",
+        "pl-PL": "Zegar",
+        "pt-BR": "Relógio",
+        "ru-RU": "Часы",
+        "zh-CN": "时钟"
+      }
+    },
+    {
+      "code": "closed",
+      "name": {
+        "de-DE": "Closed",
+        "en-US": "Closed",
+        "es-ES": "Cerrado",
+        "fr-FR": "Fermé",
+        "it-IT": "Chiuso",
+        "ja-JP": "Closed",
+        "pl-PL": "Closed",
+        "pt-BR": "Closed",
+        "ru-RU": "Закрыто",
+        "zh-CN": "关闭"
+      }
+    },
+    {
+      "code": "cloud",
+      "name": {
+        "de-DE": "Wolke",
+        "en-US": "Cloud",
+        "es-ES": "Nube",
+        "fr-FR": "Nuage",
+        "it-IT": "Cloud",
+        "ja-JP": "Cloud",
+        "pl-PL": "Chmura",
+        "pt-BR": "Nuvem",
+        "ru-RU": "Облако",
+        "zh-CN": "Cloud"
+      }
+    },
+    {
+      "code": "coffee",
+      "name": {
+        "de-DE": "Kaffee",
+        "en-US": "Coffee",
+        "es-ES": "Café",
+        "fr-FR": "Café",
+        "it-IT": "Caffè",
+        "ja-JP": "コーヒー",
+        "pl-PL": "Kawa",
+        "pt-BR": "Café",
+        "ru-RU": "Кофе",
+        "zh-CN": "咖啡"
+      }
+    },
+    {
+      "code": "computer",
+      "name": {
+        "de-DE": "Computer",
+        "en-US": "Computer",
+        "es-ES": "Computadora",
+        "fr-FR": "Ordinateur",
+        "it-IT": "Computer",
+        "ja-JP": "コンピューター",
+        "pl-PL": "Computer",
+        "pt-BR": "Computador",
+        "ru-RU": "Компьютер",
+        "zh-CN": "Computer"
+      }
+    },
+    {
+      "code": "contacts",
+      "name": {
+        "de-DE": "Kontakte",
+        "en-US": "Contacts",
+        "es-ES": "Contactos",
+        "fr-FR": "Contacts",
+        "it-IT": "Contatti",
+        "ja-JP": "連絡先",
+        "pl-PL": "Contacts",
+        "pt-BR": "Contatos",
+        "ru-RU": "Контакты",
+        "zh-CN": "Contacts"
+      }
+    },
+    {
+      "code": "cool",
+      "name": {
+        "de-DE": "Cool",
+        "en-US": "Cool",
+        "es-ES": "Cool",
+        "fr-FR": "Cool",
+        "it-IT": "Cool",
+        "ja-JP": "Cool",
+        "pl-PL": "Cool",
+        "pt-BR": "Cool",
+        "ru-RU": "Cool",
+        "zh-CN": "Cool"
+      }
+    },
+    {
+      "code": "create",
+      "name": {
+        "de-DE": "Erstellen",
+        "en-US": "Create",
+        "es-ES": "Crear",
+        "fr-FR": "Créer",
+        "it-IT": "Creare",
+        "ja-JP": "Create",
+        "pl-PL": "Create",
+        "pt-BR": "Create",
+        "ru-RU": "Create",
+        "zh-CN": "创建"
+      }
+    },
+    {
+      "code": "credit-card",
+      "name": {
+        "de-DE": "Kreditkarte",
+        "en-US": "Credit Card",
+        "es-ES": "Tarjeta de crédito",
+        "fr-FR": "Carte de crédit",
+        "it-IT": "Carta di credito",
+        "ja-JP": "Credit Card",
+        "pl-PL": "Karta kredytowa",
+        "pt-BR": "Cartão de crédito",
+        "ru-RU": "Кредитная карта",
+        "zh-CN": "信用卡"
+      }
+    },
+    {
+      "code": "dashboard",
+      "name": {
+        "de-DE": "Dashboard",
+        "en-US": "Dashboard",
+        "es-ES": "Dashboard",
+        "fr-FR": "Tableau de bord",
+        "it-IT": "Cruscotto",
+        "ja-JP": "Dashboard",
+        "pl-PL": "Dashboard",
+        "pt-BR": "Painel de controle",
+        "ru-RU": "Dashboard",
+        "zh-CN": "仪表板"
+      }
+    },
+    {
+      "code": "data",
+      "name": {
+        "de-DE": "Daten",
+        "en-US": "Data",
+        "es-ES": "Datos",
+        "fr-FR": "Données",
+        "it-IT": "Dati",
+        "ja-JP": "データベース",
+        "pl-PL": "Dane",
+        "pt-BR": "Dados",
+        "ru-RU": "Данные",
+        "zh-CN": "数据"
+      }
+    },
+    {
+      "code": "database",
+      "name": {
+        "de-DE": "Datenbank",
+        "en-US": "Database",
+        "es-ES": "Base de datos",
+        "fr-FR": "Base de données",
+        "it-IT": "Database",
+        "ja-JP": "データベース",
+        "pl-PL": "Database",
+        "pt-BR": "Database",
+        "ru-RU": "База данных",
+        "zh-CN": "数据库"
+      }
+    },
+    {
+      "code": "delete",
+      "name": {
+        "de-DE": "Löschen",
+        "en-US": "Delete",
+        "es-ES": "Delete",
+        "fr-FR": "Delete",
+        "it-IT": "Elimina",
+        "ja-JP": "削除",
+        "pl-PL": "Delete",
+        "pt-BR": "Excluir",
+        "ru-RU": "Удалить",
+        "zh-CN": "删除"
+      }
+    },
+    {
+      "code": "desktop",
+      "name": {
+        "de-DE": "Desktop",
+        "en-US": "Desktop",
+        "es-ES": "Escritorio",
+        "fr-FR": "Desktop",
+        "it-IT": "Desktop",
+        "ja-JP": "デスクトップ",
+        "pl-PL": "Desktop",
+        "pt-BR": "Desktop",
+        "ru-RU": "Рабочий стол",
+        "zh-CN": "桌面"
+      }
+    },
+    {
+      "code": "document",
+      "name": {
+        "de-DE": "Document",
+        "en-US": "Document",
+        "es-ES": "Documento",
+        "fr-FR": "Document",
+        "it-IT": "Documento",
+        "ja-JP": "Document",
+        "pl-PL": "Document",
+        "pt-BR": "Documento",
+        "ru-RU": "Документ",
+        "zh-CN": "Document"
+      }
+    },
+    {
+      "code": "e-commerce",
+      "name": {
+        "de-DE": "E-commerce",
+        "en-US": "E-commerce",
+        "es-ES": "E-commerce",
+        "fr-FR": "E-commerce",
+        "it-IT": "E-commerce",
+        "ja-JP": "E-commerce",
+        "pl-PL": "E-commerce",
+        "pt-BR": "Comércio eletrônico",
+        "ru-RU": "Электронная коммерция",
+        "zh-CN": "电子商务"
+      }
+    },
+    {
+      "code": "edit",
+      "name": {
+        "de-DE": "Bearbeiten",
+        "en-US": "Edit",
+        "es-ES": "Editar",
+        "fr-FR": "Edit",
+        "it-IT": "Modifica",
+        "ja-JP": "編集",
+        "pl-PL": "Edit",
+        "pt-BR": "Editar",
+        "ru-RU": "Edit",
+        "zh-CN": "编辑"
+      }
+    },
+    {
+      "code": "education",
+      "name": {
+        "de-DE": "Bildung",
+        "en-US": "Education",
+        "es-ES": "Educación",
+        "fr-FR": "Éducation",
+        "it-IT": "Education",
+        "ja-JP": "教育",
+        "pl-PL": "Edukacja",
+        "pt-BR": "Educação",
+        "ru-RU": "Образование",
+        "zh-CN": "教育"
+      }
+    },
+    {
+      "code": "email",
+      "name": {
+        "de-DE": "E-Mail",
+        "en-US": "Email",
+        "es-ES": "Correo electrónico",
+        "fr-FR": "E-mail",
+        "it-IT": "Email",
+        "ja-JP": "電子メール",
+        "pl-PL": "Email",
+        "pt-BR": "Email",
+        "ru-RU": "Электронное письмо ",
+        "zh-CN": "电子邮件"
+      }
+    },
+    {
+      "code": "emoji",
+      "name": {
+        "de-DE": "Emoji",
+        "en-US": "Emoji",
+        "es-ES": "Emoji",
+        "fr-FR": "Emoji",
+        "it-IT": "Emoji",
+        "ja-JP": "絵文字",
+        "pl-PL": "Emoji",
+        "pt-BR": "Emoji",
+        "ru-RU": "Emoji",
+        "zh-CN": "Emoji"
+      }
+    },
+    {
+      "code": "event",
+      "name": {
+        "de-DE": "Event",
+        "en-US": "Event",
+        "es-ES": "Evento",
+        "fr-FR": "Event",
+        "it-IT": "Evento",
+        "ja-JP": "イベント",
+        "pl-PL": "Event",
+        "pt-BR": "Evento",
+        "ru-RU": "Event",
+        "zh-CN": "事件"
+      }
+    },
+    {
+      "code": "excel",
+      "name": {
+        "de-DE": "Excel",
+        "en-US": "Excel",
+        "es-ES": "Excel",
+        "fr-FR": "Excel",
+        "it-IT": "Excel",
+        "ja-JP": "Excel",
+        "pl-PL": "Excel",
+        "pt-BR": "Excel",
+        "ru-RU": "Excel",
+        "zh-CN": "Excel"
+      }
+    },
+    {
+      "code": "eye",
+      "name": {
+        "de-DE": "Auge",
+        "en-US": "Eye",
+        "es-ES": "Ojo",
+        "fr-FR": "Œil",
+        "it-IT": "Occhio",
+        "ja-JP": "Eye",
+        "pl-PL": "Oko",
+        "pt-BR": "Olho",
+        "ru-RU": "Глаз",
+        "zh-CN": "Eye"
+      }
+    },
+    {
+      "code": "facebook",
+      "name": {
+        "de-DE": "Facebook",
+        "en-US": "Facebook",
+        "es-ES": "Facebook",
+        "fr-FR": "Facebook",
+        "it-IT": "Facebook",
+        "ja-JP": "フェイスブック",
+        "pl-PL": "Facebook",
+        "pt-BR": "Facebook",
+        "ru-RU": "Facebook",
+        "zh-CN": "Facebook"
+      }
+    },
+    {
+      "code": "family",
+      "name": {
+        "de-DE": "Familie",
+        "en-US": "Family",
+        "es-ES": "Familia",
+        "fr-FR": "Famille",
+        "it-IT": "Famiglia",
+        "ja-JP": "家族",
+        "pl-PL": "Rodzina",
+        "pt-BR": "Família",
+        "ru-RU": "Семья",
+        "zh-CN": "家庭"
+      }
+    },
+    {
+      "code": "fax",
+      "name": {
+        "de-DE": "Fax",
+        "en-US": "Fax",
+        "es-ES": "Fax",
+        "fr-FR": "Fax",
+        "it-IT": "Fax",
+        "ja-JP": "Fax",
+        "pl-PL": "Faks",
+        "pt-BR": "Fax",
+        "ru-RU": "Факс",
+        "zh-CN": "传真"
+      }
+    },
+    {
+      "code": "files",
+      "name": {
+        "de-DE": "Dateien",
+        "en-US": "Files",
+        "es-ES": "Archivos",
+        "fr-FR": "Fichiers",
+        "it-IT": "Files",
+        "ja-JP": "ファイル",
+        "pl-PL": "Pliki",
+        "pt-BR": "Arquivos",
+        "ru-RU": "Файлы",
+        "zh-CN": "文件"
+      }
+    },
+    {
+      "code": "filter",
+      "name": {
+        "de-DE": "Filter",
+        "en-US": "Filter",
+        "es-ES": "Filter",
+        "fr-FR": "Filtre",
+        "it-IT": "Filtro",
+        "ja-JP": "Filter",
+        "pl-PL": "Filtr",
+        "pt-BR": "Filtro",
+        "ru-RU": "Фильтр",
+        "zh-CN": "Filter"
+      }
+    },
+    {
+      "code": "finance",
+      "name": {
+        "de-DE": "Finanzen",
+        "en-US": "Finance",
+        "es-ES": "Finanzas",
+        "fr-FR": "Finances",
+        "it-IT": "Finanza",
+        "ja-JP": "金融・ファイナンス",
+        "pl-PL": "Finanse",
+        "pt-BR": "Finanças",
+        "ru-RU": "Финансы",
+        "zh-CN": "经济"
+      }
+    },
+    {
+      "code": "find",
+      "name": {
+        "de-DE": "Finden",
+        "en-US": "Find",
+        "es-ES": "Encontrar",
+        "fr-FR": "Trouver",
+        "it-IT": "Find",
+        "ja-JP": "検索",
+        "pl-PL": "Find",
+        "pt-BR": "Encontrar",
+        "ru-RU": "Найти",
+        "zh-CN": "Find"
+      }
+    },
+    {
+      "code": "fire",
+      "name": {
+        "de-DE": "Feuer",
+        "en-US": "Fire",
+        "es-ES": "Fuego",
+        "fr-FR": "Feu",
+        "it-IT": "Fuoco",
+        "ja-JP": "Fire",
+        "pl-PL": "Ogień",
+        "pt-BR": "Fogo",
+        "ru-RU": "Огонь",
+        "zh-CN": "火"
+      }
+    },
+    {
+      "code": "flags",
+      "name": {
+        "de-DE": "Flags",
+        "en-US": "Flags",
+        "es-ES": "Flags",
+        "fr-FR": "Flags",
+        "it-IT": "Flags",
+        "ja-JP": "Flags",
+        "pl-PL": "Flags",
+        "pt-BR": "Flags",
+        "ru-RU": "Flags",
+        "zh-CN": "Flags"
+      }
+    },
+    {
+      "code": "flower",
+      "name": {
+        "de-DE": "Blume",
+        "en-US": "Flower",
+        "es-ES": "Flor",
+        "fr-FR": "Fleur",
+        "it-IT": "Fiore",
+        "ja-JP": "花",
+        "pl-PL": "Kwiat",
+        "pt-BR": "Flor",
+        "ru-RU": "Цветок",
+        "zh-CN": "花"
+      }
+    },
+    {
+      "code": "folders",
+      "name": {
+        "de-DE": "Ordner",
+        "en-US": "Folders",
+        "es-ES": "Carpetas",
+        "fr-FR": "Dossiers",
+        "it-IT": "Cartelle",
+        "ja-JP": "フォルダ",
+        "pl-PL": "Katalogi",
+        "pt-BR": "Pastas",
+        "ru-RU": "Папки",
+        "zh-CN": "文件夹"
+      }
+    },
+    {
+      "code": "font",
+      "name": {
+        "de-DE": "Schriftart",
+        "en-US": "Font",
+        "es-ES": "Fuente",
+        "fr-FR": "Font",
+        "it-IT": "Font",
+        "ja-JP": "フォント",
+        "pl-PL": "Font",
+        "pt-BR": "Fonte",
+        "ru-RU": "Шрифт",
+        "zh-CN": "Font"
+      }
+    },
+    {
+      "code": "food",
+      "name": {
+        "de-DE": "Essen",
+        "en-US": "Food",
+        "es-ES": "Comida",
+        "fr-FR": "Nourriture",
+        "it-IT": "Cibo",
+        "ja-JP": "食品・フード",
+        "pl-PL": "Żywność",
+        "pt-BR": "Comida",
+        "ru-RU": "Продукты",
+        "zh-CN": "食物"
+      }
+    },
+    {
+      "code": "games",
+      "name": {
+        "de-DE": "Spiele",
+        "en-US": "Games",
+        "es-ES": "Juegos",
+        "fr-FR": "Jeux",
+        "it-IT": "Games",
+        "ja-JP": "ゲーム",
+        "pl-PL": "Gry",
+        "pt-BR": "Jogos",
+        "ru-RU": "Игры",
+        "zh-CN": "游戏"
+      }
+    },
+    {
+      "code": "gear",
+      "name": {
+        "de-DE": "Gear",
+        "en-US": "Gear",
+        "es-ES": "Gear",
+        "fr-FR": "Gear",
+        "it-IT": "Gear",
+        "ja-JP": "Gear",
+        "pl-PL": "Gear",
+        "pt-BR": "Engrenagem",
+        "ru-RU": "Gear",
+        "zh-CN": "齿轮"
+      }
+    },
+    {
+      "code": "globe",
+      "name": {
+        "de-DE": "Globus",
+        "en-US": "Globe",
+        "es-ES": "Globe",
+        "fr-FR": "Globe",
+        "it-IT": "Globo",
+        "ja-JP": "グローブ",
+        "pl-PL": "Globe",
+        "pt-BR": "Globo",
+        "ru-RU": "Globe",
+        "zh-CN": "Globe"
+      }
+    },
+    {
+      "code": "gmail",
+      "name": {
+        "de-DE": "Gmail",
+        "en-US": "Gmail",
+        "es-ES": "Gmail",
+        "fr-FR": "Gmail",
+        "it-IT": "Gmail",
+        "ja-JP": "Gmail",
+        "pl-PL": "Gmail",
+        "pt-BR": "Gmail",
+        "ru-RU": "Gmail",
+        "zh-CN": "Gmail"
+      }
+    },
+    {
+      "code": "google",
+      "name": {
+        "de-DE": "Google",
+        "en-US": "Google",
+        "es-ES": "Google",
+        "fr-FR": "Google",
+        "it-IT": "Google",
+        "ja-JP": "Google",
+        "pl-PL": "Google",
+        "pt-BR": "Google",
+        "ru-RU": "Google",
+        "zh-CN": "谷歌"
+      }
+    },
+    {
+      "code": "group",
+      "name": {
+        "de-DE": "Gruppe",
+        "en-US": "Group",
+        "es-ES": "Grupo",
+        "fr-FR": "Groupe",
+        "it-IT": "Gruppo",
+        "ja-JP": "グループ",
+        "pl-PL": "Grupa",
+        "pt-BR": "Grupo",
+        "ru-RU": "Группа",
+        "zh-CN": "组"
+      }
+    },
+    {
+      "code": "hamburger",
+      "name": {
+        "de-DE": "Hamburger",
+        "en-US": "Hamburger",
+        "es-ES": "Hamburguesa",
+        "fr-FR": "Hamburger",
+        "it-IT": "Hamburger",
+        "ja-JP": "ハンバーガー",
+        "pl-PL": "Hamburger",
+        "pt-BR": "Hamburger",
+        "ru-RU": "Гамбургер",
+        "zh-CN": "Hamburger"
+      }
+    },
+    {
+      "code": "hand",
+      "name": {
+        "de-DE": "Hand",
+        "en-US": "Hand",
+        "es-ES": "Mano",
+        "fr-FR": "Main",
+        "it-IT": "Mano",
+        "ja-JP": "Hand",
+        "pl-PL": "Hand",
+        "pt-BR": "Mão",
+        "ru-RU": "Рука",
+        "zh-CN": "手"
+      }
+    },
+    {
+      "code": "health",
+      "name": {
+        "de-DE": "Gesundheit",
+        "en-US": "Health",
+        "es-ES": "Salud",
+        "fr-FR": "Santé",
+        "it-IT": "Salute",
+        "ja-JP": "健康",
+        "pl-PL": "Zdrowie",
+        "pt-BR": "Saúde",
+        "ru-RU": "Health",
+        "zh-CN": "健康"
+      }
+    },
+    {
+      "code": "heart",
+      "name": {
+        "de-DE": "Herz",
+        "en-US": "Heart",
+        "es-ES": "Corazón",
+        "fr-FR": "Heart",
+        "it-IT": "Cuore",
+        "ja-JP": "Heart",
+        "pl-PL": "Serce",
+        "pt-BR": "Coração",
+        "ru-RU": "Сердце",
+        "zh-CN": "心"
+      }
+    },
+    {
+      "code": "help",
+      "name": {
+        "de-DE": "Hilfe",
+        "en-US": "Help",
+        "es-ES": "Ayuda",
+        "fr-FR": "Help",
+        "it-IT": "Help",
+        "ja-JP": "Help",
+        "pl-PL": "Help",
+        "pt-BR": "Help",
+        "ru-RU": "Help",
+        "zh-CN": "Help"
+      }
+    },
+    {
+      "code": "home",
+      "name": {
+        "de-DE": "Home",
+        "en-US": "Home",
+        "es-ES": "Home",
+        "fr-FR": "Accueil",
+        "it-IT": "Casa",
+        "ja-JP": "ホーム",
+        "pl-PL": "Home",
+        "pt-BR": "Casa",
+        "ru-RU": "Главная",
+        "zh-CN": "Home"
+      }
+    },
+    {
+      "code": "hotel",
+      "name": {
+        "de-DE": "Hotel",
+        "en-US": "Hotel",
+        "es-ES": "Hotel",
+        "fr-FR": "Hotel",
+        "it-IT": "Hotel",
+        "ja-JP": "ホテル",
+        "pl-PL": "Hotel",
+        "pt-BR": "Hotel",
+        "ru-RU": "Hotel",
+        "zh-CN": "Hotel"
+      }
+    },
+    {
+      "code": "house",
+      "name": {
+        "de-DE": "Haus",
+        "en-US": "House",
+        "es-ES": "Casa",
+        "fr-FR": "Maison",
+        "it-IT": "Casa",
+        "ja-JP": "家",
+        "pl-PL": "Dom",
+        "pt-BR": "Casa",
+        "ru-RU": "Дом",
+        "zh-CN": "House"
+      }
+    },
+    {
+      "code": "human",
+      "name": {
+        "de-DE": "Human",
+        "en-US": "Human",
+        "es-ES": "Humano",
+        "fr-FR": "Human",
+        "it-IT": "Umano",
+        "ja-JP": "人間",
+        "pl-PL": "Human",
+        "pt-BR": "Human",
+        "ru-RU": "Human",
+        "zh-CN": "Human"
+      }
+    },
+    {
+      "code": "industrial",
+      "name": {
+        "de-DE": "Industrial",
+        "en-US": "Industrial",
+        "es-ES": "Industrial",
+        "fr-FR": "Industriel",
+        "it-IT": "Industriale",
+        "ja-JP": "産業",
+        "pl-PL": "Industrial",
+        "pt-BR": "Industrial",
+        "ru-RU": "Промышленные",
+        "zh-CN": "Industrial"
+      }
+    },
+    {
+      "code": "info",
+      "name": {
+        "de-DE": "Info",
+        "en-US": "Info",
+        "es-ES": "Información",
+        "fr-FR": "Info",
+        "it-IT": "Info",
+        "ja-JP": "情報",
+        "pl-PL": "Informacje",
+        "pt-BR": "Info",
+        "ru-RU": "Информация",
+        "zh-CN": "信息"
+      }
+    },
+    {
+      "code": "instagram",
+      "name": {
+        "de-DE": "Instagram",
+        "en-US": "Instagram",
+        "es-ES": "Instagram",
+        "fr-FR": "Instagram",
+        "it-IT": "Instagram",
+        "ja-JP": "インスタグラム",
+        "pl-PL": "Instagram",
+        "pt-BR": "Instagram",
+        "ru-RU": "Instagram",
+        "zh-CN": "Instagram"
+      }
+    },
+    {
+      "code": "internet",
+      "name": {
+        "de-DE": "Internet",
+        "en-US": "Internet",
+        "es-ES": "Internet",
+        "fr-FR": "Internet",
+        "it-IT": "Internet",
+        "ja-JP": "インターネット",
+        "pl-PL": "Internet",
+        "pt-BR": "Internet",
+        "ru-RU": "Интернет",
+        "zh-CN": "互联网"
+      }
+    },
+    {
+      "code": "key",
+      "name": {
+        "de-DE": "Schlüssel",
+        "en-US": "Key",
+        "es-ES": "Key",
+        "fr-FR": "Clé",
+        "it-IT": "Chiave",
+        "ja-JP": "キー",
+        "pl-PL": "Key",
+        "pt-BR": "Chave",
+        "ru-RU": "Ключ",
+        "zh-CN": "Key"
+      }
+    },
+    {
+      "code": "laptop",
+      "name": {
+        "de-DE": "Laptop",
+        "en-US": "Laptop",
+        "es-ES": "Ordenador portátil",
+        "fr-FR": "Laptop",
+        "it-IT": "Laptop",
+        "ja-JP": "Laptop",
+        "pl-PL": "Laptop",
+        "pt-BR": "Computador portátil",
+        "ru-RU": "Laptop",
+        "zh-CN": "笔记本电脑"
+      }
+    },
+    {
+      "code": "light-bulb",
+      "name": {
+        "de-DE": "Light Bulb",
+        "en-US": "Light Bulb",
+        "es-ES": "Light Bulb",
+        "fr-FR": "Ampoule",
+        "it-IT": "Lampadina",
+        "ja-JP": "電球",
+        "pl-PL": "Light Bulb",
+        "pt-BR": "Light Bulb",
+        "ru-RU": "Light Bulb",
+        "zh-CN": "灯泡"
+      }
+    },
+    {
+      "code": "like",
+      "name": {
+        "de-DE": "Like",
+        "en-US": "Like",
+        "es-ES": "Like",
+        "fr-FR": "Comme",
+        "it-IT": "Like",
+        "ja-JP": "Like",
+        "pl-PL": "Like",
+        "pt-BR": "Like",
+        "ru-RU": "Like",
+        "zh-CN": "Like"
+      }
+    },
+    {
+      "code": "line",
+      "name": {
+        "de-DE": "Linie",
+        "en-US": "Line",
+        "es-ES": "Línea",
+        "fr-FR": "Ligne",
+        "it-IT": "Linea",
+        "ja-JP": "ライン",
+        "pl-PL": "Linia",
+        "pt-BR": "Linha",
+        "ru-RU": "Линия",
+        "zh-CN": "线"
+      }
+    },
+    {
+      "code": "link",
+      "name": {
+        "de-DE": "Link",
+        "en-US": "Link",
+        "es-ES": "Link",
+        "fr-FR": "Lien",
+        "it-IT": "Link",
+        "ja-JP": "リンク",
+        "pl-PL": "Link",
+        "pt-BR": "Link",
+        "ru-RU": "Ссылка",
+        "zh-CN": "链接"
+      }
+    },
+    {
+      "code": "linkedin",
+      "name": {
+        "de-DE": "Linkedin",
+        "en-US": "Linkedin",
+        "es-ES": "Linkedin",
+        "fr-FR": "Linkedin",
+        "it-IT": "Linkedin",
+        "ja-JP": "Linkedin",
+        "pl-PL": "Linkedin",
+        "pt-BR": "Linkedin",
+        "ru-RU": "Linkedin",
+        "zh-CN": "Linkedin"
+      }
+    },
+    {
+      "code": "location",
+      "name": {
+        "de-DE": "Location",
+        "en-US": "Location",
+        "es-ES": "Ubicación",
+        "fr-FR": "Emplacement",
+        "it-IT": "Location",
+        "ja-JP": "Location",
+        "pl-PL": "Lokalizacja",
+        "pt-BR": "Localização",
+        "ru-RU": "Location",
+        "zh-CN": "位置"
+      }
+    },
+    {
+      "code": "lock",
+      "name": {
+        "de-DE": "Lock",
+        "en-US": "Lock",
+        "es-ES": "Lock",
+        "fr-FR": "Lock",
+        "it-IT": "Serratura",
+        "ja-JP": "ロック",
+        "pl-PL": "Lock",
+        "pt-BR": "Bloqueio",
+        "ru-RU": "Lock",
+        "zh-CN": "锁"
+      }
+    },
+    {
+      "code": "login",
+      "name": {
+        "de-DE": "Login",
+        "en-US": "Login",
+        "es-ES": "Login",
+        "fr-FR": "Login",
+        "it-IT": "Login",
+        "ja-JP": "ログイン",
+        "pl-PL": "Login",
+        "pt-BR": "Login",
+        "ru-RU": "Login",
+        "zh-CN": "登录"
+      }
+    },
+    {
+      "code": "love",
+      "name": {
+        "de-DE": "Liebe",
+        "en-US": "Love",
+        "es-ES": "Amor",
+        "fr-FR": "Amour",
+        "it-IT": "Amore",
+        "ja-JP": "愛",
+        "pl-PL": "Miłość",
+        "pt-BR": "Love",
+        "ru-RU": "Love",
+        "zh-CN": "爱"
+      }
+    },
+    {
+      "code": "mac",
+      "name": {
+        "de-DE": "Mac",
+        "en-US": "Mac",
+        "es-ES": "Mac",
+        "fr-FR": "Mac",
+        "it-IT": "Mac",
+        "ja-JP": "Mac",
+        "pl-PL": "Mac",
+        "pt-BR": "Mac",
+        "ru-RU": "Mac",
+        "zh-CN": "Mac"
+      }
+    },
+    {
+      "code": "magnifying-glass",
+      "name": {
+        "de-DE": "Magnifying Glass",
+        "en-US": "Magnifying Glass",
+        "es-ES": "Magnifying Glass",
+        "fr-FR": "Magnifying Glass",
+        "it-IT": "Magnifying Glass",
+        "ja-JP": "虫眼鏡",
+        "pl-PL": "Szkło powiększające",
+        "pt-BR": "Lupa",
+        "ru-RU": "Увеличительное стекло",
+        "zh-CN": "放大镜"
+      }
+    },
+    {
+      "code": "man",
+      "name": {
+        "de-DE": "Mann",
+        "en-US": "Man",
+        "es-ES": "Hombre",
+        "fr-FR": "Homme",
+        "it-IT": "Uomo",
+        "ja-JP": "Man",
+        "pl-PL": "Człowiek",
+        "pt-BR": "Homem",
+        "ru-RU": "Man",
+        "zh-CN": "人"
+      }
+    },
+    {
+      "code": "map",
+      "name": {
+        "de-DE": "Karte",
+        "en-US": "Map",
+        "es-ES": "Mapa",
+        "fr-FR": "Carte",
+        "it-IT": "Map",
+        "ja-JP": "地図",
+        "pl-PL": "Map",
+        "pt-BR": "Mapa",
+        "ru-RU": "Карта",
+        "zh-CN": "地图"
+      }
+    },
+    {
+      "code": "marketing",
+      "name": {
+        "de-DE": "Marketing",
+        "en-US": "Marketing",
+        "es-ES": "Marketing",
+        "fr-FR": "Marketing",
+        "it-IT": "Marketing",
+        "ja-JP": "マーケティング",
+        "pl-PL": "Marketing",
+        "pt-BR": "Marketing",
+        "ru-RU": "Маркетинг",
+        "zh-CN": "营销"
+      }
+    },
+    {
+      "code": "medical",
+      "name": {
+        "de-DE": "Medical",
+        "en-US": "Medical",
+        "es-ES": "Medical",
+        "fr-FR": "Medical",
+        "it-IT": "Medico",
+        "ja-JP": "医療",
+        "pl-PL": "Medical",
+        "pt-BR": "Medical",
+        "ru-RU": "Medical",
+        "zh-CN": "Medical"
+      }
+    },
+    {
+      "code": "menu",
+      "name": {
+        "de-DE": "Menü",
+        "en-US": "Menu",
+        "es-ES": "Menú",
+        "fr-FR": "Menu",
+        "it-IT": "Menu",
+        "ja-JP": "メニュー",
+        "pl-PL": "Menu",
+        "pt-BR": "Menu",
+        "ru-RU": "Меню",
+        "zh-CN": "菜单"
+      }
+    },
+    {
+      "code": "message",
+      "name": {
+        "de-DE": "Nachricht",
+        "en-US": "Message",
+        "es-ES": "Mensaje",
+        "fr-FR": "Message",
+        "it-IT": "Messaggio",
+        "ja-JP": "メッセージ",
+        "pl-PL": "Message",
+        "pt-BR": "Mensagem",
+        "ru-RU": "Сообщение",
+        "zh-CN": "Message"
+      }
+    },
+    {
+      "code": "microphone",
+      "name": {
+        "de-DE": "Mikrofon",
+        "en-US": "Microphone",
+        "es-ES": "Micrófono",
+        "fr-FR": "Microphone",
+        "it-IT": "Microfono",
+        "ja-JP": "Microphone",
+        "pl-PL": "Mikrofon",
+        "pt-BR": "Microfone",
+        "ru-RU": "Микрофон",
+        "zh-CN": "麦克风"
+      }
+    },
+    {
+      "code": "mobile",
+      "name": {
+        "de-DE": "Handy",
+        "en-US": "Mobile",
+        "es-ES": "Móvil",
+        "fr-FR": "Mobile",
+        "it-IT": "Mobile",
+        "ja-JP": "携帯電話・モバイル",
+        "pl-PL": "Telefon komórkowy",
+        "pt-BR": "Mobile",
+        "ru-RU": "Мобильные",
+        "zh-CN": "移动设备"
+      }
+    },
+    {
+      "code": "money",
+      "name": {
+        "de-DE": "Geld",
+        "en-US": "Money",
+        "es-ES": "Dinero",
+        "fr-FR": "Argent",
+        "it-IT": "Money",
+        "ja-JP": "お金",
+        "pl-PL": "Pieniądze",
+        "pt-BR": "Dinheiro",
+        "ru-RU": "Деньги",
+        "zh-CN": "钱"
+      }
+    },
+    {
+      "code": "mouse",
+      "name": {
+        "de-DE": "Maus",
+        "en-US": "Mouse",
+        "es-ES": "Ratón",
+        "fr-FR": "Souris",
+        "it-IT": "Mouse",
+        "ja-JP": "マウス",
+        "pl-PL": "Mouse",
+        "pt-BR": "Mouse",
+        "ru-RU": "Мышь",
+        "zh-CN": "Mouse"
+      }
+    },
+    {
+      "code": "movie",
+      "name": {
+        "de-DE": "Film",
+        "en-US": "Movie",
+        "es-ES": "Película",
+        "fr-FR": "Film",
+        "it-IT": "Film",
+        "ja-JP": "映画",
+        "pl-PL": "Film",
+        "pt-BR": "Filme",
+        "ru-RU": "Movie",
+        "zh-CN": "电影"
+      }
+    },
+    {
+      "code": "music",
+      "name": {
+        "de-DE": "Musik",
+        "en-US": "Music",
+        "es-ES": "Música",
+        "fr-FR": "Musique",
+        "it-IT": "Musica",
+        "ja-JP": "音楽・ミュージック",
+        "pl-PL": "Muzyka",
+        "pt-BR": "Músicas",
+        "ru-RU": "Музыка",
+        "zh-CN": "音乐"
+      }
+    },
+    {
+      "code": "navigate",
+      "name": {
+        "de-DE": "Navigieren",
+        "en-US": "Navigate",
+        "es-ES": "Navegar",
+        "fr-FR": "Navigate",
+        "it-IT": "Navigare",
+        "ja-JP": "Navigate",
+        "pl-PL": "Navigate",
+        "pt-BR": "Navigate",
+        "ru-RU": "Navigate",
+        "zh-CN": "导航"
+      }
+    },
+    {
+      "code": "networking",
+      "name": {
+        "de-DE": "Vernetzung",
+        "en-US": "Networking",
+        "es-ES": "Networking",
+        "fr-FR": "Networking",
+        "it-IT": "Networking",
+        "ja-JP": "Networking",
+        "pl-PL": "Networking",
+        "pt-BR": "Networking",
+        "ru-RU": "Networking",
+        "zh-CN": "Networking"
+      }
+    },
+    {
+      "code": "new",
+      "name": {
+        "de-DE": "Neu",
+        "en-US": "New",
+        "es-ES": "Nuevo",
+        "fr-FR": "Nouveau",
+        "it-IT": "Nuovo",
+        "ja-JP": "New",
+        "pl-PL": "Nowy",
+        "pt-BR": "Novo",
+        "ru-RU": "New",
+        "zh-CN": "New"
+      }
+    },
+    {
+      "code": "newspaper",
+      "name": {
+        "de-DE": "Zeitung",
+        "en-US": "Newspaper",
+        "es-ES": "Periódico",
+        "fr-FR": "Journal",
+        "it-IT": "Giornale",
+        "ja-JP": "新聞",
+        "pl-PL": "Newspaper",
+        "pt-BR": "Jornal",
+        "ru-RU": "Газета",
+        "zh-CN": "报纸"
+      }
+    },
+    {
+      "code": "note",
+      "name": {
+        "de-DE": "Hinweis",
+        "en-US": "Note",
+        "es-ES": "Nota",
+        "fr-FR": "Remarque",
+        "it-IT": "Nota",
+        "ja-JP": "Note",
+        "pl-PL": "Note",
+        "pt-BR": "Nota",
+        "ru-RU": "Note",
+        "zh-CN": "注意"
+      }
+    },
+    {
+      "code": "notification",
+      "name": {
+        "de-DE": "Benachrichtigung",
+        "en-US": "Notification",
+        "es-ES": "Notificación",
+        "fr-FR": "Notification",
+        "it-IT": "Notifica",
+        "ja-JP": "Notification",
+        "pl-PL": "Notification",
+        "pt-BR": "Notificação",
+        "ru-RU": "Уведомление",
+        "zh-CN": "通知"
+      }
+    },
+    {
+      "code": "office",
+      "name": {
+        "de-DE": "Büro",
+        "en-US": "Office",
+        "es-ES": "Oficina",
+        "fr-FR": "Bureau",
+        "it-IT": "Ufficio",
+        "ja-JP": "Office",
+        "pl-PL": "Office",
+        "pt-BR": "Escritório",
+        "ru-RU": "Office",
+        "zh-CN": "办公室"
+      }
+    },
+    {
+      "code": "pdf",
+      "name": {
+        "de-DE": "PDF",
+        "en-US": "PDF",
+        "es-ES": "PDF",
+        "fr-FR": "PDF",
+        "it-IT": "PDF",
+        "ja-JP": "PDF",
+        "pl-PL": "PDF",
+        "pt-BR": "PDF",
+        "ru-RU": "PDF",
+        "zh-CN": "PDF"
+      }
+    },
+    {
+      "code": "pencil",
+      "name": {
+        "de-DE": "Bleistift",
+        "en-US": "Pencil",
+        "es-ES": "Lápiz",
+        "fr-FR": "Crayon",
+        "it-IT": "Matita",
+        "ja-JP": "鉛筆",
+        "pl-PL": "Ołówek",
+        "pt-BR": "Lápis",
+        "ru-RU": "Карандаш",
+        "zh-CN": "铅笔"
+      }
+    },
+    {
+      "code": "person",
+      "name": {
+        "de-DE": "Person",
+        "en-US": "Person",
+        "es-ES": "Persona",
+        "fr-FR": "Person",
+        "it-IT": "Persona",
+        "ja-JP": "人",
+        "pl-PL": "Osoba",
+        "pt-BR": "Pessoa",
+        "ru-RU": "Person",
+        "zh-CN": "人"
+      }
+    },
+    {
+      "code": "phone",
+      "name": {
+        "de-DE": "Telefon",
+        "en-US": "Phone",
+        "es-ES": "Teléfono",
+        "fr-FR": "Téléphone",
+        "it-IT": "Telefono",
+        "ja-JP": "電話",
+        "pl-PL": "Telefon",
+        "pt-BR": "Telefone",
+        "ru-RU": "Телефон",
+        "zh-CN": "电话"
+      }
+    },
+    {
+      "code": "photography",
+      "name": {
+        "de-DE": "Fotografie",
+        "en-US": "Photography",
+        "es-ES": "Fotografía",
+        "fr-FR": "Photography",
+        "it-IT": "Fotografia",
+        "ja-JP": "写真",
+        "pl-PL": "Photography",
+        "pt-BR": "Fotografia",
+        "ru-RU": "Фотография",
+        "zh-CN": "摄影"
+      }
+    },
+    {
+      "code": "photos",
+      "name": {
+        "de-DE": "Fotos",
+        "en-US": "Photos",
+        "es-ES": "Fotos",
+        "fr-FR": "Photos",
+        "it-IT": "Photos",
+        "ja-JP": "写真",
+        "pl-PL": "Zdjęcia",
+        "pt-BR": "Fotos",
+        "ru-RU": "Photos",
+        "zh-CN": "Photos"
+      }
+    },
+    {
+      "code": "photoshop",
+      "name": {
+        "de-DE": "Photoshop",
+        "en-US": "Photoshop",
+        "es-ES": "Photoshop",
+        "fr-FR": "Photoshop",
+        "it-IT": "Photoshop",
+        "ja-JP": "Photoshop",
+        "pl-PL": "Photoshop",
+        "pt-BR": "Photoshop",
+        "ru-RU": "Photoshop",
+        "zh-CN": "Photoshop"
+      }
+    },
+    {
+      "code": "pink",
+      "name": {
+        "de-DE": "Rosa",
+        "en-US": "Pink",
+        "es-ES": "Pink",
+        "fr-FR": "Rose",
+        "it-IT": "Rosa",
+        "ja-JP": "ピンク",
+        "pl-PL": "Różowy",
+        "pt-BR": "Rosa",
+        "ru-RU": "Розовый",
+        "zh-CN": "Pink"
+      }
+    },
+    {
+      "code": "pixel",
+      "name": {
+        "de-DE": "Pixel",
+        "en-US": "Pixel",
+        "es-ES": "Pixel",
+        "fr-FR": "Pixel",
+        "it-IT": "Pixel",
+        "ja-JP": "ピクセル",
+        "pl-PL": "Pixel",
+        "pt-BR": "Pixel",
+        "ru-RU": "Пиксель",
+        "zh-CN": "像素"
+      }
+    },
+    {
+      "code": "plan",
+      "name": {
+        "de-DE": "Planen",
+        "en-US": "Plan",
+        "es-ES": "Plan",
+        "fr-FR": "Plan",
+        "it-IT": "Piano",
+        "ja-JP": "計画",
+        "pl-PL": "Plan",
+        "pt-BR": "Plano",
+        "ru-RU": "План",
+        "zh-CN": "计划"
+      }
+    },
+    {
+      "code": "play",
+      "name": {
+        "de-DE": "Spielen",
+        "en-US": "Play",
+        "es-ES": "Play",
+        "fr-FR": "Jouer",
+        "it-IT": "Play",
+        "ja-JP": "Play",
+        "pl-PL": "Play",
+        "pt-BR": "Play",
+        "ru-RU": "Играть",
+        "zh-CN": "Play"
+      }
+    },
+    {
+      "code": "plus",
+      "name": {
+        "de-DE": "Plus",
+        "en-US": "Plus",
+        "es-ES": "Más",
+        "fr-FR": "Plus",
+        "it-IT": "Plus",
+        "ja-JP": "プラス",
+        "pl-PL": "Plus",
+        "pt-BR": "Plus",
+        "ru-RU": "Плюс",
+        "zh-CN": "Plus"
+      }
+    },
+    {
+      "code": "pokemon",
+      "name": {
+        "de-DE": "Pokemon",
+        "en-US": "Pokemon",
+        "es-ES": "Pokemon",
+        "fr-FR": "Pokemon",
+        "it-IT": "Pokemon",
+        "ja-JP": "Pokemon",
+        "pl-PL": "Pokemon",
+        "pt-BR": "Pokemon",
+        "ru-RU": "Pokemon",
+        "zh-CN": "宠物小精灵"
+      }
+    },
+    {
+      "code": "powerpoint",
+      "name": {
+        "de-DE": "Powerpoint",
+        "en-US": "Powerpoint",
+        "es-ES": "PowerPoint",
+        "fr-FR": "Powerpoint",
+        "it-IT": "Powerpoint",
+        "ja-JP": "Powerpoint",
+        "pl-PL": "Powerpoint",
+        "pt-BR": "Powerpoint",
+        "ru-RU": "Powerpoint",
+        "zh-CN": "Powerpoint"
+      }
+    },
+    {
+      "code": "present",
+      "name": {
+        "de-DE": "Present",
+        "en-US": "Present",
+        "es-ES": "Presente",
+        "fr-FR": "Present",
+        "it-IT": "Presente",
+        "ja-JP": "現在",
+        "pl-PL": "Present",
+        "pt-BR": "Presente",
+        "ru-RU": "Настоящее время",
+        "zh-CN": "Present"
+      }
+    },
+    {
+      "code": "print",
+      "name": {
+        "de-DE": "Drucken",
+        "en-US": "Print",
+        "es-ES": "Print",
+        "fr-FR": "Print",
+        "it-IT": "Print",
+        "ja-JP": "印刷",
+        "pl-PL": "Print",
+        "pt-BR": "Impressão",
+        "ru-RU": "Print",
+        "zh-CN": "打印"
+      }
+    },
+    {
+      "code": "product",
+      "name": {
+        "de-DE": "Produkt",
+        "en-US": "Product",
+        "es-ES": "Producto",
+        "fr-FR": "Produit",
+        "it-IT": "Prodotto",
+        "ja-JP": "製品",
+        "pl-PL": "Product",
+        "pt-BR": "Product",
+        "ru-RU": "Продукт",
+        "zh-CN": "产品"
+      }
+    },
+    {
+      "code": "profile",
+      "name": {
+        "de-DE": "Objekte",
+        "en-US": "Profile",
+        "es-ES": "Objetos",
+        "fr-FR": "Objets",
+        "it-IT": "Oggetti",
+        "ja-JP": "物・オブジェクト",
+        "pl-PL": "Przedmioty",
+        "pt-BR": "Objetos",
+        "ru-RU": "Объекты",
+        "zh-CN": "对象"
+      }
+    },
+    {
+      "code": "project",
+      "name": {
+        "de-DE": "Projekt",
+        "en-US": "Project",
+        "es-ES": "Proyecto",
+        "fr-FR": "Projet",
+        "it-IT": "Progetto",
+        "ja-JP": "プロジェクト",
+        "pl-PL": "Project",
+        "pt-BR": "Projeto",
+        "ru-RU": "Проект",
+        "zh-CN": "项目"
+      }
+    },
+    {
+      "code": "question-mark",
+      "name": {
+        "de-DE": "Fragezeichen",
+        "en-US": "Question Mark",
+        "es-ES": "Signo de interrogación",
+        "fr-FR": "Question Mark",
+        "it-IT": "Punto interrogativo",
+        "ja-JP": "Question Mark",
+        "pl-PL": "Znak zapytania",
+        "pt-BR": "Ponto de interrogação",
+        "ru-RU": "Вопросительный знак",
+        "zh-CN": "问号"
+      }
+    },
+    {
+      "code": "red",
+      "name": {
+        "de-DE": "Rot",
+        "en-US": "Red",
+        "es-ES": "Rojo",
+        "fr-FR": "Rouge",
+        "it-IT": "Rosso",
+        "ja-JP": "赤",
+        "pl-PL": "Czerwony",
+        "pt-BR": "Vermelho",
+        "ru-RU": "Красный",
+        "zh-CN": "红"
+      }
+    },
+    {
+      "code": "refresh",
+      "name": {
+        "de-DE": "Aktualisieren",
+        "en-US": "Refresh",
+        "es-ES": "Refresh",
+        "fr-FR": "Refresh",
+        "it-IT": "Refresh",
+        "ja-JP": "Refresh",
+        "pl-PL": "Refresh",
+        "pt-BR": "Refresh",
+        "ru-RU": "Refresh",
+        "zh-CN": "刷新"
+      }
+    },
+    {
+      "code": "religion",
+      "name": {
+        "de-DE": "Religion",
+        "en-US": "Religion",
+        "es-ES": "Religión",
+        "fr-FR": "Religion",
+        "it-IT": "Religione",
+        "ja-JP": "宗教",
+        "pl-PL": "Religia",
+        "pt-BR": "Religião",
+        "ru-RU": "Религия",
+        "zh-CN": "宗教"
+      }
+    },
+    {
+      "code": "report",
+      "name": {
+        "de-DE": "Bericht",
+        "en-US": "Report",
+        "es-ES": "Informe",
+        "fr-FR": "Rapport",
+        "it-IT": "Report",
+        "ja-JP": "Report",
+        "pl-PL": "Raport",
+        "pt-BR": "Relatório",
+        "ru-RU": "Отчет",
+        "zh-CN": "报告"
+      }
+    },
+    {
+      "code": "sales",
+      "name": {
+        "de-DE": "Sales",
+        "en-US": "Sales",
+        "es-ES": "Ventas",
+        "fr-FR": "Ventes",
+        "it-IT": "Sales",
+        "ja-JP": "Sales",
+        "pl-PL": "Sales",
+        "pt-BR": "Vendas",
+        "ru-RU": "Продажи",
+        "zh-CN": "销售"
+      }
+    },
+    {
+      "code": "samsung",
+      "name": {
+        "de-DE": "Samsung",
+        "en-US": "Samsung",
+        "es-ES": "Samsung",
+        "fr-FR": "Samsung",
+        "it-IT": "Samsung",
+        "ja-JP": "Samsung",
+        "pl-PL": "Samsung",
+        "pt-BR": "Samsung",
+        "ru-RU": "Samsung",
+        "zh-CN": "三星"
+      }
+    },
+    {
+      "code": "save",
+      "name": {
+        "de-DE": "Save",
+        "en-US": "Save",
+        "es-ES": "Save",
+        "fr-FR": "Save",
+        "it-IT": "Save",
+        "ja-JP": "Save",
+        "pl-PL": "Save",
+        "pt-BR": "Save",
+        "ru-RU": "Сохранить",
+        "zh-CN": "保存"
+      }
+    },
+    {
+      "code": "school",
+      "name": {
+        "de-DE": "Schule",
+        "en-US": "School",
+        "es-ES": "School",
+        "fr-FR": "École",
+        "it-IT": "Scuola",
+        "ja-JP": "学校",
+        "pl-PL": "Szkoła",
+        "pt-BR": "Escola",
+        "ru-RU": "Школа",
+        "zh-CN": "学校"
+      }
+    },
+    {
+      "code": "search",
+      "name": {
+        "de-DE": "Suche",
+        "en-US": "Search",
+        "es-ES": "Search",
+        "fr-FR": "Search",
+        "it-IT": "Ricerca",
+        "ja-JP": "Search",
+        "pl-PL": "Search",
+        "pt-BR": "Pesquisa",
+        "ru-RU": "Поиск",
+        "zh-CN": "搜索"
+      }
+    },
+    {
+      "code": "security",
+      "name": {
+        "de-DE": "Sicherheit",
+        "en-US": "Security",
+        "es-ES": "Seguridad",
+        "fr-FR": "Sécurité",
+        "it-IT": "Sicurezza",
+        "ja-JP": "セキュリティ",
+        "pl-PL": "Bezpieczeństwo",
+        "pt-BR": "Segurança",
+        "ru-RU": "Безопасность",
+        "zh-CN": "安全"
+      }
+    },
+    {
+      "code": "server",
+      "name": {
+        "de-DE": "Server",
+        "en-US": "Server",
+        "es-ES": "Servidor",
+        "fr-FR": "Serveur",
+        "it-IT": "Server",
+        "ja-JP": "Server",
+        "pl-PL": "Serwer",
+        "pt-BR": "Servidor",
+        "ru-RU": "Сервер",
+        "zh-CN": "服务器"
+      }
+    },
+    {
+      "code": "service",
+      "name": {
+        "de-DE": "Service",
+        "en-US": "Service",
+        "es-ES": "Servicio",
+        "fr-FR": "Service",
+        "it-IT": "Servizio",
+        "ja-JP": "サービス",
+        "pl-PL": "Service",
+        "pt-BR": "Serviço",
+        "ru-RU": "Service",
+        "zh-CN": "服务"
+      }
+    },
+    {
+      "code": "settings",
+      "name": {
+        "de-DE": "Einstellungen",
+        "en-US": "Settings",
+        "es-ES": "Settings",
+        "fr-FR": "Paramètres",
+        "it-IT": "Impostazioni",
+        "ja-JP": "設定",
+        "pl-PL": "Ustawienia",
+        "pt-BR": "Configurações",
+        "ru-RU": "Настройки",
+        "zh-CN": "设置"
+      }
+    },
+    {
+      "code": "share",
+      "name": {
+        "de-DE": "Share",
+        "en-US": "Share",
+        "es-ES": "Compartir",
+        "fr-FR": "Partager",
+        "it-IT": "Share",
+        "ja-JP": "Share",
+        "pl-PL": "Share",
+        "pt-BR": "Compartilhar",
+        "ru-RU": "Share",
+        "zh-CN": "Share"
+      }
+    },
+    {
+      "code": "shipping",
+      "name": {
+        "de-DE": "Versand",
+        "en-US": "Shipping",
+        "es-ES": "Envío",
+        "fr-FR": "Shipping",
+        "it-IT": "Shipping",
+        "ja-JP": "Shipping",
+        "pl-PL": "Wysyłka",
+        "pt-BR": "Shipping",
+        "ru-RU": "Shipping",
+        "zh-CN": "Shipping"
+      }
+    },
+    {
+      "code": "shop",
+      "name": {
+        "de-DE": "Shop",
+        "en-US": "Shop",
+        "es-ES": "Tienda",
+        "fr-FR": "Boutique",
+        "it-IT": "Negozio",
+        "ja-JP": "ショップ",
+        "pl-PL": "Sklep",
+        "pt-BR": "Shop",
+        "ru-RU": "Магазин",
+        "zh-CN": "Shop"
+      }
+    },
+    {
+      "code": "shopping-cart",
+      "name": {
+        "de-DE": "Shopping Cart",
+        "en-US": "Shopping Cart",
+        "es-ES": "Carrito de compras",
+        "fr-FR": "Shopping Cart",
+        "it-IT": "Shopping Cart",
+        "ja-JP": "Shopping Cart",
+        "pl-PL": "Shopping Cart",
+        "pt-BR": "Carrinho de compras",
+        "ru-RU": "Корзина",
+        "zh-CN": "购物车"
+      }
+    },
+    {
+      "code": "skype",
+      "name": {
+        "de-DE": "Skype",
+        "en-US": "Skype",
+        "es-ES": "Skype",
+        "fr-FR": "Skype",
+        "it-IT": "Skype",
+        "ja-JP": "Skype",
+        "pl-PL": "Skype",
+        "pt-BR": "Skype",
+        "ru-RU": "Skype",
+        "zh-CN": "Skype"
+      }
+    },
+    {
+      "code": "smartphone",
+      "name": {
+        "de-DE": "Smartphone",
+        "en-US": "Smartphone",
+        "es-ES": "Smartphone",
+        "fr-FR": "Smartphone",
+        "it-IT": "Smartphone",
+        "ja-JP": "Smartphone",
+        "pl-PL": "Smartphone",
+        "pt-BR": "Smartphone",
+        "ru-RU": "Смартфон",
+        "zh-CN": "Smartphone"
+      }
+    },
+    {
+      "code": "smile",
+      "name": {
+        "de-DE": "Lächeln",
+        "en-US": "Smile",
+        "es-ES": "Smile",
+        "fr-FR": "Smile",
+        "it-IT": "Sorriso",
+        "ja-JP": "Smile",
+        "pl-PL": "Uśmiech",
+        "pt-BR": "Smile",
+        "ru-RU": "Улыбка",
+        "zh-CN": "微笑"
+      }
+    },
+    {
+      "code": "smiley-face",
+      "name": {
+        "de-DE": "Smiley Face",
+        "en-US": "Smiley Face",
+        "es-ES": "Cara sonriente",
+        "fr-FR": "Smiley Face",
+        "it-IT": "Smiley Face",
+        "ja-JP": "Smiley Face",
+        "pl-PL": "Smiley Face",
+        "pt-BR": "Rosto sorridente",
+        "ru-RU": "Smiley Face",
+        "zh-CN": "笑脸"
+      }
+    },
+    {
+      "code": "social-media",
+      "name": {
+        "de-DE": "Soziale Netzwerke",
+        "en-US": "Social Media",
+        "es-ES": "Redes sociales",
+        "fr-FR": "Réseaux sociaux",
+        "it-IT": "Social Networks",
+        "ja-JP": "ソーシャルネットワーク",
+        "pl-PL": "Sieci społecznościowe",
+        "pt-BR": "Redes sociais",
+        "ru-RU": "Социальные сети",
+        "zh-CN": "社交网络"
+      }
+    },
+    {
+      "code": "sound",
+      "name": {
+        "de-DE": "Sound",
+        "en-US": "Sound",
+        "es-ES": "Sound",
+        "fr-FR": "Sound",
+        "it-IT": "Suono",
+        "ja-JP": "音",
+        "pl-PL": "Dźwięk",
+        "pt-BR": "Som",
+        "ru-RU": "Звук",
+        "zh-CN": "声音"
+      }
+    },
+    {
+      "code": "sport",
+      "name": {
+        "de-DE": "Sport",
+        "en-US": "Sport",
+        "es-ES": "Deporte",
+        "fr-FR": "Sport",
+        "it-IT": "Sport",
+        "ja-JP": "スポーツ",
+        "pl-PL": "Sport",
+        "pt-BR": "Sport",
+        "ru-RU": "Спорт",
+        "zh-CN": "Sport"
+      }
+    },
+    {
+      "code": "stars",
+      "name": {
+        "de-DE": "Sterne",
+        "en-US": "Stars",
+        "es-ES": "Estrellas",
+        "fr-FR": "Étoiles",
+        "it-IT": "Stelle",
+        "ja-JP": "Stars",
+        "pl-PL": "Gwiazdy",
+        "pt-BR": "Estrelas",
+        "ru-RU": "Звезды",
+        "zh-CN": "Stars"
+      }
+    },
+    {
+      "code": "statistic",
+      "name": {
+        "de-DE": "Statistik",
+        "en-US": "Statistic",
+        "es-ES": "Estadística",
+        "fr-FR": "Statistic",
+        "it-IT": "Statistic",
+        "ja-JP": "Statistic",
+        "pl-PL": "Statistic",
+        "pt-BR": "Estatística",
+        "ru-RU": "Статистика",
+        "zh-CN": "统计"
+      }
+    },
+    {
+      "code": "steam",
+      "name": {
+        "de-DE": "Dampf",
+        "en-US": "Steam",
+        "es-ES": "Vapor",
+        "fr-FR": "Vapeur",
+        "it-IT": "Vapore",
+        "ja-JP": "蒸気",
+        "pl-PL": "Steam",
+        "pt-BR": "Vapor",
+        "ru-RU": "Steam",
+        "zh-CN": "蒸汽"
+      }
+    },
+    {
+      "code": "style",
+      "name": {
+        "de-DE": "Stil",
+        "en-US": "Style",
+        "es-ES": "Estilo",
+        "fr-FR": "Style",
+        "it-IT": "Stile",
+        "ja-JP": "スタイル",
+        "pl-PL": "Styl",
+        "pt-BR": "Estilo",
+        "ru-RU": "Стиль",
+        "zh-CN": "样式"
+      }
+    },
+    {
+      "code": "sun",
+      "name": {
+        "de-DE": "Sonne",
+        "en-US": "Sun",
+        "es-ES": "Sol",
+        "fr-FR": "Sun",
+        "it-IT": "Sole",
+        "ja-JP": "太陽",
+        "pl-PL": "Słońce",
+        "pt-BR": "Sun",
+        "ru-RU": "Солнце",
+        "zh-CN": "太阳"
+      }
+    },
+    {
+      "code": "tv",
+      "name": {
+        "de-DE": "TV",
+        "en-US": "TV",
+        "es-ES": "TV",
+        "fr-FR": "TV",
+        "it-IT": "TV",
+        "ja-JP": "テレビ",
+        "pl-PL": "TV",
+        "pt-BR": "TV",
+        "ru-RU": "TV",
+        "zh-CN": "电视"
+      }
+    },
+    {
+      "code": "technology",
+      "name": {
+        "de-DE": "Technologie",
+        "en-US": "Technology",
+        "es-ES": "Tecnología",
+        "fr-FR": "Technology",
+        "it-IT": "Tecnologia",
+        "ja-JP": "技術",
+        "pl-PL": "Technologia",
+        "pt-BR": "Tecnologia",
+        "ru-RU": "Technology",
+        "zh-CN": "技术"
+      }
+    },
+    {
+      "code": "text",
+      "name": {
+        "de-DE": "Text",
+        "en-US": "Text",
+        "es-ES": "Texto",
+        "fr-FR": "Texte",
+        "it-IT": "Testo",
+        "ja-JP": "テキスト",
+        "pl-PL": "Tekst",
+        "pt-BR": "Texto",
+        "ru-RU": "Текст",
+        "zh-CN": "文本"
+      }
+    },
+    {
+      "code": "thumbs-up",
+      "name": {
+        "de-DE": "Thumbs Up",
+        "en-US": "Thumbs Up",
+        "es-ES": "Thumbs Up",
+        "fr-FR": "Thumbs Up",
+        "it-IT": "Thumbs Up",
+        "ja-JP": "Thumbs Up",
+        "pl-PL": "Thumbs Up",
+        "pt-BR": "Thumbs Up",
+        "ru-RU": "Thumbs Up",
+        "zh-CN": "竖起大拇指"
+      }
+    },
+    {
+      "code": "tick",
+      "name": {
+        "de-DE": "Tick",
+        "en-US": "Tick",
+        "es-ES": "Garrapata",
+        "fr-FR": "Tick",
+        "it-IT": "Tick",
+        "ja-JP": "ティック",
+        "pl-PL": "Kleszcz",
+        "pt-BR": "Tick",
+        "ru-RU": "Tick",
+        "zh-CN": "Tick"
+      }
+    },
+    {
+      "code": "time",
+      "name": {
+        "de-DE": "Time",
+        "en-US": "Time",
+        "es-ES": "Time",
+        "fr-FR": "Heure",
+        "it-IT": "Time",
+        "ja-JP": "Time",
+        "pl-PL": "Time",
+        "pt-BR": "Time",
+        "ru-RU": "Time",
+        "zh-CN": "Time"
+      }
+    },
+    {
+      "code": "tools",
+      "name": {
+        "de-DE": "Tools",
+        "en-US": "Tools",
+        "es-ES": "Tools",
+        "fr-FR": "Tools",
+        "it-IT": "Tools",
+        "ja-JP": "Tools",
+        "pl-PL": "Tools",
+        "pt-BR": "Tools",
+        "ru-RU": "Tools",
+        "zh-CN": "Tools"
+      }
+    },
+    {
+      "code": "travel",
+      "name": {
+        "de-DE": "Reisen",
+        "en-US": "Travel",
+        "es-ES": "Viajes",
+        "fr-FR": "Voyage",
+        "it-IT": "Viaggi",
+        "ja-JP": "旅行・トラベル",
+        "pl-PL": "Podróż",
+        "pt-BR": "Viagem",
+        "ru-RU": "Путешествия",
+        "zh-CN": "旅行"
+      }
+    },
+    {
+      "code": "trees",
+      "name": {
+        "de-DE": "Bäume",
+        "en-US": "Trees",
+        "es-ES": "Árboles",
+        "fr-FR": "Trees",
+        "it-IT": "Alberi",
+        "ja-JP": "木",
+        "pl-PL": "Drzewa",
+        "pt-BR": "Árvores",
+        "ru-RU": "Деревья",
+        "zh-CN": "树"
+      }
+    },
+    {
+      "code": "truck",
+      "name": {
+        "de-DE": "LKW",
+        "en-US": "Truck",
+        "es-ES": "Camión",
+        "fr-FR": "Truck",
+        "it-IT": "Camion",
+        "ja-JP": "トラック",
+        "pl-PL": "Truck",
+        "pt-BR": "Caminhão",
+        "ru-RU": "Truck",
+        "zh-CN": "卡车"
+      }
+    },
+    {
+      "code": "tumblr",
+      "name": {
+        "de-DE": "Tumblr",
+        "en-US": "Tumblr",
+        "es-ES": "Tumblr",
+        "fr-FR": "Tumblr",
+        "it-IT": "Tumblr",
+        "ja-JP": "Tumblr",
+        "pl-PL": "Tumblr",
+        "pt-BR": "Tumblr",
+        "ru-RU": "Tumblr",
+        "zh-CN": "Tumblr"
+      }
+    },
+    {
+      "code": "twitter",
+      "name": {
+        "de-DE": "Twitter",
+        "en-US": "Twitter",
+        "es-ES": "Twitter",
+        "fr-FR": "Twitter",
+        "it-IT": "Twitter",
+        "ja-JP": "Twitter",
+        "pl-PL": "Twitter",
+        "pt-BR": "Twitter",
+        "ru-RU": "Twitter",
+        "zh-CN": "推特"
+      }
+    },
+    {
+      "code": "user",
+      "name": {
+        "de-DE": "Benutzer",
+        "en-US": "User",
+        "es-ES": "Usuario",
+        "fr-FR": "Utilisateur",
+        "it-IT": "Utente",
+        "ja-JP": "ユーザー",
+        "pl-PL": "User",
+        "pt-BR": "User",
+        "ru-RU": "Пользователь",
+        "zh-CN": "用户"
+      }
+    },
+    {
+      "code": "video",
+      "name": {
+        "de-DE": "Video",
+        "en-US": "Video",
+        "es-ES": "Video",
+        "fr-FR": "Vidéo",
+        "it-IT": "Video",
+        "ja-JP": "ビデオ",
+        "pl-PL": "Wideo",
+        "pt-BR": "Vídeo",
+        "ru-RU": "Видео",
+        "zh-CN": "视频"
+      }
+    },
+    {
+      "code": "warning",
+      "name": {
+        "de-DE": "Warnung",
+        "en-US": "Warning",
+        "es-ES": "Warning",
+        "fr-FR": "Warning",
+        "it-IT": "Warning",
+        "ja-JP": "警告",
+        "pl-PL": "Ostrzeżenie",
+        "pt-BR": "Warning",
+        "ru-RU": "Предупреждение",
+        "zh-CN": "警告"
+      }
+    },
+    {
+      "code": "weather",
+      "name": {
+        "de-DE": "Wetter",
+        "en-US": "Weather",
+        "es-ES": "El tiempo",
+        "fr-FR": "Météo",
+        "it-IT": "Meteo",
+        "ja-JP": "天気・ウェザー",
+        "pl-PL": "Pogoda",
+        "pt-BR": "Clima",
+        "ru-RU": "Погода",
+        "zh-CN": "天气"
+      }
+    },
+    {
+      "code": "website",
+      "name": {
+        "de-DE": "Webseite",
+        "en-US": "Website",
+        "es-ES": "Sitio web",
+        "fr-FR": "Site internet",
+        "it-IT": "Sito web",
+        "ja-JP": "ウェブサイト",
+        "pl-PL": "Strona internetowa ",
+        "pt-BR": "Sítio web",
+        "ru-RU": "Веб-сайт",
+        "zh-CN": "网站"
+      }
+    },
+    {
+      "code": "whatsapp",
+      "name": {
+        "de-DE": "WhatsApp",
+        "en-US": "Whatsapp",
+        "es-ES": "Whatsapp",
+        "fr-FR": "WhatsApp",
+        "it-IT": "WhatsApp",
+        "ja-JP": "Whatsapp",
+        "pl-PL": "Whatsapp",
+        "pt-BR": "Whatsapp",
+        "ru-RU": "Whatsapp",
+        "zh-CN": "Whatsapp"
+      }
+    },
+    {
+      "code": "white",
+      "name": {
+        "de-DE": "Weiß",
+        "en-US": "White",
+        "es-ES": "Blanco",
+        "fr-FR": "Blanc",
+        "it-IT": "White",
+        "ja-JP": "White",
+        "pl-PL": "Biały",
+        "pt-BR": "Branco",
+        "ru-RU": "Белый",
+        "zh-CN": "白色"
+      }
+    },
+    {
+      "code": "wifi",
+      "name": {
+        "de-DE": "WiFi",
+        "en-US": "WiFi",
+        "es-ES": "WiFi",
+        "fr-FR": "WiFi",
+        "it-IT": "Wi-Fi",
+        "ja-JP": "WiFi",
+        "pl-PL": "WiFi",
+        "pt-BR": "WiFi",
+        "ru-RU": "WiFi",
+        "zh-CN": "WiFi"
+      }
+    },
+    {
+      "code": "windows",
+      "name": {
+        "de-DE": "Windows",
+        "en-US": "Windows",
+        "es-ES": "Windows",
+        "fr-FR": "Windows",
+        "it-IT": "Windows",
+        "ja-JP": "Windows",
+        "pl-PL": "Windows",
+        "pt-BR": "Windows",
+        "ru-RU": "Windows",
+        "zh-CN": "Windows"
+      }
+    },
+    {
+      "code": "woman",
+      "name": {
+        "de-DE": "Frau",
+        "en-US": "Woman",
+        "es-ES": "Mujer",
+        "fr-FR": "Femme",
+        "it-IT": "Donna",
+        "ja-JP": "女性",
+        "pl-PL": "Kobieta",
+        "pt-BR": "Mulher",
+        "ru-RU": "Женщина",
+        "zh-CN": "女人"
+      }
+    },
+    {
+      "code": "work",
+      "name": {
+        "de-DE": "Arbeit",
+        "en-US": "Work",
+        "es-ES": "Trabajo",
+        "fr-FR": "Travail",
+        "it-IT": "Lavoro",
+        "ja-JP": "作業",
+        "pl-PL": "Work",
+        "pt-BR": "Work",
+        "ru-RU": "Работа",
+        "zh-CN": "工作"
+      }
+    },
+    {
+      "code": "youtube",
+      "name": {
+        "de-DE": "YouTube",
+        "en-US": "YouTube",
+        "es-ES": "YouTube",
+        "fr-FR": "YouTube",
+        "it-IT": "YouTube",
+        "ja-JP": "YouTube",
+        "pl-PL": "YouTube",
+        "pt-BR": "YouTube",
+        "ru-RU": "YouTube",
+        "zh-CN": "YouTube视频网站"
+      }
+    },
+    {
+      "code": "ios",
+      "name": {
+        "de-DE": "IOS",
+        "en-US": "iOS",
+        "es-ES": "IOS",
+        "fr-FR": "IOS",
+        "it-IT": "IOS",
+        "ja-JP": "IOS",
+        "pl-PL": "IOS",
+        "pt-BR": "IOS",
+        "ru-RU": "IOS",
+        "zh-CN": "iOS"
+      }
+    },
+    {
+      "code": "iphone",
+      "name": {
+        "de-DE": "IPhone",
+        "en-US": "iPhone",
+        "es-ES": "IPhone",
+        "fr-FR": "IPhone",
+        "it-IT": "iPhone",
+        "ja-JP": "IPhone",
+        "pl-PL": "IPhone",
+        "pt-BR": "iPhone",
+        "ru-RU": "IPhone",
+        "zh-CN": "iPhone"
+      }
+    }
+  ],
+  "styles": {
+    "outline": {
+      "title": "Outline",
+      "code": "outline"
+    },
+    "line": {
+      "title": "Line",
+      "code": "line"
+    },
+    "small": {
+      "title": "Small",
+      "code": "small"
+    },
+    "colors": {
+      "title": "Color",
+      "code": "colors"
+    }
+  },
+  "shapes": {
+    "round": {
+      "title": "Round",
+      "code": "round"
+    },
+    "circle": {
+      "title": "Circle",
+      "code": "circle"
+    },
+    "square": {
+      "title": "Square",
+      "code": "square"
+    }
+  },
+  "colors": {
+    "black": {
+      "title": "Black",
+      "code": "black",
+      "value": "000000"
+    },
+    "white": {
+      "title": "White",
+      "code": "white",
+      "value": "ffffff"
+    },
+    "blue": {
+      "title": "Blue",
+      "code": "blue",
+      "value": "4a90e2"
+    },
+    "red": {
+      "title": "Red",
+      "code": "red",
+      "value": "fa314a"
+    },
+    "green": {
+      "title": "Green",
+      "code": "green",
+      "value": "26e07f"
+    }
+  }
+}

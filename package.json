@@ -1,0 +1,37 @@
+{
+  "name": "icons8-icon",
+  "version": "1.0.0",
+  "description": "Frontend for Icons app",
+  "dependencies": {
+    "icons8-common": "git+ssh://git@gitlab.icons8.com:icons8/icons8-common#v0.0.37",
+    "atob": "2.0.3",
+    "debounce": "1.2.0",
+    "file-saver": "2.0.0",
+    "jszip": "3.1.4",
+    "moment": "2.19.1",
+    "opentype.js": "0.11.0",
+    "paper": "0.11.5",
+    "vue-color": "2.4.4",
+    "vue-infinite-scroll": "2.0.2",
+    "vue-lazyload": "1.1.4",
+    "vue-scrollto": "2.11.0",
+    "vue2-touch-events": "1.1.1",
+    "raw-loader": "0.5.1"
+  },
+  "scripts": {
+    "init-cache": "node initCache.js",
+    "translate": "node ./node_modules/icons8-common/src/translate.js",
+    "dev": "nuxt",
+    "build": "cross-env NODE_ENV=production nuxt build",
+    "start": "cross-env NODE_ENV=production nuxt start",
+    "service": "cross-env NODE_ENV=production HOST=0.0.0.0 nuxt start",
+    "build:dev": "cross-env NODE_ENV=dev nuxt build",
+    "start:dev": "cross-env NODE_ENV=dev nuxt start",
+    "service:dev": "cross-env NODE_ENV=dev HOST=0.0.0.0 nuxt start",
+    "debug": "cross-env DEBUG=common nuxt"
+  },
+  "author": "KonstantinVlasov <konstantinnvlasov@gmail.com>",
+  "bin": {
+    "nuxt-translate": "./bin/translate.js"
+  }
+}

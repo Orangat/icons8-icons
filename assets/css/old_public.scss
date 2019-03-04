@@ -1,0 +1,90 @@
+@import 'animations';
+@import 'variables';
+@import 'mixins';
+
+@import 'forms';
+@import 'typography';
+
+@import 'components/badge';
+@import 'components/breadcrumbs';
+@import 'components/button';
+@import 'components/checkbox';
+@import 'components/list';
+@import 'components/panel';
+@import 'components/radio';
+@import 'components/ribbon';
+@import 'components/switch';
+@import 'components/tag';
+@import 'components/tooltip';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  @include font-medium;
+  color: #000;
+  line-height: 1.5;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box
+}
+
+*:focus {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  transition: border 0.3s ease;
+  color: $color-blue;
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  &.is-text {
+    border-color: transparent;
+    color: inherit;
+    &:hover {
+      border-color: rgba(156, 156, 156, 0.35);
+    }
+  }
+
+  &.is-pretty {
+    border-bottom: 1px solid rgba(156, 156, 156, 0.35);
+    &:hover {
+      border-color: #9b9b9b;
+    }
+  }
+}
+
+div.crisp-client .crisp-1rjpbb7[data-full-view="false"][data-position-reverse="false"] .crisp-1rf4xdh .crisp-kquevr, div.crisp-client .crisp-1rjpbb7[data-full-view="false"][data-position-reverse="false"] .crisp-1rf4xdh .crisp-ewasyx {
+  margin-right: 0 !important;
+  right: 20px!important;
+}
+
+.app {
+  position: absolute;
+  top: $menu-height;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+
+  .page-enter-active, .page-leave-active {
+    transition: 0.4s opacity ease;
+  }
+  .page-enter, .page-leave-to {
+    opacity: 0;
+  }
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}

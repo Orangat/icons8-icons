@@ -1,0 +1,2957 @@
+[
+  {
+    "code": "3d",
+    "name": {
+      "de-DE": "3D",
+      "en-US": "3D",
+      "es-ES": "3D",
+      "fr-FR": "3D",
+      "it-IT": "3D",
+      "ja-JP": "3D",
+      "pl-PL": "3D",
+      "pt-BR": "3D",
+      "ru-RU": "3D",
+      "zh-CN": "3D"
+    }
+  },
+  {
+    "code": "add",
+    "name": {
+      "de-DE": "Hinzufügen",
+      "en-US": "Add",
+      "es-ES": "Añadir",
+      "fr-FR": "Ajouter",
+      "it-IT": "Add",
+      "ja-JP": "追加",
+      "pl-PL": "Add",
+      "pt-BR": "Adicionar",
+      "ru-RU": "Добавить",
+      "zh-CN": "Add"
+    }
+  },
+  {
+    "code": "address",
+    "name": {
+      "de-DE": "Adresse",
+      "en-US": "Address",
+      "es-ES": "Dirección",
+      "fr-FR": "Adresse",
+      "it-IT": "Indirizzo",
+      "ja-JP": "Address",
+      "pl-PL": "Adres",
+      "pt-BR": "Endereço",
+      "ru-RU": "Адрес",
+      "zh-CN": "地址"
+    }
+  },
+  {
+    "code": "admin",
+    "name": {
+      "de-DE": "Admin",
+      "en-US": "Admin",
+      "es-ES": "Admin",
+      "fr-FR": "Admin",
+      "it-IT": "Admin",
+      "ja-JP": "管理者",
+      "pl-PL": "Admin",
+      "pt-BR": "Admin",
+      "ru-RU": "Администратор",
+      "zh-CN": "Admin"
+    }
+  },
+  {
+    "code": "airplane",
+    "name": {
+      "de-DE": "Flugzeug",
+      "en-US": "Airplane",
+      "es-ES": "Avión",
+      "fr-FR": "Avion",
+      "it-IT": "Airplane",
+      "ja-JP": "飛行機",
+      "pl-PL": "Samolot",
+      "pt-BR": "Avião",
+      "ru-RU": "Самолет",
+      "zh-CN": "飞机"
+    }
+  },
+  {
+    "code": "app",
+    "name": {
+      "de-DE": "App",
+      "en-US": "App",
+      "es-ES": "Aplicación",
+      "fr-FR": "App",
+      "it-IT": "App",
+      "ja-JP": "アプリ",
+      "pl-PL": "Aplikacja",
+      "pt-BR": "App",
+      "ru-RU": "Приложение",
+      "zh-CN": "App"
+    }
+  },
+  {
+    "code": "app-store",
+    "name": {
+      "de-DE": "App Store",
+      "en-US": "App Store",
+      "es-ES": "App Store",
+      "fr-FR": "App Store",
+      "it-IT": "App Store",
+      "ja-JP": "App Store",
+      "pl-PL": "App Store",
+      "pt-BR": "App Store",
+      "ru-RU": "App Store",
+      "zh-CN": "应用商店"
+    }
+  },
+  {
+    "code": "apple",
+    "name": {
+      "de-DE": "Apple",
+      "en-US": "Apple",
+      "es-ES": "Apple",
+      "fr-FR": "Pomme",
+      "it-IT": "Apple",
+      "ja-JP": "Apple",
+      "pl-PL": "Apple",
+      "pt-BR": "Apple",
+      "ru-RU": "Яблоко",
+      "zh-CN": "苹果"
+    }
+  },
+  {
+    "code": "apple-touch",
+    "name": {
+      "de-DE": "Apple Touch",
+      "en-US": "Apple Touch",
+      "es-ES": "Apple Touch",
+      "fr-FR": "Apple Touch",
+      "it-IT": "Apple Touch",
+      "ja-JP": "Apple Touch",
+      "pl-PL": "Apple Touch",
+      "pt-BR": "Apple Touch",
+      "ru-RU": "Apple Touch",
+      "zh-CN": "苹果触摸"
+    }
+  },
+  {
+    "code": "application",
+    "name": {
+      "de-DE": "Anwendung",
+      "en-US": "Application",
+      "es-ES": "Application",
+      "fr-FR": "Application",
+      "it-IT": "Applicazione",
+      "ja-JP": "Application",
+      "pl-PL": "Application",
+      "pt-BR": "Aplicação",
+      "ru-RU": "Application",
+      "zh-CN": "应用"
+    }
+  },
+  {
+    "code": "arrows",
+    "name": {
+      "de-DE": "Pfeile",
+      "en-US": "Arrows",
+      "es-ES": "Flechas",
+      "fr-FR": "Flèches",
+      "it-IT": "Frecce",
+      "ja-JP": "矢印・アロー",
+      "pl-PL": "Strzałki",
+      "pt-BR": "Setas",
+      "ru-RU": "Стрелки",
+      "zh-CN": "箭头"
+    }
+  },
+  {
+    "code": "avatar",
+    "name": {
+      "de-DE": "Avatar",
+      "en-US": "Avatar",
+      "es-ES": "Avatar",
+      "fr-FR": "Avatar",
+      "it-IT": "Avatar",
+      "ja-JP": "アバター",
+      "pl-PL": "Avatar",
+      "pt-BR": "Avatar",
+      "ru-RU": "Аватар",
+      "zh-CN": "阿凡达"
+    }
+  },
+  {
+    "code": "back",
+    "name": {
+      "de-DE": "Zurück",
+      "en-US": "Back",
+      "es-ES": "Back",
+      "fr-FR": "Back",
+      "it-IT": "Indietro",
+      "ja-JP": "Back",
+      "pl-PL": "Back",
+      "pt-BR": "Back",
+      "ru-RU": "Назад",
+      "zh-CN": "Back"
+    }
+  },
+  {
+    "code": "bank",
+    "name": {
+      "de-DE": "Bank",
+      "en-US": "Bank",
+      "es-ES": "Banco",
+      "fr-FR": "Banque",
+      "it-IT": "Banca",
+      "ja-JP": "Bank",
+      "pl-PL": "Bank",
+      "pt-BR": "Banco",
+      "ru-RU": "Bank",
+      "zh-CN": "银行"
+    }
+  },
+  {
+    "code": "battery",
+    "name": {
+      "de-DE": "Battery",
+      "en-US": "Battery",
+      "es-ES": "Batería",
+      "fr-FR": "Batterie",
+      "it-IT": "Batteria",
+      "ja-JP": "Battery",
+      "pl-PL": "Battery",
+      "pt-BR": "Bateria",
+      "ru-RU": "Battery",
+      "zh-CN": "电池"
+    }
+  },
+  {
+    "code": "bike",
+    "name": {
+      "de-DE": "Fahrrad",
+      "en-US": "Bike",
+      "es-ES": "Bicicleta",
+      "fr-FR": "Bike",
+      "it-IT": "Bike",
+      "ja-JP": "自転車",
+      "pl-PL": "Rower",
+      "pt-BR": "Bicicleta",
+      "ru-RU": "Велосипед",
+      "zh-CN": "自行车"
+    }
+  },
+  {
+    "code": "birthday",
+    "name": {
+      "de-DE": "Geburtstag",
+      "en-US": "Birthday",
+      "es-ES": "Cumpleaños",
+      "fr-FR": "Anniversaire",
+      "it-IT": "Compleanno",
+      "ja-JP": "Birthday",
+      "pl-PL": "Urodziny",
+      "pt-BR": "Aniversário",
+      "ru-RU": "День рождения",
+      "zh-CN": "生日"
+    }
+  },
+  {
+    "code": "black",
+    "name": {
+      "de-DE": "Schwarz",
+      "en-US": "Black",
+      "es-ES": "Negro",
+      "fr-FR": "Noir",
+      "it-IT": "Nero",
+      "ja-JP": "ブラック",
+      "pl-PL": "Czarny",
+      "pt-BR": "Preto",
+      "ru-RU": "Черный",
+      "zh-CN": "Black"
+    }
+  },
+  {
+    "code": "blogger",
+    "name": {
+      "de-DE": "Blogger",
+      "en-US": "Blogger",
+      "es-ES": "Blogger",
+      "fr-FR": "Blogger",
+      "it-IT": "Blogger",
+      "ja-JP": "Blogger",
+      "pl-PL": "Blogger",
+      "pt-BR": "Blogger",
+      "ru-RU": "Blogger",
+      "zh-CN": "博客"
+    }
+  },
+  {
+    "code": "book",
+    "name": {
+      "de-DE": "Buch",
+      "en-US": "Book",
+      "es-ES": "Libro",
+      "fr-FR": "Livre",
+      "it-IT": "Libro",
+      "ja-JP": "本",
+      "pl-PL": "Book",
+      "pt-BR": "Livro",
+      "ru-RU": "Книга",
+      "zh-CN": "书"
+    }
+  },
+  {
+    "code": "brain",
+    "name": {
+      "de-DE": "Gehirn",
+      "en-US": "Brain",
+      "es-ES": "Cerebro",
+      "fr-FR": "Cerveau",
+      "it-IT": "Cervello",
+      "ja-JP": "脳",
+      "pl-PL": "Mózg",
+      "pt-BR": "Cérebro",
+      "ru-RU": "Brain",
+      "zh-CN": "脑"
+    }
+  },
+  {
+    "code": "building",
+    "name": {
+      "de-DE": "Gebäude",
+      "en-US": "Building",
+      "es-ES": "Edificio",
+      "fr-FR": "Bâtiment",
+      "it-IT": "Costruzione",
+      "ja-JP": "建物",
+      "pl-PL": "Budynek",
+      "pt-BR": "Building",
+      "ru-RU": "Здание",
+      "zh-CN": "Building"
+    }
+  },
+  {
+    "code": "bus",
+    "name": {
+      "de-DE": "Bus",
+      "en-US": "Bus",
+      "es-ES": "Bus",
+      "fr-FR": "Bus",
+      "it-IT": "Autobus",
+      "ja-JP": "バス",
+      "pl-PL": "Autobus",
+      "pt-BR": "Ônibus",
+      "ru-RU": "Автобус",
+      "zh-CN": "Bus"
+    }
+  },
+  {
+    "code": "business",
+    "name": {
+      "de-DE": "Business",
+      "en-US": "Business",
+      "es-ES": "Negocios",
+      "fr-FR": "Business",
+      "it-IT": "Business",
+      "ja-JP": "ビジネス・経済",
+      "pl-PL": "Biznes",
+      "pt-BR": "Negócios",
+      "ru-RU": "Бизнес",
+      "zh-CN": "商业"
+    }
+  },
+  {
+    "code": "calculation",
+    "name": {
+      "de-DE": "Berechnung",
+      "en-US": "Calculation",
+      "es-ES": "Cálculo",
+      "fr-FR": "Calcul",
+      "it-IT": "Calcolo",
+      "ja-JP": "計算",
+      "pl-PL": "Obliczenie",
+      "pt-BR": "Cálculo",
+      "ru-RU": "Расчет",
+      "zh-CN": "计算"
+    }
+  },
+  {
+    "code": "calendar",
+    "name": {
+      "de-DE": "Kalender",
+      "en-US": "Calendar",
+      "es-ES": "Calendario",
+      "fr-FR": "Calendrier",
+      "it-IT": "Calendario",
+      "ja-JP": "カレンダー",
+      "pl-PL": "Kalendarz",
+      "pt-BR": "Calendário",
+      "ru-RU": "Календарь",
+      "zh-CN": "日历"
+    }
+  },
+  {
+    "code": "call",
+    "name": {
+      "de-DE": "Call",
+      "en-US": "Call",
+      "es-ES": "Call",
+      "fr-FR": "Appel",
+      "it-IT": "Chiamata",
+      "ja-JP": "Call",
+      "pl-PL": "Call",
+      "pt-BR": "Call",
+      "ru-RU": "Вызов",
+      "zh-CN": "Call"
+    }
+  },
+  {
+    "code": "camera",
+    "name": {
+      "de-DE": "Kamera",
+      "en-US": "Camera",
+      "es-ES": "Cámara",
+      "fr-FR": "Camera",
+      "it-IT": "Camera",
+      "ja-JP": "カメラ",
+      "pl-PL": "Camera",
+      "pt-BR": "Câmera",
+      "ru-RU": "Камера",
+      "zh-CN": "相机"
+    }
+  },
+  {
+    "code": "car",
+    "name": {
+      "de-DE": "Auto",
+      "en-US": "Car",
+      "es-ES": "Coche",
+      "fr-FR": "Voiture",
+      "it-IT": "Auto",
+      "ja-JP": "車",
+      "pl-PL": "Samochód",
+      "pt-BR": "Carro",
+      "ru-RU": "Автомобиль",
+      "zh-CN": "汽车"
+    }
+  },
+  {
+    "code": "cellphone",
+    "name": {
+      "de-DE": "Handy",
+      "en-US": "Cellphone",
+      "es-ES": "Teléfono móvil",
+      "fr-FR": "Téléphone portable",
+      "it-IT": "Cellulare",
+      "ja-JP": "携帯電話",
+      "pl-PL": "Cellphone",
+      "pt-BR": "Cellphone",
+      "ru-RU": "Cellphone",
+      "zh-CN": "手机"
+    }
+  },
+  {
+    "code": "chat",
+    "name": {
+      "de-DE": "Chat",
+      "en-US": "Chat",
+      "es-ES": "Chat",
+      "fr-FR": "Chat",
+      "it-IT": "Chat",
+      "ja-JP": "チャット",
+      "pl-PL": "Czat",
+      "pt-BR": "Bate-papo",
+      "ru-RU": "Чат",
+      "zh-CN": "Chat"
+    }
+  },
+  {
+    "code": "check",
+    "name": {
+      "de-DE": "Check",
+      "en-US": "Check",
+      "es-ES": "Check",
+      "fr-FR": "Vérifier",
+      "it-IT": "Check",
+      "ja-JP": "チェック",
+      "pl-PL": "Check",
+      "pt-BR": "Check",
+      "ru-RU": "Check",
+      "zh-CN": "检查"
+    }
+  },
+  {
+    "code": "christmas",
+    "name": {
+      "de-DE": "Weihnachten",
+      "en-US": "Christmas",
+      "es-ES": "Navidad",
+      "fr-FR": "Christmas",
+      "it-IT": "Natale",
+      "ja-JP": "クリスマス",
+      "pl-PL": "Boże Narodzenie",
+      "pt-BR": "Natal",
+      "ru-RU": "Рождество",
+      "zh-CN": "Christmas"
+    }
+  },
+  {
+    "code": "circle",
+    "name": {
+      "de-DE": "Kreis",
+      "en-US": "Circle",
+      "es-ES": "Circle",
+      "fr-FR": "Cercle",
+      "it-IT": "Cerchio",
+      "ja-JP": "Circle",
+      "pl-PL": "Circle",
+      "pt-BR": "Círculo",
+      "ru-RU": "Круг",
+      "zh-CN": "Circle"
+    }
+  },
+  {
+    "code": "clean",
+    "name": {
+      "de-DE": "Reinigen",
+      "en-US": "Clean",
+      "es-ES": "Limpiar",
+      "fr-FR": "Nettoyer",
+      "it-IT": "Clean",
+      "ja-JP": "Clean",
+      "pl-PL": "Clean",
+      "pt-BR": "Clean",
+      "ru-RU": "Clean",
+      "zh-CN": "清洁"
+    }
+  },
+  {
+    "code": "clock",
+    "name": {
+      "de-DE": "Uhr",
+      "en-US": "Clock",
+      "es-ES": "Reloj",
+      "fr-FR": "Clock",
+      "it-IT": "Orologio",
+      "ja-JP": "Clock",
+      "pl-PL": "Zegar",
+      "pt-BR": "Relógio",
+      "ru-RU": "Часы",
+      "zh-CN": "时钟"
+    }
+  },
+  {
+    "code": "closed",
+    "name": {
+      "de-DE": "Closed",
+      "en-US": "Closed",
+      "es-ES": "Cerrado",
+      "fr-FR": "Fermé",
+      "it-IT": "Chiuso",
+      "ja-JP": "Closed",
+      "pl-PL": "Closed",
+      "pt-BR": "Closed",
+      "ru-RU": "Закрыто",
+      "zh-CN": "关闭"
+    }
+  },
+  {
+    "code": "cloud",
+    "name": {
+      "de-DE": "Wolke",
+      "en-US": "Cloud",
+      "es-ES": "Nube",
+      "fr-FR": "Nuage",
+      "it-IT": "Cloud",
+      "ja-JP": "Cloud",
+      "pl-PL": "Chmura",
+      "pt-BR": "Nuvem",
+      "ru-RU": "Облако",
+      "zh-CN": "Cloud"
+    }
+  },
+  {
+    "code": "coffee",
+    "name": {
+      "de-DE": "Kaffee",
+      "en-US": "Coffee",
+      "es-ES": "Café",
+      "fr-FR": "Café",
+      "it-IT": "Caffè",
+      "ja-JP": "コーヒー",
+      "pl-PL": "Kawa",
+      "pt-BR": "Café",
+      "ru-RU": "Кофе",
+      "zh-CN": "咖啡"
+    }
+  },
+  {
+    "code": "computer",
+    "name": {
+      "de-DE": "Computer",
+      "en-US": "Computer",
+      "es-ES": "Computadora",
+      "fr-FR": "Ordinateur",
+      "it-IT": "Computer",
+      "ja-JP": "コンピューター",
+      "pl-PL": "Computer",
+      "pt-BR": "Computador",
+      "ru-RU": "Компьютер",
+      "zh-CN": "Computer"
+    }
+  },
+  {
+    "code": "contacts",
+    "name": {
+      "de-DE": "Kontakte",
+      "en-US": "Contacts",
+      "es-ES": "Contactos",
+      "fr-FR": "Contacts",
+      "it-IT": "Contatti",
+      "ja-JP": "連絡先",
+      "pl-PL": "Contacts",
+      "pt-BR": "Contatos",
+      "ru-RU": "Контакты",
+      "zh-CN": "Contacts"
+    }
+  },
+  {
+    "code": "cool",
+    "name": {
+      "de-DE": "Cool",
+      "en-US": "Cool",
+      "es-ES": "Cool",
+      "fr-FR": "Cool",
+      "it-IT": "Cool",
+      "ja-JP": "Cool",
+      "pl-PL": "Cool",
+      "pt-BR": "Cool",
+      "ru-RU": "Cool",
+      "zh-CN": "Cool"
+    }
+  },
+  {
+    "code": "create",
+    "name": {
+      "de-DE": "Erstellen",
+      "en-US": "Create",
+      "es-ES": "Crear",
+      "fr-FR": "Créer",
+      "it-IT": "Creare",
+      "ja-JP": "Create",
+      "pl-PL": "Create",
+      "pt-BR": "Create",
+      "ru-RU": "Create",
+      "zh-CN": "创建"
+    }
+  },
+  {
+    "code": "credit-card",
+    "name": {
+      "de-DE": "Kreditkarte",
+      "en-US": "Credit Card",
+      "es-ES": "Tarjeta de crédito",
+      "fr-FR": "Carte de crédit",
+      "it-IT": "Carta di credito",
+      "ja-JP": "Credit Card",
+      "pl-PL": "Karta kredytowa",
+      "pt-BR": "Cartão de crédito",
+      "ru-RU": "Кредитная карта",
+      "zh-CN": "信用卡"
+    }
+  },
+  {
+    "code": "dashboard",
+    "name": {
+      "de-DE": "Dashboard",
+      "en-US": "Dashboard",
+      "es-ES": "Dashboard",
+      "fr-FR": "Tableau de bord",
+      "it-IT": "Cruscotto",
+      "ja-JP": "Dashboard",
+      "pl-PL": "Dashboard",
+      "pt-BR": "Painel de controle",
+      "ru-RU": "Dashboard",
+      "zh-CN": "仪表板"
+    }
+  },
+  {
+    "code": "data",
+    "name": {
+      "de-DE": "Daten",
+      "en-US": "Data",
+      "es-ES": "Datos",
+      "fr-FR": "Données",
+      "it-IT": "Dati",
+      "ja-JP": "データベース",
+      "pl-PL": "Dane",
+      "pt-BR": "Dados",
+      "ru-RU": "Данные",
+      "zh-CN": "数据"
+    }
+  },
+  {
+    "code": "database",
+    "name": {
+      "de-DE": "Datenbank",
+      "en-US": "Database",
+      "es-ES": "Base de datos",
+      "fr-FR": "Base de données",
+      "it-IT": "Database",
+      "ja-JP": "データベース",
+      "pl-PL": "Database",
+      "pt-BR": "Database",
+      "ru-RU": "База данных",
+      "zh-CN": "数据库"
+    }
+  },
+  {
+    "code": "delete",
+    "name": {
+      "de-DE": "Löschen",
+      "en-US": "Delete",
+      "es-ES": "Delete",
+      "fr-FR": "Delete",
+      "it-IT": "Elimina",
+      "ja-JP": "削除",
+      "pl-PL": "Delete",
+      "pt-BR": "Excluir",
+      "ru-RU": "Удалить",
+      "zh-CN": "删除"
+    }
+  },
+  {
+    "code": "desktop",
+    "name": {
+      "de-DE": "Desktop",
+      "en-US": "Desktop",
+      "es-ES": "Escritorio",
+      "fr-FR": "Desktop",
+      "it-IT": "Desktop",
+      "ja-JP": "デスクトップ",
+      "pl-PL": "Desktop",
+      "pt-BR": "Desktop",
+      "ru-RU": "Рабочий стол",
+      "zh-CN": "桌面"
+    }
+  },
+  {
+    "code": "document",
+    "name": {
+      "de-DE": "Document",
+      "en-US": "Document",
+      "es-ES": "Documento",
+      "fr-FR": "Document",
+      "it-IT": "Documento",
+      "ja-JP": "Document",
+      "pl-PL": "Document",
+      "pt-BR": "Documento",
+      "ru-RU": "Документ",
+      "zh-CN": "Document"
+    }
+  },
+  {
+    "code": "e-commerce",
+    "name": {
+      "de-DE": "E-commerce",
+      "en-US": "E-commerce",
+      "es-ES": "E-commerce",
+      "fr-FR": "E-commerce",
+      "it-IT": "E-commerce",
+      "ja-JP": "E-commerce",
+      "pl-PL": "E-commerce",
+      "pt-BR": "Comércio eletrônico",
+      "ru-RU": "Электронная коммерция",
+      "zh-CN": "电子商务"
+    }
+  },
+  {
+    "code": "edit",
+    "name": {
+      "de-DE": "Bearbeiten",
+      "en-US": "Edit",
+      "es-ES": "Editar",
+      "fr-FR": "Edit",
+      "it-IT": "Modifica",
+      "ja-JP": "編集",
+      "pl-PL": "Edit",
+      "pt-BR": "Editar",
+      "ru-RU": "Edit",
+      "zh-CN": "编辑"
+    }
+  },
+  {
+    "code": "education",
+    "name": {
+      "de-DE": "Bildung",
+      "en-US": "Education",
+      "es-ES": "Educación",
+      "fr-FR": "Éducation",
+      "it-IT": "Education",
+      "ja-JP": "教育",
+      "pl-PL": "Edukacja",
+      "pt-BR": "Educação",
+      "ru-RU": "Образование",
+      "zh-CN": "教育"
+    }
+  },
+  {
+    "code": "email",
+    "name": {
+      "de-DE": "E-Mail",
+      "en-US": "Email",
+      "es-ES": "Correo electrónico",
+      "fr-FR": "E-mail",
+      "it-IT": "Email",
+      "ja-JP": "電子メール",
+      "pl-PL": "Email",
+      "pt-BR": "Email",
+      "ru-RU": "Электронное письмо ",
+      "zh-CN": "电子邮件"
+    }
+  },
+  {
+    "code": "emoji",
+    "name": {
+      "de-DE": "Emoji",
+      "en-US": "Emoji",
+      "es-ES": "Emoji",
+      "fr-FR": "Emoji",
+      "it-IT": "Emoji",
+      "ja-JP": "絵文字",
+      "pl-PL": "Emoji",
+      "pt-BR": "Emoji",
+      "ru-RU": "Emoji",
+      "zh-CN": "Emoji"
+    }
+  },
+  {
+    "code": "event",
+    "name": {
+      "de-DE": "Event",
+      "en-US": "Event",
+      "es-ES": "Evento",
+      "fr-FR": "Event",
+      "it-IT": "Evento",
+      "ja-JP": "イベント",
+      "pl-PL": "Event",
+      "pt-BR": "Evento",
+      "ru-RU": "Event",
+      "zh-CN": "事件"
+    }
+  },
+  {
+    "code": "excel",
+    "name": {
+      "de-DE": "Excel",
+      "en-US": "Excel",
+      "es-ES": "Excel",
+      "fr-FR": "Excel",
+      "it-IT": "Excel",
+      "ja-JP": "Excel",
+      "pl-PL": "Excel",
+      "pt-BR": "Excel",
+      "ru-RU": "Excel",
+      "zh-CN": "Excel"
+    }
+  },
+  {
+    "code": "eye",
+    "name": {
+      "de-DE": "Auge",
+      "en-US": "Eye",
+      "es-ES": "Ojo",
+      "fr-FR": "Œil",
+      "it-IT": "Occhio",
+      "ja-JP": "Eye",
+      "pl-PL": "Oko",
+      "pt-BR": "Olho",
+      "ru-RU": "Глаз",
+      "zh-CN": "Eye"
+    }
+  },
+  {
+    "code": "facebook",
+    "name": {
+      "de-DE": "Facebook",
+      "en-US": "Facebook",
+      "es-ES": "Facebook",
+      "fr-FR": "Facebook",
+      "it-IT": "Facebook",
+      "ja-JP": "フェイスブック",
+      "pl-PL": "Facebook",
+      "pt-BR": "Facebook",
+      "ru-RU": "Facebook",
+      "zh-CN": "Facebook"
+    }
+  },
+  {
+    "code": "family",
+    "name": {
+      "de-DE": "Familie",
+      "en-US": "Family",
+      "es-ES": "Familia",
+      "fr-FR": "Famille",
+      "it-IT": "Famiglia",
+      "ja-JP": "家族",
+      "pl-PL": "Rodzina",
+      "pt-BR": "Família",
+      "ru-RU": "Семья",
+      "zh-CN": "家庭"
+    }
+  },
+  {
+    "code": "fax",
+    "name": {
+      "de-DE": "Fax",
+      "en-US": "Fax",
+      "es-ES": "Fax",
+      "fr-FR": "Fax",
+      "it-IT": "Fax",
+      "ja-JP": "Fax",
+      "pl-PL": "Faks",
+      "pt-BR": "Fax",
+      "ru-RU": "Факс",
+      "zh-CN": "传真"
+    }
+  },
+  {
+    "code": "files",
+    "name": {
+      "de-DE": "Dateien",
+      "en-US": "Files",
+      "es-ES": "Archivos",
+      "fr-FR": "Fichiers",
+      "it-IT": "Files",
+      "ja-JP": "ファイル",
+      "pl-PL": "Pliki",
+      "pt-BR": "Arquivos",
+      "ru-RU": "Файлы",
+      "zh-CN": "文件"
+    }
+  },
+  {
+    "code": "filter",
+    "name": {
+      "de-DE": "Filter",
+      "en-US": "Filter",
+      "es-ES": "Filter",
+      "fr-FR": "Filtre",
+      "it-IT": "Filtro",
+      "ja-JP": "Filter",
+      "pl-PL": "Filtr",
+      "pt-BR": "Filtro",
+      "ru-RU": "Фильтр",
+      "zh-CN": "Filter"
+    }
+  },
+  {
+    "code": "finance",
+    "name": {
+      "de-DE": "Finanzen",
+      "en-US": "Finance",
+      "es-ES": "Finanzas",
+      "fr-FR": "Finances",
+      "it-IT": "Finanza",
+      "ja-JP": "金融・ファイナンス",
+      "pl-PL": "Finanse",
+      "pt-BR": "Finanças",
+      "ru-RU": "Финансы",
+      "zh-CN": "经济"
+    }
+  },
+  {
+    "code": "find",
+    "name": {
+      "de-DE": "Finden",
+      "en-US": "Find",
+      "es-ES": "Encontrar",
+      "fr-FR": "Trouver",
+      "it-IT": "Find",
+      "ja-JP": "検索",
+      "pl-PL": "Find",
+      "pt-BR": "Encontrar",
+      "ru-RU": "Найти",
+      "zh-CN": "Find"
+    }
+  },
+  {
+    "code": "fire",
+    "name": {
+      "de-DE": "Feuer",
+      "en-US": "Fire",
+      "es-ES": "Fuego",
+      "fr-FR": "Feu",
+      "it-IT": "Fuoco",
+      "ja-JP": "Fire",
+      "pl-PL": "Ogień",
+      "pt-BR": "Fogo",
+      "ru-RU": "Огонь",
+      "zh-CN": "火"
+    }
+  },
+  {
+    "code": "flags",
+    "name": {
+      "de-DE": "Flags",
+      "en-US": "Flags",
+      "es-ES": "Flags",
+      "fr-FR": "Flags",
+      "it-IT": "Flags",
+      "ja-JP": "Flags",
+      "pl-PL": "Flags",
+      "pt-BR": "Flags",
+      "ru-RU": "Flags",
+      "zh-CN": "Flags"
+    }
+  },
+  {
+    "code": "flower",
+    "name": {
+      "de-DE": "Blume",
+      "en-US": "Flower",
+      "es-ES": "Flor",
+      "fr-FR": "Fleur",
+      "it-IT": "Fiore",
+      "ja-JP": "花",
+      "pl-PL": "Kwiat",
+      "pt-BR": "Flor",
+      "ru-RU": "Цветок",
+      "zh-CN": "花"
+    }
+  },
+  {
+    "code": "folders",
+    "name": {
+      "de-DE": "Ordner",
+      "en-US": "Folders",
+      "es-ES": "Carpetas",
+      "fr-FR": "Dossiers",
+      "it-IT": "Cartelle",
+      "ja-JP": "フォルダ",
+      "pl-PL": "Katalogi",
+      "pt-BR": "Pastas",
+      "ru-RU": "Папки",
+      "zh-CN": "文件夹"
+    }
+  },
+  {
+    "code": "font",
+    "name": {
+      "de-DE": "Schriftart",
+      "en-US": "Font",
+      "es-ES": "Fuente",
+      "fr-FR": "Font",
+      "it-IT": "Font",
+      "ja-JP": "フォント",
+      "pl-PL": "Font",
+      "pt-BR": "Fonte",
+      "ru-RU": "Шрифт",
+      "zh-CN": "Font"
+    }
+  },
+  {
+    "code": "food",
+    "name": {
+      "de-DE": "Essen",
+      "en-US": "Food",
+      "es-ES": "Comida",
+      "fr-FR": "Nourriture",
+      "it-IT": "Cibo",
+      "ja-JP": "食品・フード",
+      "pl-PL": "Żywność",
+      "pt-BR": "Comida",
+      "ru-RU": "Продукты",
+      "zh-CN": "食物"
+    }
+  },
+  {
+    "code": "games",
+    "name": {
+      "de-DE": "Spiele",
+      "en-US": "Games",
+      "es-ES": "Juegos",
+      "fr-FR": "Jeux",
+      "it-IT": "Games",
+      "ja-JP": "ゲーム",
+      "pl-PL": "Gry",
+      "pt-BR": "Jogos",
+      "ru-RU": "Игры",
+      "zh-CN": "游戏"
+    }
+  },
+  {
+    "code": "gear",
+    "name": {
+      "de-DE": "Gear",
+      "en-US": "Gear",
+      "es-ES": "Gear",
+      "fr-FR": "Gear",
+      "it-IT": "Gear",
+      "ja-JP": "Gear",
+      "pl-PL": "Gear",
+      "pt-BR": "Engrenagem",
+      "ru-RU": "Gear",
+      "zh-CN": "齿轮"
+    }
+  },
+  {
+    "code": "globe",
+    "name": {
+      "de-DE": "Globus",
+      "en-US": "Globe",
+      "es-ES": "Globe",
+      "fr-FR": "Globe",
+      "it-IT": "Globo",
+      "ja-JP": "グローブ",
+      "pl-PL": "Globe",
+      "pt-BR": "Globo",
+      "ru-RU": "Globe",
+      "zh-CN": "Globe"
+    }
+  },
+  {
+    "code": "gmail",
+    "name": {
+      "de-DE": "Gmail",
+      "en-US": "Gmail",
+      "es-ES": "Gmail",
+      "fr-FR": "Gmail",
+      "it-IT": "Gmail",
+      "ja-JP": "Gmail",
+      "pl-PL": "Gmail",
+      "pt-BR": "Gmail",
+      "ru-RU": "Gmail",
+      "zh-CN": "Gmail"
+    }
+  },
+  {
+    "code": "google",
+    "name": {
+      "de-DE": "Google",
+      "en-US": "Google",
+      "es-ES": "Google",
+      "fr-FR": "Google",
+      "it-IT": "Google",
+      "ja-JP": "Google",
+      "pl-PL": "Google",
+      "pt-BR": "Google",
+      "ru-RU": "Google",
+      "zh-CN": "谷歌"
+    }
+  },
+  {
+    "code": "group",
+    "name": {
+      "de-DE": "Gruppe",
+      "en-US": "Group",
+      "es-ES": "Grupo",
+      "fr-FR": "Groupe",
+      "it-IT": "Gruppo",
+      "ja-JP": "グループ",
+      "pl-PL": "Grupa",
+      "pt-BR": "Grupo",
+      "ru-RU": "Группа",
+      "zh-CN": "组"
+    }
+  },
+  {
+    "code": "hamburger",
+    "name": {
+      "de-DE": "Hamburger",
+      "en-US": "Hamburger",
+      "es-ES": "Hamburguesa",
+      "fr-FR": "Hamburger",
+      "it-IT": "Hamburger",
+      "ja-JP": "ハンバーガー",
+      "pl-PL": "Hamburger",
+      "pt-BR": "Hamburger",
+      "ru-RU": "Гамбургер",
+      "zh-CN": "Hamburger"
+    }
+  },
+  {
+    "code": "hand",
+    "name": {
+      "de-DE": "Hand",
+      "en-US": "Hand",
+      "es-ES": "Mano",
+      "fr-FR": "Main",
+      "it-IT": "Mano",
+      "ja-JP": "Hand",
+      "pl-PL": "Hand",
+      "pt-BR": "Mão",
+      "ru-RU": "Рука",
+      "zh-CN": "手"
+    }
+  },
+  {
+    "code": "health",
+    "name": {
+      "de-DE": "Gesundheit",
+      "en-US": "Health",
+      "es-ES": "Salud",
+      "fr-FR": "Santé",
+      "it-IT": "Salute",
+      "ja-JP": "健康",
+      "pl-PL": "Zdrowie",
+      "pt-BR": "Saúde",
+      "ru-RU": "Health",
+      "zh-CN": "健康"
+    }
+  },
+  {
+    "code": "heart",
+    "name": {
+      "de-DE": "Herz",
+      "en-US": "Heart",
+      "es-ES": "Corazón",
+      "fr-FR": "Heart",
+      "it-IT": "Cuore",
+      "ja-JP": "Heart",
+      "pl-PL": "Serce",
+      "pt-BR": "Coração",
+      "ru-RU": "Сердце",
+      "zh-CN": "心"
+    }
+  },
+  {
+    "code": "help",
+    "name": {
+      "de-DE": "Hilfe",
+      "en-US": "Help",
+      "es-ES": "Ayuda",
+      "fr-FR": "Help",
+      "it-IT": "Help",
+      "ja-JP": "Help",
+      "pl-PL": "Help",
+      "pt-BR": "Help",
+      "ru-RU": "Help",
+      "zh-CN": "Help"
+    }
+  },
+  {
+    "code": "home",
+    "name": {
+      "de-DE": "Home",
+      "en-US": "Home",
+      "es-ES": "Home",
+      "fr-FR": "Accueil",
+      "it-IT": "Casa",
+      "ja-JP": "ホーム",
+      "pl-PL": "Home",
+      "pt-BR": "Casa",
+      "ru-RU": "Главная",
+      "zh-CN": "Home"
+    }
+  },
+  {
+    "code": "hotel",
+    "name": {
+      "de-DE": "Hotel",
+      "en-US": "Hotel",
+      "es-ES": "Hotel",
+      "fr-FR": "Hotel",
+      "it-IT": "Hotel",
+      "ja-JP": "ホテル",
+      "pl-PL": "Hotel",
+      "pt-BR": "Hotel",
+      "ru-RU": "Hotel",
+      "zh-CN": "Hotel"
+    }
+  },
+  {
+    "code": "house",
+    "name": {
+      "de-DE": "Haus",
+      "en-US": "House",
+      "es-ES": "Casa",
+      "fr-FR": "Maison",
+      "it-IT": "Casa",
+      "ja-JP": "家",
+      "pl-PL": "Dom",
+      "pt-BR": "Casa",
+      "ru-RU": "Дом",
+      "zh-CN": "House"
+    }
+  },
+  {
+    "code": "human",
+    "name": {
+      "de-DE": "Human",
+      "en-US": "Human",
+      "es-ES": "Humano",
+      "fr-FR": "Human",
+      "it-IT": "Umano",
+      "ja-JP": "人間",
+      "pl-PL": "Human",
+      "pt-BR": "Human",
+      "ru-RU": "Human",
+      "zh-CN": "Human"
+    }
+  },
+  {
+    "code": "industrial",
+    "name": {
+      "de-DE": "Industrial",
+      "en-US": "Industrial",
+      "es-ES": "Industrial",
+      "fr-FR": "Industriel",
+      "it-IT": "Industriale",
+      "ja-JP": "産業",
+      "pl-PL": "Industrial",
+      "pt-BR": "Industrial",
+      "ru-RU": "Промышленные",
+      "zh-CN": "Industrial"
+    }
+  },
+  {
+    "code": "info",
+    "name": {
+      "de-DE": "Info",
+      "en-US": "Info",
+      "es-ES": "Información",
+      "fr-FR": "Info",
+      "it-IT": "Info",
+      "ja-JP": "情報",
+      "pl-PL": "Informacje",
+      "pt-BR": "Info",
+      "ru-RU": "Информация",
+      "zh-CN": "信息"
+    }
+  },
+  {
+    "code": "instagram",
+    "name": {
+      "de-DE": "Instagram",
+      "en-US": "Instagram",
+      "es-ES": "Instagram",
+      "fr-FR": "Instagram",
+      "it-IT": "Instagram",
+      "ja-JP": "インスタグラム",
+      "pl-PL": "Instagram",
+      "pt-BR": "Instagram",
+      "ru-RU": "Instagram",
+      "zh-CN": "Instagram"
+    }
+  },
+  {
+    "code": "internet",
+    "name": {
+      "de-DE": "Internet",
+      "en-US": "Internet",
+      "es-ES": "Internet",
+      "fr-FR": "Internet",
+      "it-IT": "Internet",
+      "ja-JP": "インターネット",
+      "pl-PL": "Internet",
+      "pt-BR": "Internet",
+      "ru-RU": "Интернет",
+      "zh-CN": "互联网"
+    }
+  },
+  {
+    "code": "key",
+    "name": {
+      "de-DE": "Schlüssel",
+      "en-US": "Key",
+      "es-ES": "Key",
+      "fr-FR": "Clé",
+      "it-IT": "Chiave",
+      "ja-JP": "キー",
+      "pl-PL": "Key",
+      "pt-BR": "Chave",
+      "ru-RU": "Ключ",
+      "zh-CN": "Key"
+    }
+  },
+  {
+    "code": "laptop",
+    "name": {
+      "de-DE": "Laptop",
+      "en-US": "Laptop",
+      "es-ES": "Ordenador portátil",
+      "fr-FR": "Laptop",
+      "it-IT": "Laptop",
+      "ja-JP": "Laptop",
+      "pl-PL": "Laptop",
+      "pt-BR": "Computador portátil",
+      "ru-RU": "Laptop",
+      "zh-CN": "笔记本电脑"
+    }
+  },
+  {
+    "code": "light-bulb",
+    "name": {
+      "de-DE": "Light Bulb",
+      "en-US": "Light Bulb",
+      "es-ES": "Light Bulb",
+      "fr-FR": "Ampoule",
+      "it-IT": "Lampadina",
+      "ja-JP": "電球",
+      "pl-PL": "Light Bulb",
+      "pt-BR": "Light Bulb",
+      "ru-RU": "Light Bulb",
+      "zh-CN": "灯泡"
+    }
+  },
+  {
+    "code": "like",
+    "name": {
+      "de-DE": "Like",
+      "en-US": "Like",
+      "es-ES": "Like",
+      "fr-FR": "Comme",
+      "it-IT": "Like",
+      "ja-JP": "Like",
+      "pl-PL": "Like",
+      "pt-BR": "Like",
+      "ru-RU": "Like",
+      "zh-CN": "Like"
+    }
+  },
+  {
+    "code": "line",
+    "name": {
+      "de-DE": "Linie",
+      "en-US": "Line",
+      "es-ES": "Línea",
+      "fr-FR": "Ligne",
+      "it-IT": "Linea",
+      "ja-JP": "ライン",
+      "pl-PL": "Linia",
+      "pt-BR": "Linha",
+      "ru-RU": "Линия",
+      "zh-CN": "线"
+    }
+  },
+  {
+    "code": "link",
+    "name": {
+      "de-DE": "Link",
+      "en-US": "Link",
+      "es-ES": "Link",
+      "fr-FR": "Lien",
+      "it-IT": "Link",
+      "ja-JP": "リンク",
+      "pl-PL": "Link",
+      "pt-BR": "Link",
+      "ru-RU": "Ссылка",
+      "zh-CN": "链接"
+    }
+  },
+  {
+    "code": "linkedin",
+    "name": {
+      "de-DE": "Linkedin",
+      "en-US": "Linkedin",
+      "es-ES": "Linkedin",
+      "fr-FR": "Linkedin",
+      "it-IT": "Linkedin",
+      "ja-JP": "Linkedin",
+      "pl-PL": "Linkedin",
+      "pt-BR": "Linkedin",
+      "ru-RU": "Linkedin",
+      "zh-CN": "Linkedin"
+    }
+  },
+  {
+    "code": "location",
+    "name": {
+      "de-DE": "Location",
+      "en-US": "Location",
+      "es-ES": "Ubicación",
+      "fr-FR": "Emplacement",
+      "it-IT": "Location",
+      "ja-JP": "Location",
+      "pl-PL": "Lokalizacja",
+      "pt-BR": "Localização",
+      "ru-RU": "Location",
+      "zh-CN": "位置"
+    }
+  },
+  {
+    "code": "lock",
+    "name": {
+      "de-DE": "Lock",
+      "en-US": "Lock",
+      "es-ES": "Lock",
+      "fr-FR": "Lock",
+      "it-IT": "Serratura",
+      "ja-JP": "ロック",
+      "pl-PL": "Lock",
+      "pt-BR": "Bloqueio",
+      "ru-RU": "Lock",
+      "zh-CN": "锁"
+    }
+  },
+  {
+    "code": "login",
+    "name": {
+      "de-DE": "Login",
+      "en-US": "Login",
+      "es-ES": "Login",
+      "fr-FR": "Login",
+      "it-IT": "Login",
+      "ja-JP": "ログイン",
+      "pl-PL": "Login",
+      "pt-BR": "Login",
+      "ru-RU": "Login",
+      "zh-CN": "登录"
+    }
+  },
+  {
+    "code": "love",
+    "name": {
+      "de-DE": "Liebe",
+      "en-US": "Love",
+      "es-ES": "Amor",
+      "fr-FR": "Amour",
+      "it-IT": "Amore",
+      "ja-JP": "愛",
+      "pl-PL": "Miłość",
+      "pt-BR": "Love",
+      "ru-RU": "Love",
+      "zh-CN": "爱"
+    }
+  },
+  {
+    "code": "mac",
+    "name": {
+      "de-DE": "Mac",
+      "en-US": "Mac",
+      "es-ES": "Mac",
+      "fr-FR": "Mac",
+      "it-IT": "Mac",
+      "ja-JP": "Mac",
+      "pl-PL": "Mac",
+      "pt-BR": "Mac",
+      "ru-RU": "Mac",
+      "zh-CN": "Mac"
+    }
+  },
+  {
+    "code": "magnifying-glass",
+    "name": {
+      "de-DE": "Magnifying Glass",
+      "en-US": "Magnifying Glass",
+      "es-ES": "Magnifying Glass",
+      "fr-FR": "Magnifying Glass",
+      "it-IT": "Magnifying Glass",
+      "ja-JP": "虫眼鏡",
+      "pl-PL": "Szkło powiększające",
+      "pt-BR": "Lupa",
+      "ru-RU": "Увеличительное стекло",
+      "zh-CN": "放大镜"
+    }
+  },
+  {
+    "code": "man",
+    "name": {
+      "de-DE": "Mann",
+      "en-US": "Man",
+      "es-ES": "Hombre",
+      "fr-FR": "Homme",
+      "it-IT": "Uomo",
+      "ja-JP": "Man",
+      "pl-PL": "Człowiek",
+      "pt-BR": "Homem",
+      "ru-RU": "Man",
+      "zh-CN": "人"
+    }
+  },
+  {
+    "code": "map",
+    "name": {
+      "de-DE": "Karte",
+      "en-US": "Map",
+      "es-ES": "Mapa",
+      "fr-FR": "Carte",
+      "it-IT": "Map",
+      "ja-JP": "地図",
+      "pl-PL": "Map",
+      "pt-BR": "Mapa",
+      "ru-RU": "Карта",
+      "zh-CN": "地图"
+    }
+  },
+  {
+    "code": "marketing",
+    "name": {
+      "de-DE": "Marketing",
+      "en-US": "Marketing",
+      "es-ES": "Marketing",
+      "fr-FR": "Marketing",
+      "it-IT": "Marketing",
+      "ja-JP": "マーケティング",
+      "pl-PL": "Marketing",
+      "pt-BR": "Marketing",
+      "ru-RU": "Маркетинг",
+      "zh-CN": "营销"
+    }
+  },
+  {
+    "code": "medical",
+    "name": {
+      "de-DE": "Medical",
+      "en-US": "Medical",
+      "es-ES": "Medical",
+      "fr-FR": "Medical",
+      "it-IT": "Medico",
+      "ja-JP": "医療",
+      "pl-PL": "Medical",
+      "pt-BR": "Medical",
+      "ru-RU": "Medical",
+      "zh-CN": "Medical"
+    }
+  },
+  {
+    "code": "menu",
+    "name": {
+      "de-DE": "Menü",
+      "en-US": "Menu",
+      "es-ES": "Menú",
+      "fr-FR": "Menu",
+      "it-IT": "Menu",
+      "ja-JP": "メニュー",
+      "pl-PL": "Menu",
+      "pt-BR": "Menu",
+      "ru-RU": "Меню",
+      "zh-CN": "菜单"
+    }
+  },
+  {
+    "code": "message",
+    "name": {
+      "de-DE": "Nachricht",
+      "en-US": "Message",
+      "es-ES": "Mensaje",
+      "fr-FR": "Message",
+      "it-IT": "Messaggio",
+      "ja-JP": "メッセージ",
+      "pl-PL": "Message",
+      "pt-BR": "Mensagem",
+      "ru-RU": "Сообщение",
+      "zh-CN": "Message"
+    }
+  },
+  {
+    "code": "microphone",
+    "name": {
+      "de-DE": "Mikrofon",
+      "en-US": "Microphone",
+      "es-ES": "Micrófono",
+      "fr-FR": "Microphone",
+      "it-IT": "Microfono",
+      "ja-JP": "Microphone",
+      "pl-PL": "Mikrofon",
+      "pt-BR": "Microfone",
+      "ru-RU": "Микрофон",
+      "zh-CN": "麦克风"
+    }
+  },
+  {
+    "code": "mobile",
+    "name": {
+      "de-DE": "Handy",
+      "en-US": "Mobile",
+      "es-ES": "Móvil",
+      "fr-FR": "Mobile",
+      "it-IT": "Mobile",
+      "ja-JP": "携帯電話・モバイル",
+      "pl-PL": "Telefon komórkowy",
+      "pt-BR": "Mobile",
+      "ru-RU": "Мобильные",
+      "zh-CN": "移动设备"
+    }
+  },
+  {
+    "code": "money",
+    "name": {
+      "de-DE": "Geld",
+      "en-US": "Money",
+      "es-ES": "Dinero",
+      "fr-FR": "Argent",
+      "it-IT": "Money",
+      "ja-JP": "お金",
+      "pl-PL": "Pieniądze",
+      "pt-BR": "Dinheiro",
+      "ru-RU": "Деньги",
+      "zh-CN": "钱"
+    }
+  },
+  {
+    "code": "mouse",
+    "name": {
+      "de-DE": "Maus",
+      "en-US": "Mouse",
+      "es-ES": "Ratón",
+      "fr-FR": "Souris",
+      "it-IT": "Mouse",
+      "ja-JP": "マウス",
+      "pl-PL": "Mouse",
+      "pt-BR": "Mouse",
+      "ru-RU": "Мышь",
+      "zh-CN": "Mouse"
+    }
+  },
+  {
+    "code": "movie",
+    "name": {
+      "de-DE": "Film",
+      "en-US": "Movie",
+      "es-ES": "Película",
+      "fr-FR": "Film",
+      "it-IT": "Film",
+      "ja-JP": "映画",
+      "pl-PL": "Film",
+      "pt-BR": "Filme",
+      "ru-RU": "Movie",
+      "zh-CN": "电影"
+    }
+  },
+  {
+    "code": "music",
+    "name": {
+      "de-DE": "Musik",
+      "en-US": "Music",
+      "es-ES": "Música",
+      "fr-FR": "Musique",
+      "it-IT": "Musica",
+      "ja-JP": "音楽・ミュージック",
+      "pl-PL": "Muzyka",
+      "pt-BR": "Músicas",
+      "ru-RU": "Музыка",
+      "zh-CN": "音乐"
+    }
+  },
+  {
+    "code": "navigate",
+    "name": {
+      "de-DE": "Navigieren",
+      "en-US": "Navigate",
+      "es-ES": "Navegar",
+      "fr-FR": "Navigate",
+      "it-IT": "Navigare",
+      "ja-JP": "Navigate",
+      "pl-PL": "Navigate",
+      "pt-BR": "Navigate",
+      "ru-RU": "Navigate",
+      "zh-CN": "导航"
+    }
+  },
+  {
+    "code": "networking",
+    "name": {
+      "de-DE": "Vernetzung",
+      "en-US": "Networking",
+      "es-ES": "Networking",
+      "fr-FR": "Networking",
+      "it-IT": "Networking",
+      "ja-JP": "Networking",
+      "pl-PL": "Networking",
+      "pt-BR": "Networking",
+      "ru-RU": "Networking",
+      "zh-CN": "Networking"
+    }
+  },
+  {
+    "code": "new",
+    "name": {
+      "de-DE": "Neu",
+      "en-US": "New",
+      "es-ES": "Nuevo",
+      "fr-FR": "Nouveau",
+      "it-IT": "Nuovo",
+      "ja-JP": "New",
+      "pl-PL": "Nowy",
+      "pt-BR": "Novo",
+      "ru-RU": "New",
+      "zh-CN": "New"
+    }
+  },
+  {
+    "code": "newspaper",
+    "name": {
+      "de-DE": "Zeitung",
+      "en-US": "Newspaper",
+      "es-ES": "Periódico",
+      "fr-FR": "Journal",
+      "it-IT": "Giornale",
+      "ja-JP": "新聞",
+      "pl-PL": "Newspaper",
+      "pt-BR": "Jornal",
+      "ru-RU": "Газета",
+      "zh-CN": "报纸"
+    }
+  },
+  {
+    "code": "note",
+    "name": {
+      "de-DE": "Hinweis",
+      "en-US": "Note",
+      "es-ES": "Nota",
+      "fr-FR": "Remarque",
+      "it-IT": "Nota",
+      "ja-JP": "Note",
+      "pl-PL": "Note",
+      "pt-BR": "Nota",
+      "ru-RU": "Note",
+      "zh-CN": "注意"
+    }
+  },
+  {
+    "code": "notification",
+    "name": {
+      "de-DE": "Benachrichtigung",
+      "en-US": "Notification",
+      "es-ES": "Notificación",
+      "fr-FR": "Notification",
+      "it-IT": "Notifica",
+      "ja-JP": "Notification",
+      "pl-PL": "Notification",
+      "pt-BR": "Notificação",
+      "ru-RU": "Уведомление",
+      "zh-CN": "通知"
+    }
+  },
+  {
+    "code": "office",
+    "name": {
+      "de-DE": "Büro",
+      "en-US": "Office",
+      "es-ES": "Oficina",
+      "fr-FR": "Bureau",
+      "it-IT": "Ufficio",
+      "ja-JP": "Office",
+      "pl-PL": "Office",
+      "pt-BR": "Escritório",
+      "ru-RU": "Office",
+      "zh-CN": "办公室"
+    }
+  },
+  {
+    "code": "pdf",
+    "name": {
+      "de-DE": "PDF",
+      "en-US": "PDF",
+      "es-ES": "PDF",
+      "fr-FR": "PDF",
+      "it-IT": "PDF",
+      "ja-JP": "PDF",
+      "pl-PL": "PDF",
+      "pt-BR": "PDF",
+      "ru-RU": "PDF",
+      "zh-CN": "PDF"
+    }
+  },
+  {
+    "code": "pencil",
+    "name": {
+      "de-DE": "Bleistift",
+      "en-US": "Pencil",
+      "es-ES": "Lápiz",
+      "fr-FR": "Crayon",
+      "it-IT": "Matita",
+      "ja-JP": "鉛筆",
+      "pl-PL": "Ołówek",
+      "pt-BR": "Lápis",
+      "ru-RU": "Карандаш",
+      "zh-CN": "铅笔"
+    }
+  },
+  {
+    "code": "person",
+    "name": {
+      "de-DE": "Person",
+      "en-US": "Person",
+      "es-ES": "Persona",
+      "fr-FR": "Person",
+      "it-IT": "Persona",
+      "ja-JP": "人",
+      "pl-PL": "Osoba",
+      "pt-BR": "Pessoa",
+      "ru-RU": "Person",
+      "zh-CN": "人"
+    }
+  },
+  {
+    "code": "phone",
+    "name": {
+      "de-DE": "Telefon",
+      "en-US": "Phone",
+      "es-ES": "Teléfono",
+      "fr-FR": "Téléphone",
+      "it-IT": "Telefono",
+      "ja-JP": "電話",
+      "pl-PL": "Telefon",
+      "pt-BR": "Telefone",
+      "ru-RU": "Телефон",
+      "zh-CN": "电话"
+    }
+  },
+  {
+    "code": "photography",
+    "name": {
+      "de-DE": "Fotografie",
+      "en-US": "Photography",
+      "es-ES": "Fotografía",
+      "fr-FR": "Photography",
+      "it-IT": "Fotografia",
+      "ja-JP": "写真",
+      "pl-PL": "Photography",
+      "pt-BR": "Fotografia",
+      "ru-RU": "Фотография",
+      "zh-CN": "摄影"
+    }
+  },
+  {
+    "code": "photos",
+    "name": {
+      "de-DE": "Fotos",
+      "en-US": "Photos",
+      "es-ES": "Fotos",
+      "fr-FR": "Photos",
+      "it-IT": "Photos",
+      "ja-JP": "写真",
+      "pl-PL": "Zdjęcia",
+      "pt-BR": "Fotos",
+      "ru-RU": "Photos",
+      "zh-CN": "Photos"
+    }
+  },
+  {
+    "code": "photoshop",
+    "name": {
+      "de-DE": "Photoshop",
+      "en-US": "Photoshop",
+      "es-ES": "Photoshop",
+      "fr-FR": "Photoshop",
+      "it-IT": "Photoshop",
+      "ja-JP": "Photoshop",
+      "pl-PL": "Photoshop",
+      "pt-BR": "Photoshop",
+      "ru-RU": "Photoshop",
+      "zh-CN": "Photoshop"
+    }
+  },
+  {
+    "code": "pink",
+    "name": {
+      "de-DE": "Rosa",
+      "en-US": "Pink",
+      "es-ES": "Pink",
+      "fr-FR": "Rose",
+      "it-IT": "Rosa",
+      "ja-JP": "ピンク",
+      "pl-PL": "Różowy",
+      "pt-BR": "Rosa",
+      "ru-RU": "Розовый",
+      "zh-CN": "Pink"
+    }
+  },
+  {
+    "code": "pixel",
+    "name": {
+      "de-DE": "Pixel",
+      "en-US": "Pixel",
+      "es-ES": "Pixel",
+      "fr-FR": "Pixel",
+      "it-IT": "Pixel",
+      "ja-JP": "ピクセル",
+      "pl-PL": "Pixel",
+      "pt-BR": "Pixel",
+      "ru-RU": "Пиксель",
+      "zh-CN": "像素"
+    }
+  },
+  {
+    "code": "plan",
+    "name": {
+      "de-DE": "Planen",
+      "en-US": "Plan",
+      "es-ES": "Plan",
+      "fr-FR": "Plan",
+      "it-IT": "Piano",
+      "ja-JP": "計画",
+      "pl-PL": "Plan",
+      "pt-BR": "Plano",
+      "ru-RU": "План",
+      "zh-CN": "计划"
+    }
+  },
+  {
+    "code": "play",
+    "name": {
+      "de-DE": "Spielen",
+      "en-US": "Play",
+      "es-ES": "Play",
+      "fr-FR": "Jouer",
+      "it-IT": "Play",
+      "ja-JP": "Play",
+      "pl-PL": "Play",
+      "pt-BR": "Play",
+      "ru-RU": "Играть",
+      "zh-CN": "Play"
+    }
+  },
+  {
+    "code": "plus",
+    "name": {
+      "de-DE": "Plus",
+      "en-US": "Plus",
+      "es-ES": "Más",
+      "fr-FR": "Plus",
+      "it-IT": "Plus",
+      "ja-JP": "プラス",
+      "pl-PL": "Plus",
+      "pt-BR": "Plus",
+      "ru-RU": "Плюс",
+      "zh-CN": "Plus"
+    }
+  },
+  {
+    "code": "pokemon",
+    "name": {
+      "de-DE": "Pokemon",
+      "en-US": "Pokemon",
+      "es-ES": "Pokemon",
+      "fr-FR": "Pokemon",
+      "it-IT": "Pokemon",
+      "ja-JP": "Pokemon",
+      "pl-PL": "Pokemon",
+      "pt-BR": "Pokemon",
+      "ru-RU": "Pokemon",
+      "zh-CN": "宠物小精灵"
+    }
+  },
+  {
+    "code": "powerpoint",
+    "name": {
+      "de-DE": "Powerpoint",
+      "en-US": "Powerpoint",
+      "es-ES": "PowerPoint",
+      "fr-FR": "Powerpoint",
+      "it-IT": "Powerpoint",
+      "ja-JP": "Powerpoint",
+      "pl-PL": "Powerpoint",
+      "pt-BR": "Powerpoint",
+      "ru-RU": "Powerpoint",
+      "zh-CN": "Powerpoint"
+    }
+  },
+  {
+    "code": "present",
+    "name": {
+      "de-DE": "Present",
+      "en-US": "Present",
+      "es-ES": "Presente",
+      "fr-FR": "Present",
+      "it-IT": "Presente",
+      "ja-JP": "現在",
+      "pl-PL": "Present",
+      "pt-BR": "Presente",
+      "ru-RU": "Настоящее время",
+      "zh-CN": "Present"
+    }
+  },
+  {
+    "code": "print",
+    "name": {
+      "de-DE": "Drucken",
+      "en-US": "Print",
+      "es-ES": "Print",
+      "fr-FR": "Print",
+      "it-IT": "Print",
+      "ja-JP": "印刷",
+      "pl-PL": "Print",
+      "pt-BR": "Impressão",
+      "ru-RU": "Print",
+      "zh-CN": "打印"
+    }
+  },
+  {
+    "code": "product",
+    "name": {
+      "de-DE": "Produkt",
+      "en-US": "Product",
+      "es-ES": "Producto",
+      "fr-FR": "Produit",
+      "it-IT": "Prodotto",
+      "ja-JP": "製品",
+      "pl-PL": "Product",
+      "pt-BR": "Product",
+      "ru-RU": "Продукт",
+      "zh-CN": "产品"
+    }
+  },
+  {
+    "code": "profile",
+    "name": {
+      "de-DE": "Objekte",
+      "en-US": "Profile",
+      "es-ES": "Objetos",
+      "fr-FR": "Objets",
+      "it-IT": "Oggetti",
+      "ja-JP": "物・オブジェクト",
+      "pl-PL": "Przedmioty",
+      "pt-BR": "Objetos",
+      "ru-RU": "Объекты",
+      "zh-CN": "对象"
+    }
+  },
+  {
+    "code": "project",
+    "name": {
+      "de-DE": "Projekt",
+      "en-US": "Project",
+      "es-ES": "Proyecto",
+      "fr-FR": "Projet",
+      "it-IT": "Progetto",
+      "ja-JP": "プロジェクト",
+      "pl-PL": "Project",
+      "pt-BR": "Projeto",
+      "ru-RU": "Проект",
+      "zh-CN": "项目"
+    }
+  },
+  {
+    "code": "question-mark",
+    "name": {
+      "de-DE": "Fragezeichen",
+      "en-US": "Question Mark",
+      "es-ES": "Signo de interrogación",
+      "fr-FR": "Question Mark",
+      "it-IT": "Punto interrogativo",
+      "ja-JP": "Question Mark",
+      "pl-PL": "Znak zapytania",
+      "pt-BR": "Ponto de interrogação",
+      "ru-RU": "Вопросительный знак",
+      "zh-CN": "问号"
+    }
+  },
+  {
+    "code": "red",
+    "name": {
+      "de-DE": "Rot",
+      "en-US": "Red",
+      "es-ES": "Rojo",
+      "fr-FR": "Rouge",
+      "it-IT": "Rosso",
+      "ja-JP": "赤",
+      "pl-PL": "Czerwony",
+      "pt-BR": "Vermelho",
+      "ru-RU": "Красный",
+      "zh-CN": "红"
+    }
+  },
+  {
+    "code": "refresh",
+    "name": {
+      "de-DE": "Aktualisieren",
+      "en-US": "Refresh",
+      "es-ES": "Refresh",
+      "fr-FR": "Refresh",
+      "it-IT": "Refresh",
+      "ja-JP": "Refresh",
+      "pl-PL": "Refresh",
+      "pt-BR": "Refresh",
+      "ru-RU": "Refresh",
+      "zh-CN": "刷新"
+    }
+  },
+  {
+    "code": "religion",
+    "name": {
+      "de-DE": "Religion",
+      "en-US": "Religion",
+      "es-ES": "Religión",
+      "fr-FR": "Religion",
+      "it-IT": "Religione",
+      "ja-JP": "宗教",
+      "pl-PL": "Religia",
+      "pt-BR": "Religião",
+      "ru-RU": "Религия",
+      "zh-CN": "宗教"
+    }
+  },
+  {
+    "code": "report",
+    "name": {
+      "de-DE": "Bericht",
+      "en-US": "Report",
+      "es-ES": "Informe",
+      "fr-FR": "Rapport",
+      "it-IT": "Report",
+      "ja-JP": "Report",
+      "pl-PL": "Raport",
+      "pt-BR": "Relatório",
+      "ru-RU": "Отчет",
+      "zh-CN": "报告"
+    }
+  },
+  {
+    "code": "sales",
+    "name": {
+      "de-DE": "Sales",
+      "en-US": "Sales",
+      "es-ES": "Ventas",
+      "fr-FR": "Ventes",
+      "it-IT": "Sales",
+      "ja-JP": "Sales",
+      "pl-PL": "Sales",
+      "pt-BR": "Vendas",
+      "ru-RU": "Продажи",
+      "zh-CN": "销售"
+    }
+  },
+  {
+    "code": "samsung",
+    "name": {
+      "de-DE": "Samsung",
+      "en-US": "Samsung",
+      "es-ES": "Samsung",
+      "fr-FR": "Samsung",
+      "it-IT": "Samsung",
+      "ja-JP": "Samsung",
+      "pl-PL": "Samsung",
+      "pt-BR": "Samsung",
+      "ru-RU": "Samsung",
+      "zh-CN": "三星"
+    }
+  },
+  {
+    "code": "save",
+    "name": {
+      "de-DE": "Save",
+      "en-US": "Save",
+      "es-ES": "Save",
+      "fr-FR": "Save",
+      "it-IT": "Save",
+      "ja-JP": "Save",
+      "pl-PL": "Save",
+      "pt-BR": "Save",
+      "ru-RU": "Сохранить",
+      "zh-CN": "保存"
+    }
+  },
+  {
+    "code": "school",
+    "name": {
+      "de-DE": "Schule",
+      "en-US": "School",
+      "es-ES": "School",
+      "fr-FR": "École",
+      "it-IT": "Scuola",
+      "ja-JP": "学校",
+      "pl-PL": "Szkoła",
+      "pt-BR": "Escola",
+      "ru-RU": "Школа",
+      "zh-CN": "学校"
+    }
+  },
+  {
+    "code": "search",
+    "name": {
+      "de-DE": "Suche",
+      "en-US": "Search",
+      "es-ES": "Search",
+      "fr-FR": "Search",
+      "it-IT": "Ricerca",
+      "ja-JP": "Search",
+      "pl-PL": "Search",
+      "pt-BR": "Pesquisa",
+      "ru-RU": "Поиск",
+      "zh-CN": "搜索"
+    }
+  },
+  {
+    "code": "security",
+    "name": {
+      "de-DE": "Sicherheit",
+      "en-US": "Security",
+      "es-ES": "Seguridad",
+      "fr-FR": "Sécurité",
+      "it-IT": "Sicurezza",
+      "ja-JP": "セキュリティ",
+      "pl-PL": "Bezpieczeństwo",
+      "pt-BR": "Segurança",
+      "ru-RU": "Безопасность",
+      "zh-CN": "安全"
+    }
+  },
+  {
+    "code": "server",
+    "name": {
+      "de-DE": "Server",
+      "en-US": "Server",
+      "es-ES": "Servidor",
+      "fr-FR": "Serveur",
+      "it-IT": "Server",
+      "ja-JP": "Server",
+      "pl-PL": "Serwer",
+      "pt-BR": "Servidor",
+      "ru-RU": "Сервер",
+      "zh-CN": "服务器"
+    }
+  },
+  {
+    "code": "service",
+    "name": {
+      "de-DE": "Service",
+      "en-US": "Service",
+      "es-ES": "Servicio",
+      "fr-FR": "Service",
+      "it-IT": "Servizio",
+      "ja-JP": "サービス",
+      "pl-PL": "Service",
+      "pt-BR": "Serviço",
+      "ru-RU": "Service",
+      "zh-CN": "服务"
+    }
+  },
+  {
+    "code": "settings",
+    "name": {
+      "de-DE": "Einstellungen",
+      "en-US": "Settings",
+      "es-ES": "Settings",
+      "fr-FR": "Paramètres",
+      "it-IT": "Impostazioni",
+      "ja-JP": "設定",
+      "pl-PL": "Ustawienia",
+      "pt-BR": "Configurações",
+      "ru-RU": "Настройки",
+      "zh-CN": "设置"
+    }
+  },
+  {
+    "code": "share",
+    "name": {
+      "de-DE": "Share",
+      "en-US": "Share",
+      "es-ES": "Compartir",
+      "fr-FR": "Partager",
+      "it-IT": "Share",
+      "ja-JP": "Share",
+      "pl-PL": "Share",
+      "pt-BR": "Compartilhar",
+      "ru-RU": "Share",
+      "zh-CN": "Share"
+    }
+  },
+  {
+    "code": "shipping",
+    "name": {
+      "de-DE": "Versand",
+      "en-US": "Shipping",
+      "es-ES": "Envío",
+      "fr-FR": "Shipping",
+      "it-IT": "Shipping",
+      "ja-JP": "Shipping",
+      "pl-PL": "Wysyłka",
+      "pt-BR": "Shipping",
+      "ru-RU": "Shipping",
+      "zh-CN": "Shipping"
+    }
+  },
+  {
+    "code": "shop",
+    "name": {
+      "de-DE": "Shop",
+      "en-US": "Shop",
+      "es-ES": "Tienda",
+      "fr-FR": "Boutique",
+      "it-IT": "Negozio",
+      "ja-JP": "ショップ",
+      "pl-PL": "Sklep",
+      "pt-BR": "Shop",
+      "ru-RU": "Магазин",
+      "zh-CN": "Shop"
+    }
+  },
+  {
+    "code": "shopping-cart",
+    "name": {
+      "de-DE": "Shopping Cart",
+      "en-US": "Shopping Cart",
+      "es-ES": "Carrito de compras",
+      "fr-FR": "Shopping Cart",
+      "it-IT": "Shopping Cart",
+      "ja-JP": "Shopping Cart",
+      "pl-PL": "Shopping Cart",
+      "pt-BR": "Carrinho de compras",
+      "ru-RU": "Корзина",
+      "zh-CN": "购物车"
+    }
+  },
+  {
+    "code": "skype",
+    "name": {
+      "de-DE": "Skype",
+      "en-US": "Skype",
+      "es-ES": "Skype",
+      "fr-FR": "Skype",
+      "it-IT": "Skype",
+      "ja-JP": "Skype",
+      "pl-PL": "Skype",
+      "pt-BR": "Skype",
+      "ru-RU": "Skype",
+      "zh-CN": "Skype"
+    }
+  },
+  {
+    "code": "smartphone",
+    "name": {
+      "de-DE": "Smartphone",
+      "en-US": "Smartphone",
+      "es-ES": "Smartphone",
+      "fr-FR": "Smartphone",
+      "it-IT": "Smartphone",
+      "ja-JP": "Smartphone",
+      "pl-PL": "Smartphone",
+      "pt-BR": "Smartphone",
+      "ru-RU": "Смартфон",
+      "zh-CN": "Smartphone"
+    }
+  },
+  {
+    "code": "smile",
+    "name": {
+      "de-DE": "Lächeln",
+      "en-US": "Smile",
+      "es-ES": "Smile",
+      "fr-FR": "Smile",
+      "it-IT": "Sorriso",
+      "ja-JP": "Smile",
+      "pl-PL": "Uśmiech",
+      "pt-BR": "Smile",
+      "ru-RU": "Улыбка",
+      "zh-CN": "微笑"
+    }
+  },
+  {
+    "code": "smiley-face",
+    "name": {
+      "de-DE": "Smiley Face",
+      "en-US": "Smiley Face",
+      "es-ES": "Cara sonriente",
+      "fr-FR": "Smiley Face",
+      "it-IT": "Smiley Face",
+      "ja-JP": "Smiley Face",
+      "pl-PL": "Smiley Face",
+      "pt-BR": "Rosto sorridente",
+      "ru-RU": "Smiley Face",
+      "zh-CN": "笑脸"
+    }
+  },
+  {
+    "code": "social-media",
+    "name": {
+      "de-DE": "Soziale Netzwerke",
+      "en-US": "Social Media",
+      "es-ES": "Redes sociales",
+      "fr-FR": "Réseaux sociaux",
+      "it-IT": "Social Networks",
+      "ja-JP": "ソーシャルネットワーク",
+      "pl-PL": "Sieci społecznościowe",
+      "pt-BR": "Redes sociais",
+      "ru-RU": "Социальные сети",
+      "zh-CN": "社交网络"
+    }
+  },
+  {
+    "code": "sound",
+    "name": {
+      "de-DE": "Sound",
+      "en-US": "Sound",
+      "es-ES": "Sound",
+      "fr-FR": "Sound",
+      "it-IT": "Suono",
+      "ja-JP": "音",
+      "pl-PL": "Dźwięk",
+      "pt-BR": "Som",
+      "ru-RU": "Звук",
+      "zh-CN": "声音"
+    }
+  },
+  {
+    "code": "sport",
+    "name": {
+      "de-DE": "Sport",
+      "en-US": "Sport",
+      "es-ES": "Deporte",
+      "fr-FR": "Sport",
+      "it-IT": "Sport",
+      "ja-JP": "スポーツ",
+      "pl-PL": "Sport",
+      "pt-BR": "Sport",
+      "ru-RU": "Спорт",
+      "zh-CN": "Sport"
+    }
+  },
+  {
+    "code": "stars",
+    "name": {
+      "de-DE": "Sterne",
+      "en-US": "Stars",
+      "es-ES": "Estrellas",
+      "fr-FR": "Étoiles",
+      "it-IT": "Stelle",
+      "ja-JP": "Stars",
+      "pl-PL": "Gwiazdy",
+      "pt-BR": "Estrelas",
+      "ru-RU": "Звезды",
+      "zh-CN": "Stars"
+    }
+  },
+  {
+    "code": "statistic",
+    "name": {
+      "de-DE": "Statistik",
+      "en-US": "Statistic",
+      "es-ES": "Estadística",
+      "fr-FR": "Statistic",
+      "it-IT": "Statistic",
+      "ja-JP": "Statistic",
+      "pl-PL": "Statistic",
+      "pt-BR": "Estatística",
+      "ru-RU": "Статистика",
+      "zh-CN": "统计"
+    }
+  },
+  {
+    "code": "steam",
+    "name": {
+      "de-DE": "Dampf",
+      "en-US": "Steam",
+      "es-ES": "Vapor",
+      "fr-FR": "Vapeur",
+      "it-IT": "Vapore",
+      "ja-JP": "蒸気",
+      "pl-PL": "Steam",
+      "pt-BR": "Vapor",
+      "ru-RU": "Steam",
+      "zh-CN": "蒸汽"
+    }
+  },
+  {
+    "code": "style",
+    "name": {
+      "de-DE": "Stil",
+      "en-US": "Style",
+      "es-ES": "Estilo",
+      "fr-FR": "Style",
+      "it-IT": "Stile",
+      "ja-JP": "スタイル",
+      "pl-PL": "Styl",
+      "pt-BR": "Estilo",
+      "ru-RU": "Стиль",
+      "zh-CN": "样式"
+    }
+  },
+  {
+    "code": "sun",
+    "name": {
+      "de-DE": "Sonne",
+      "en-US": "Sun",
+      "es-ES": "Sol",
+      "fr-FR": "Sun",
+      "it-IT": "Sole",
+      "ja-JP": "太陽",
+      "pl-PL": "Słońce",
+      "pt-BR": "Sun",
+      "ru-RU": "Солнце",
+      "zh-CN": "太阳"
+    }
+  },
+  {
+    "code": "tv",
+    "name": {
+      "de-DE": "TV",
+      "en-US": "TV",
+      "es-ES": "TV",
+      "fr-FR": "TV",
+      "it-IT": "TV",
+      "ja-JP": "テレビ",
+      "pl-PL": "TV",
+      "pt-BR": "TV",
+      "ru-RU": "TV",
+      "zh-CN": "电视"
+    }
+  },
+  {
+    "code": "technology",
+    "name": {
+      "de-DE": "Technologie",
+      "en-US": "Technology",
+      "es-ES": "Tecnología",
+      "fr-FR": "Technology",
+      "it-IT": "Tecnologia",
+      "ja-JP": "技術",
+      "pl-PL": "Technologia",
+      "pt-BR": "Tecnologia",
+      "ru-RU": "Technology",
+      "zh-CN": "技术"
+    }
+  },
+  {
+    "code": "text",
+    "name": {
+      "de-DE": "Text",
+      "en-US": "Text",
+      "es-ES": "Texto",
+      "fr-FR": "Texte",
+      "it-IT": "Testo",
+      "ja-JP": "テキスト",
+      "pl-PL": "Tekst",
+      "pt-BR": "Texto",
+      "ru-RU": "Текст",
+      "zh-CN": "文本"
+    }
+  },
+  {
+    "code": "thumbs-up",
+    "name": {
+      "de-DE": "Thumbs Up",
+      "en-US": "Thumbs Up",
+      "es-ES": "Thumbs Up",
+      "fr-FR": "Thumbs Up",
+      "it-IT": "Thumbs Up",
+      "ja-JP": "Thumbs Up",
+      "pl-PL": "Thumbs Up",
+      "pt-BR": "Thumbs Up",
+      "ru-RU": "Thumbs Up",
+      "zh-CN": "竖起大拇指"
+    }
+  },
+  {
+    "code": "tick",
+    "name": {
+      "de-DE": "Tick",
+      "en-US": "Tick",
+      "es-ES": "Garrapata",
+      "fr-FR": "Tick",
+      "it-IT": "Tick",
+      "ja-JP": "ティック",
+      "pl-PL": "Kleszcz",
+      "pt-BR": "Tick",
+      "ru-RU": "Tick",
+      "zh-CN": "Tick"
+    }
+  },
+  {
+    "code": "time",
+    "name": {
+      "de-DE": "Time",
+      "en-US": "Time",
+      "es-ES": "Time",
+      "fr-FR": "Heure",
+      "it-IT": "Time",
+      "ja-JP": "Time",
+      "pl-PL": "Time",
+      "pt-BR": "Time",
+      "ru-RU": "Time",
+      "zh-CN": "Time"
+    }
+  },
+  {
+    "code": "tools",
+    "name": {
+      "de-DE": "Tools",
+      "en-US": "Tools",
+      "es-ES": "Tools",
+      "fr-FR": "Tools",
+      "it-IT": "Tools",
+      "ja-JP": "Tools",
+      "pl-PL": "Tools",
+      "pt-BR": "Tools",
+      "ru-RU": "Tools",
+      "zh-CN": "Tools"
+    }
+  },
+  {
+    "code": "travel",
+    "name": {
+      "de-DE": "Reisen",
+      "en-US": "Travel",
+      "es-ES": "Viajes",
+      "fr-FR": "Voyage",
+      "it-IT": "Viaggi",
+      "ja-JP": "旅行・トラベル",
+      "pl-PL": "Podróż",
+      "pt-BR": "Viagem",
+      "ru-RU": "Путешествия",
+      "zh-CN": "旅行"
+    }
+  },
+  {
+    "code": "trees",
+    "name": {
+      "de-DE": "Bäume",
+      "en-US": "Trees",
+      "es-ES": "Árboles",
+      "fr-FR": "Trees",
+      "it-IT": "Alberi",
+      "ja-JP": "木",
+      "pl-PL": "Drzewa",
+      "pt-BR": "Árvores",
+      "ru-RU": "Деревья",
+      "zh-CN": "树"
+    }
+  },
+  {
+    "code": "truck",
+    "name": {
+      "de-DE": "LKW",
+      "en-US": "Truck",
+      "es-ES": "Camión",
+      "fr-FR": "Truck",
+      "it-IT": "Camion",
+      "ja-JP": "トラック",
+      "pl-PL": "Truck",
+      "pt-BR": "Caminhão",
+      "ru-RU": "Truck",
+      "zh-CN": "卡车"
+    }
+  },
+  {
+    "code": "tumblr",
+    "name": {
+      "de-DE": "Tumblr",
+      "en-US": "Tumblr",
+      "es-ES": "Tumblr",
+      "fr-FR": "Tumblr",
+      "it-IT": "Tumblr",
+      "ja-JP": "Tumblr",
+      "pl-PL": "Tumblr",
+      "pt-BR": "Tumblr",
+      "ru-RU": "Tumblr",
+      "zh-CN": "Tumblr"
+    }
+  },
+  {
+    "code": "twitter",
+    "name": {
+      "de-DE": "Twitter",
+      "en-US": "Twitter",
+      "es-ES": "Twitter",
+      "fr-FR": "Twitter",
+      "it-IT": "Twitter",
+      "ja-JP": "Twitter",
+      "pl-PL": "Twitter",
+      "pt-BR": "Twitter",
+      "ru-RU": "Twitter",
+      "zh-CN": "推特"
+    }
+  },
+  {
+    "code": "user",
+    "name": {
+      "de-DE": "Benutzer",
+      "en-US": "User",
+      "es-ES": "Usuario",
+      "fr-FR": "Utilisateur",
+      "it-IT": "Utente",
+      "ja-JP": "ユーザー",
+      "pl-PL": "User",
+      "pt-BR": "User",
+      "ru-RU": "Пользователь",
+      "zh-CN": "用户"
+    }
+  },
+  {
+    "code": "video",
+    "name": {
+      "de-DE": "Video",
+      "en-US": "Video",
+      "es-ES": "Video",
+      "fr-FR": "Vidéo",
+      "it-IT": "Video",
+      "ja-JP": "ビデオ",
+      "pl-PL": "Wideo",
+      "pt-BR": "Vídeo",
+      "ru-RU": "Видео",
+      "zh-CN": "视频"
+    }
+  },
+  {
+    "code": "warning",
+    "name": {
+      "de-DE": "Warnung",
+      "en-US": "Warning",
+      "es-ES": "Warning",
+      "fr-FR": "Warning",
+      "it-IT": "Warning",
+      "ja-JP": "警告",
+      "pl-PL": "Ostrzeżenie",
+      "pt-BR": "Warning",
+      "ru-RU": "Предупреждение",
+      "zh-CN": "警告"
+    }
+  },
+  {
+    "code": "weather",
+    "name": {
+      "de-DE": "Wetter",
+      "en-US": "Weather",
+      "es-ES": "El tiempo",
+      "fr-FR": "Météo",
+      "it-IT": "Meteo",
+      "ja-JP": "天気・ウェザー",
+      "pl-PL": "Pogoda",
+      "pt-BR": "Clima",
+      "ru-RU": "Погода",
+      "zh-CN": "天气"
+    }
+  },
+  {
+    "code": "website",
+    "name": {
+      "de-DE": "Webseite",
+      "en-US": "Website",
+      "es-ES": "Sitio web",
+      "fr-FR": "Site internet",
+      "it-IT": "Sito web",
+      "ja-JP": "ウェブサイト",
+      "pl-PL": "Strona internetowa ",
+      "pt-BR": "Sítio web",
+      "ru-RU": "Веб-сайт",
+      "zh-CN": "网站"
+    }
+  },
+  {
+    "code": "whatsapp",
+    "name": {
+      "de-DE": "WhatsApp",
+      "en-US": "Whatsapp",
+      "es-ES": "Whatsapp",
+      "fr-FR": "WhatsApp",
+      "it-IT": "WhatsApp",
+      "ja-JP": "Whatsapp",
+      "pl-PL": "Whatsapp",
+      "pt-BR": "Whatsapp",
+      "ru-RU": "Whatsapp",
+      "zh-CN": "Whatsapp"
+    }
+  },
+  {
+    "code": "white",
+    "name": {
+      "de-DE": "Weiß",
+      "en-US": "White",
+      "es-ES": "Blanco",
+      "fr-FR": "Blanc",
+      "it-IT": "White",
+      "ja-JP": "White",
+      "pl-PL": "Biały",
+      "pt-BR": "Branco",
+      "ru-RU": "Белый",
+      "zh-CN": "白色"
+    }
+  },
+  {
+    "code": "wifi",
+    "name": {
+      "de-DE": "WiFi",
+      "en-US": "WiFi",
+      "es-ES": "WiFi",
+      "fr-FR": "WiFi",
+      "it-IT": "Wi-Fi",
+      "ja-JP": "WiFi",
+      "pl-PL": "WiFi",
+      "pt-BR": "WiFi",
+      "ru-RU": "WiFi",
+      "zh-CN": "WiFi"
+    }
+  },
+  {
+    "code": "windows",
+    "name": {
+      "de-DE": "Windows",
+      "en-US": "Windows",
+      "es-ES": "Windows",
+      "fr-FR": "Windows",
+      "it-IT": "Windows",
+      "ja-JP": "Windows",
+      "pl-PL": "Windows",
+      "pt-BR": "Windows",
+      "ru-RU": "Windows",
+      "zh-CN": "Windows"
+    }
+  },
+  {
+    "code": "woman",
+    "name": {
+      "de-DE": "Frau",
+      "en-US": "Woman",
+      "es-ES": "Mujer",
+      "fr-FR": "Femme",
+      "it-IT": "Donna",
+      "ja-JP": "女性",
+      "pl-PL": "Kobieta",
+      "pt-BR": "Mulher",
+      "ru-RU": "Женщина",
+      "zh-CN": "女人"
+    }
+  },
+  {
+    "code": "work",
+    "name": {
+      "de-DE": "Arbeit",
+      "en-US": "Work",
+      "es-ES": "Trabajo",
+      "fr-FR": "Travail",
+      "it-IT": "Lavoro",
+      "ja-JP": "作業",
+      "pl-PL": "Work",
+      "pt-BR": "Work",
+      "ru-RU": "Работа",
+      "zh-CN": "工作"
+    }
+  },
+  {
+    "code": "youtube",
+    "name": {
+      "de-DE": "YouTube",
+      "en-US": "YouTube",
+      "es-ES": "YouTube",
+      "fr-FR": "YouTube",
+      "it-IT": "YouTube",
+      "ja-JP": "YouTube",
+      "pl-PL": "YouTube",
+      "pt-BR": "YouTube",
+      "ru-RU": "YouTube",
+      "zh-CN": "YouTube视频网站"
+    }
+  },
+  {
+    "code": "ios",
+    "name": {
+      "de-DE": "IOS",
+      "en-US": "iOS",
+      "es-ES": "IOS",
+      "fr-FR": "IOS",
+      "it-IT": "IOS",
+      "ja-JP": "IOS",
+      "pl-PL": "IOS",
+      "pt-BR": "IOS",
+      "ru-RU": "IOS",
+      "zh-CN": "iOS"
+    }
+  },
+  {
+    "code": "iphone",
+    "name": {
+      "de-DE": "IPhone",
+      "en-US": "iPhone",
+      "es-ES": "IPhone",
+      "fr-FR": "IPhone",
+      "it-IT": "iPhone",
+      "ja-JP": "IPhone",
+      "pl-PL": "IPhone",
+      "pt-BR": "iPhone",
+      "ru-RU": "IPhone",
+      "zh-CN": "iPhone"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+@import '../variables';
+@import '../mixins';
+
+.badge {
+  display: inline-block;
+  padding: 1px 6px;
+  background-color: darken($color-orange, 1%);
+  border-radius: 3px;
+  @include font-regular;
+  font-size: 12px;
+  line-height: 1.5;
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+  vertical-align: middle;
+  transition: 0.3s all ease;
+
+  &.is-big {
+    font-size: 14px;
+    padding: 1px 7px;
+  }
+}

@@ -1,0 +1,905 @@
+[
+  {
+    "name": {
+      "de-DE": "Kino",
+      "en-US": "Cinema",
+      "es-ES": "Cine",
+      "fr-FR": "Cinéma",
+      "it-IT": "Cinema",
+      "ja-JP": "映画",
+      "pl-PL": "Kino",
+      "pt-BR": "Cinema",
+      "ru-RU": "Кино",
+      "zh-CN": "电影"
+    },
+    "code": "cinema"
+  },
+  {
+    "name": {
+      "de-DE": "Alphabet",
+      "en-US": "Alphabet",
+      "es-ES": "Alfabeto",
+      "fr-FR": "Alphabet",
+      "it-IT": "Alfabeto",
+      "ja-JP": "文字・アルファベット",
+      "pl-PL": "Alfabet",
+      "pt-BR": "Alfabeto",
+      "ru-RU": "Алфавит",
+      "zh-CN": "字母"
+    },
+    "code": "alphabet"
+  },
+  {
+    "name": {
+      "de-DE": "Baby",
+      "en-US": "Baby",
+      "es-ES": "Bebé",
+      "fr-FR": "Bébé",
+      "it-IT": "Bambino",
+      "ja-JP": "育児・ベビー",
+      "pl-PL": "Dziecko",
+      "pt-BR": "Bebê",
+      "ru-RU": "Детские",
+      "zh-CN": "婴儿"
+    },
+    "code": "baby"
+  },
+  {
+    "name": {
+      "de-DE": "Bearbeiten",
+      "en-US": "Editing",
+      "es-ES": "Edición",
+      "fr-FR": "Édition",
+      "it-IT": "Modifica",
+      "ja-JP": "エディット・編集",
+      "pl-PL": "Edytowanie",
+      "pt-BR": "Edição",
+      "ru-RU": "Редактирование",
+      "zh-CN": "编辑"
+    },
+    "code": "editing"
+  },
+  {
+    "name": {
+      "de-DE": "Beauty",
+      "en-US": "Beauty",
+      "es-ES": "Belleza",
+      "fr-FR": "Beauté",
+      "it-IT": "Bellezza",
+      "ja-JP": "美容・ビューティ",
+      "pl-PL": "Uroda",
+      "pt-BR": "Beleza",
+      "ru-RU": "Внешность",
+      "zh-CN": "美"
+    },
+    "code": "beauty"
+  },
+  {
+    "name": {
+      "de-DE": "Benutzeroberfläche",
+      "en-US": "User Interface",
+      "es-ES": "Interfaz de usuario",
+      "fr-FR": "Interface utilisateur",
+      "it-IT": "Interfaccia Utente",
+      "ja-JP": "ユーザーインターフェイス",
+      "pl-PL": "Interfejs użytkownika",
+      "pt-BR": "Interface de usuário",
+      "ru-RU": "Интерфейс",
+      "zh-CN": "用户界面"
+    },
+    "code": "user-interface"
+  },
+  {
+    "name": {
+      "de-DE": "Betriebssysteme",
+      "en-US": "Operating Systems",
+      "es-ES": "Sistemas operativos",
+      "fr-FR": "Systèmes d'exploitation",
+      "it-IT": "Sistemi Operativi",
+      "ja-JP": "オペレーティングシステム",
+      "pl-PL": "Systemy operacyjne",
+      "pt-BR": "Sistemas operacionais",
+      "ru-RU": "Операционки",
+      "zh-CN": "操作系统"
+    },
+    "code": "operating-systems"
+  },
+  {
+    "name": {
+      "de-DE": "Business",
+      "en-US": "Business",
+      "es-ES": "Negocios",
+      "fr-FR": "Business",
+      "it-IT": "Business",
+      "ja-JP": "ビジネス・経済",
+      "pl-PL": "Biznes",
+      "pt-BR": "Negócios",
+      "ru-RU": "Бизнес",
+      "zh-CN": "商业"
+    },
+    "code": "business"
+  },
+  {
+    "name": {
+      "de-DE": "Characters",
+      "en-US": "Characters",
+      "es-ES": "Characters",
+      "fr-FR": "Characters",
+      "it-IT": "Characters",
+      "ja-JP": "Characters",
+      "pl-PL": "Characters",
+      "pt-BR": "Characters",
+      "ru-RU": "Characters",
+      "zh-CN": "Characters"
+    },
+    "code": "characters",
+    "free": true
+  },
+  {
+    "name": {
+      "de-DE": "Computer-Hardware",
+      "en-US": "Computer Hardware",
+      "es-ES": "Hardware de ordenador",
+      "fr-FR": "Matériel informatique",
+      "it-IT": "Computer Hardware",
+      "ja-JP": "ハードウェア",
+      "pl-PL": "Sprzęt komputerowy",
+      "pt-BR": "Hardware",
+      "ru-RU": "Компьютерное железо",
+      "zh-CN": "计算机硬件"
+    },
+    "code": "computer-hardware"
+  },
+  {
+    "name": {
+      "de-DE": "Culture",
+      "en-US": "Culture",
+      "es-ES": "Culture",
+      "fr-FR": "Culture",
+      "it-IT": "Culture",
+      "ja-JP": "Culture",
+      "pl-PL": "Culture",
+      "pt-BR": "Culture",
+      "ru-RU": "Culture",
+      "zh-CN": "Culture"
+    },
+    "code": "cultures"
+  },
+  {
+    "name": {
+      "de-DE": "Dateien",
+      "en-US": "Files",
+      "es-ES": "Archivos",
+      "fr-FR": "Fichiers",
+      "it-IT": "Files",
+      "ja-JP": "ファイル",
+      "pl-PL": "Pliki",
+      "pt-BR": "Arquivos",
+      "ru-RU": "Файлы",
+      "zh-CN": "文件"
+    },
+    "code": "files"
+  },
+  {
+    "name": {
+      "de-DE": "Daten",
+      "en-US": "Data",
+      "es-ES": "Datos",
+      "fr-FR": "Données",
+      "it-IT": "Dati",
+      "ja-JP": "データベース",
+      "pl-PL": "Dane",
+      "pt-BR": "Dados",
+      "ru-RU": "Данные",
+      "zh-CN": "数据"
+    },
+    "code": "data"
+  },
+  {
+    "name": {
+      "de-DE": "Do It Yourself",
+      "en-US": "DIY",
+      "es-ES": "Hazlo tú mismo",
+      "fr-FR": "Bricolage et jardinage",
+      "it-IT": "Fai-da-te",
+      "ja-JP": "DIY",
+      "pl-PL": "Zrób to sam",
+      "pt-BR": "Faça você mesmo",
+      "ru-RU": "Сделай сам",
+      "zh-CN": "DIY"
+    },
+    "code": "diy"
+  },
+  {
+    "name": {
+      "de-DE": "Drucken",
+      "en-US": "Printing",
+      "es-ES": "Imprimir",
+      "fr-FR": "Impression",
+      "it-IT": "Stampa",
+      "ja-JP": "印刷・プリント",
+      "pl-PL": "Drukowanie",
+      "pt-BR": "Impressão",
+      "ru-RU": "Печать",
+      "zh-CN": "打印"
+    },
+    "code": "printing"
+  },
+  {
+    "name": {
+      "de-DE": "E-Commerce",
+      "en-US": "Ecommerce",
+      "es-ES": "E-commerce",
+      "fr-FR": "E-commerce",
+      "it-IT": "E-commerce",
+      "ja-JP": "ネット通販",
+      "pl-PL": "E-handel",
+      "pt-BR": "Comércio eletrônico",
+      "ru-RU": "Электронная торговля",
+      "zh-CN": "电子商务"
+    },
+    "code": "ecommerce"
+  },
+  {
+    "name": {
+      "de-DE": "Einkaufen",
+      "en-US": "Shopping",
+      "es-ES": "Compras",
+      "fr-FR": "Shopping",
+      "it-IT": "Shopping",
+      "ja-JP": "買い物・ショッピング",
+      "pl-PL": "Zakupy",
+      "pt-BR": "Compras",
+      "ru-RU": "Шоппинг",
+      "zh-CN": "购物"
+    },
+    "code": "shopping"
+  },
+  {
+    "name": {
+      "de-DE": "Essen",
+      "en-US": "Food",
+      "es-ES": "Comida",
+      "fr-FR": "Nourriture",
+      "it-IT": "Cibo",
+      "ja-JP": "食品・フード",
+      "pl-PL": "Żywność",
+      "pt-BR": "Comida",
+      "ru-RU": "Продукты",
+      "zh-CN": "食物"
+    },
+    "code": "food"
+  },
+  {
+    "name": {
+      "de-DE": "Ferien",
+      "en-US": "Holidays",
+      "es-ES": "Fiestas",
+      "fr-FR": "Vacances",
+      "it-IT": "Vacanze",
+      "ja-JP": "祝日・行事",
+      "pl-PL": "Wakacje",
+      "pt-BR": "Feriados",
+      "ru-RU": "Праздники",
+      "zh-CN": "假期"
+    },
+    "code": "holidays"
+  },
+  {
+    "name": {
+      "de-DE": "Finanzen",
+      "en-US": "Finance",
+      "es-ES": "Finanzas",
+      "fr-FR": "Finances",
+      "it-IT": "Finanza",
+      "ja-JP": "金融・ファイナンス",
+      "pl-PL": "Finanse",
+      "pt-BR": "Finanças",
+      "ru-RU": "Финансы",
+      "zh-CN": "经济"
+    },
+    "code": "finance"
+  },
+  {
+    "name": {
+      "de-DE": "Flags",
+      "en-US": "Flags",
+      "es-ES": "Flags",
+      "fr-FR": "Flags",
+      "it-IT": "Flags",
+      "ja-JP": "Flags",
+      "pl-PL": "Flags",
+      "pt-BR": "Flags",
+      "ru-RU": "Flags",
+      "zh-CN": "Flags"
+    },
+    "code": "flags"
+  },
+  {
+    "name": {
+      "de-DE": "Foto und Video",
+      "en-US": "Photo and Video",
+      "es-ES": "Foto y vídeo",
+      "fr-FR": "Photos et vidéo",
+      "it-IT": "Foto e Video",
+      "ja-JP": "写真とビデオ",
+      "pl-PL": "Zdjęcia i wideo",
+      "pt-BR": "Foto e Vídeo",
+      "ru-RU": "Фото и видео",
+      "zh-CN": "照片和视频"
+    },
+    "code": "photo-video"
+  },
+  {
+    "name": {
+      "de-DE": "Gaming",
+      "en-US": "Gaming",
+      "es-ES": "Juegos",
+      "fr-FR": "Jeux vidéo",
+      "it-IT": "Giochi",
+      "ja-JP": "ゲーム",
+      "pl-PL": "Gry",
+      "pt-BR": "Jogos",
+      "ru-RU": "Игры",
+      "zh-CN": "游戏"
+    },
+    "code": "gaming"
+  },
+  {
+    "name": {
+      "de-DE": "Gesundheitswesen",
+      "en-US": "Healthcare",
+      "es-ES": "Salud",
+      "fr-FR": "Santé",
+      "it-IT": "Salute",
+      "ja-JP": "健康管理・ヘルスケア",
+      "pl-PL": "Opieka zdrowotna",
+      "pt-BR": "Saúde",
+      "ru-RU": "Здоровье",
+      "zh-CN": "医疗健康"
+    },
+    "code": "healthcare"
+  },
+  {
+    "name": {
+      "de-DE": "Getränke",
+      "en-US": "Drinks",
+      "es-ES": "Bebidas",
+      "fr-FR": "Boissons",
+      "it-IT": "Bevande",
+      "ja-JP": "飲み物・ドリンク",
+      "pl-PL": "Napoje",
+      "pt-BR": "Bebidas",
+      "ru-RU": "Напитки",
+      "zh-CN": "饮品"
+    },
+    "code": "drinks"
+  },
+  {
+    "name": {
+      "de-DE": "Handy",
+      "en-US": "Mobile",
+      "es-ES": "Móvil",
+      "fr-FR": "Mobile",
+      "it-IT": "Mobile",
+      "ja-JP": "携帯電話・モバイル",
+      "pl-PL": "Telefon komórkowy",
+      "pt-BR": "Mobile",
+      "ru-RU": "Мобильные",
+      "zh-CN": "移动设备"
+    },
+    "code": "mobile"
+  },
+  {
+    "name": {
+      "de-DE": "Haushalt",
+      "en-US": "Household",
+      "es-ES": "Hogar",
+      "fr-FR": "Maison",
+      "it-IT": "Domestico",
+      "ja-JP": "家庭・家具",
+      "pl-PL": "Dom",
+      "pt-BR": "Casas",
+      "ru-RU": "Дом",
+      "zh-CN": "家用的"
+    },
+    "code": "household"
+  },
+  {
+    "name": {
+      "de-DE": "Hände",
+      "en-US": "Hands",
+      "es-ES": "Manos",
+      "fr-FR": "Mains",
+      "it-IT": "Mani",
+      "ja-JP": "手先・ハンド",
+      "pl-PL": "Ręce",
+      "pt-BR": "Mãos",
+      "ru-RU": "Руки",
+      "zh-CN": "手"
+    },
+    "code": "hands"
+  },
+  {
+    "name": {
+      "de-DE": "Industrie",
+      "en-US": "Industry",
+      "es-ES": "Industria",
+      "fr-FR": "Industrie",
+      "it-IT": "Industria",
+      "ja-JP": "工業・製造",
+      "pl-PL": "Przemysł",
+      "pt-BR": "Indústria",
+      "ru-RU": "Промышленность",
+      "zh-CN": "工业"
+    },
+    "code": "industry"
+  },
+  {
+    "name": {
+      "de-DE": "Karten",
+      "en-US": "Maps",
+      "es-ES": "Mapas",
+      "fr-FR": "Cartes",
+      "it-IT": "Mappe",
+      "ja-JP": "地図",
+      "pl-PL": "Mapy",
+      "pt-BR": "Mapas",
+      "ru-RU": "Карты",
+      "zh-CN": "地图"
+    },
+    "code": "maps"
+  },
+  {
+    "name": {
+      "de-DE": "Astrologie",
+      "en-US": "Astrology",
+      "es-ES": "Astrología",
+      "fr-FR": "Astrologie",
+      "it-IT": "Astrologia",
+      "ja-JP": "占星・干支",
+      "pl-PL": "Astrologia",
+      "pt-BR": "Astrologia",
+      "ru-RU": "Астрология",
+      "zh-CN": "占星术"
+    },
+    "code": "astrology"
+  },
+  {
+    "name": {
+      "de-DE": "Kleidung",
+      "en-US": "Clothing",
+      "es-ES": "Ropa",
+      "fr-FR": "Vêtements",
+      "it-IT": "Abbigliamento",
+      "ja-JP": "衣料品・裁縫",
+      "pl-PL": "Odzież",
+      "pt-BR": "Roupas",
+      "ru-RU": "Одежда",
+      "zh-CN": "衣物"
+    },
+    "code": "clothing"
+  },
+  {
+    "name": {
+      "de-DE": "Kriminalität",
+      "en-US": "Crime",
+      "es-ES": "Crimen",
+      "fr-FR": "Crime",
+      "it-IT": "Crimine",
+      "ja-JP": "犯罪",
+      "pl-PL": "Przestępstwa",
+      "pt-BR": "Crime",
+      "ru-RU": "Преступность",
+      "zh-CN": "犯罪"
+    },
+    "code": "crime"
+  },
+  {
+    "name": {
+      "de-DE": "Kurznachrichten",
+      "en-US": "Messaging",
+      "es-ES": "Mensajería",
+      "fr-FR": "Messagerie",
+      "it-IT": "Messaggistica",
+      "ja-JP": "メッセージ",
+      "pl-PL": "Wiadomości",
+      "pt-BR": "Mensagens",
+      "ru-RU": "Сообщения",
+      "zh-CN": "消息"
+    },
+    "code": "messaging"
+  },
+  {
+    "name": {
+      "de-DE": "Logos",
+      "en-US": "Logos",
+      "es-ES": "Logos",
+      "fr-FR": "Logos",
+      "it-IT": "Loghi",
+      "ja-JP": "ロゴ",
+      "pl-PL": "Loga",
+      "pt-BR": "Logotipos",
+      "ru-RU": "Логотипы",
+      "zh-CN": "标志"
+    },
+    "code": "logos",
+    "free": true
+  },
+  {
+    "name": {
+      "de-DE": "Mediensteuerelemente",
+      "en-US": "Media Controls",
+      "es-ES": "Controles multimedia",
+      "fr-FR": "Commandes multimédia",
+      "it-IT": "Controlli Multimediali",
+      "ja-JP": "再生の制御",
+      "pl-PL": "Multimedia",
+      "pt-BR": "Controles de mídia",
+      "ru-RU": "Управление медиа",
+      "zh-CN": "媒体控制"
+    },
+    "code": "media-controls"
+  },
+  {
+    "name": {
+      "de-DE": "Men",
+      "en-US": "Men",
+      "es-ES": "Men",
+      "fr-FR": "Men",
+      "it-IT": "Men",
+      "ja-JP": "Men",
+      "pl-PL": "Men",
+      "pt-BR": "Men",
+      "ru-RU": "Men",
+      "zh-CN": "Men"
+    },
+    "code": "men"
+  },
+  {
+    "name": {
+      "de-DE": "Menschen",
+      "en-US": "People",
+      "es-ES": "Personas",
+      "fr-FR": "Personnes",
+      "it-IT": "Persone",
+      "ja-JP": "人々",
+      "pl-PL": "Ludzie",
+      "pt-BR": "Pessoas",
+      "ru-RU": "Люди",
+      "zh-CN": "会员"
+    },
+    "code": "users"
+  },
+  {
+    "name": {
+      "de-DE": "Militär",
+      "en-US": "Military",
+      "es-ES": "Militar",
+      "fr-FR": "Militaire",
+      "it-IT": "Militare",
+      "ja-JP": "軍事・ミリタリー",
+      "pl-PL": "Wojskowe",
+      "pt-BR": "Militar",
+      "ru-RU": "Военные",
+      "zh-CN": "军事"
+    },
+    "code": "military"
+  },
+  {
+    "name": {
+      "de-DE": "Musik",
+      "en-US": "Music",
+      "es-ES": "Música",
+      "fr-FR": "Musique",
+      "it-IT": "Musica",
+      "ja-JP": "音楽・ミュージック",
+      "pl-PL": "Muzyka",
+      "pt-BR": "Músicas",
+      "ru-RU": "Музыка",
+      "zh-CN": "音乐"
+    },
+    "code": "music"
+  },
+  {
+    "name": {
+      "de-DE": "Natur",
+      "en-US": "Nature",
+      "es-ES": "Naturaleza",
+      "fr-FR": "Nature",
+      "it-IT": "Natura",
+      "ja-JP": "自然",
+      "pl-PL": "Natura",
+      "pt-BR": "Natureza",
+      "ru-RU": "Природа",
+      "zh-CN": "自然界"
+    },
+    "code": "nature"
+  },
+  {
+    "name": {
+      "de-DE": "Netzwerk",
+      "en-US": "Network",
+      "es-ES": "Red",
+      "fr-FR": "Réseau",
+      "it-IT": "Network",
+      "ja-JP": "ネットワーク",
+      "pl-PL": "Sieć",
+      "pt-BR": "Rede",
+      "ru-RU": "Сети",
+      "zh-CN": "移动网络"
+    },
+    "code": "network"
+  },
+  {
+    "name": {
+      "de-DE": "Ordner",
+      "en-US": "Folders",
+      "es-ES": "Carpetas",
+      "fr-FR": "Dossiers",
+      "it-IT": "Cartelle",
+      "ja-JP": "フォルダ",
+      "pl-PL": "Katalogi",
+      "pt-BR": "Pastas",
+      "ru-RU": "Папки",
+      "zh-CN": "文件夹"
+    },
+    "code": "folders"
+  },
+  {
+    "name": {
+      "de-DE": "Pfeile",
+      "en-US": "Arrows",
+      "es-ES": "Flechas",
+      "fr-FR": "Flèches",
+      "it-IT": "Frecce",
+      "ja-JP": "矢印・アロー",
+      "pl-PL": "Strzałki",
+      "pt-BR": "Setas",
+      "ru-RU": "Стрелки",
+      "zh-CN": "箭头"
+    },
+    "code": "arrows"
+  },
+  {
+    "name": {
+      "de-DE": "Pflanzen",
+      "en-US": "Plants",
+      "es-ES": "Plantas",
+      "fr-FR": "Plantes",
+      "it-IT": "Piante",
+      "ja-JP": "植物・ガーデニング",
+      "pl-PL": "Rośliny",
+      "pt-BR": "Plantas",
+      "ru-RU": "Растения",
+      "zh-CN": "植物"
+    },
+    "code": "plants"
+  },
+  {
+    "name": {
+      "de-DE": "Popular Icons",
+      "en-US": "Popular",
+      "es-ES": "Popular Icons",
+      "fr-FR": "Popular Icons",
+      "it-IT": "Popular Icons",
+      "ja-JP": "Popular Icons",
+      "pl-PL": "Popular Icons",
+      "pt-BR": "Popular Icons",
+      "ru-RU": "Popular Icons",
+      "zh-CN": "Popular Icons"
+    },
+    "code": "free-icons",
+    "free": true
+  },
+  {
+    "name": {
+      "de-DE": "Profil",
+      "en-US": "Profile",
+      "es-ES": "Perfil",
+      "fr-FR": "Profil",
+      "it-IT": "Profilo",
+      "ja-JP": "プロフィール",
+      "pl-PL": "Profil",
+      "pt-BR": "Perfil",
+      "ru-RU": "Профиль",
+      "zh-CN": "资料"
+    },
+    "code": "profile"
+  },
+  {
+    "name": {
+      "de-DE": "Programmierung",
+      "en-US": "Programming",
+      "es-ES": "Programación",
+      "fr-FR": "Programmation",
+      "it-IT": "Programmazione",
+      "ja-JP": "プログラミング",
+      "pl-PL": "Programowanie",
+      "pt-BR": "Programação",
+      "ru-RU": "Программирование",
+      "zh-CN": "程序设计"
+    },
+    "code": "programming"
+  },
+  {
+    "name": {
+      "de-DE": "Programming File Types",
+      "en-US": "Programming File Types",
+      "es-ES": "Programming File Types",
+      "fr-FR": "Programming File Types",
+      "it-IT": "Programming File Types",
+      "ja-JP": "Programming File Types",
+      "pl-PL": "Programming File Types",
+      "pt-BR": "Programming File Types",
+      "ru-RU": "Programming File Types",
+      "zh-CN": "Programming File Types"
+    },
+    "code": "programming-file-types"
+  },
+  {
+    "name": {
+      "de-DE": "Reisen",
+      "en-US": "Travel",
+      "es-ES": "Viajes",
+      "fr-FR": "Voyage",
+      "it-IT": "Viaggi",
+      "ja-JP": "旅行・トラベル",
+      "pl-PL": "Podróż",
+      "pt-BR": "Viagem",
+      "ru-RU": "Путешествия",
+      "zh-CN": "旅行"
+    },
+    "code": "travel"
+  },
+  {
+    "name": {
+      "de-DE": "Sicherheit",
+      "en-US": "Security",
+      "es-ES": "Seguridad",
+      "fr-FR": "Sécurité",
+      "it-IT": "Sicurezza",
+      "ja-JP": "セキュリティ",
+      "pl-PL": "Bezpieczeństwo",
+      "pt-BR": "Segurança",
+      "ru-RU": "Безопасность",
+      "zh-CN": "安全"
+    },
+    "code": "security"
+  },
+  {
+    "name": {
+      "de-DE": "Social Media",
+      "en-US": "Social Media",
+      "es-ES": "Social Media",
+      "fr-FR": "Social Media",
+      "it-IT": "Social Media",
+      "ja-JP": "Social Media",
+      "pl-PL": "Social Media",
+      "pt-BR": "Social Media",
+      "ru-RU": "Social Media",
+      "zh-CN": "Social Media"
+    },
+    "code": "social-networks"
+  },
+  {
+    "name": {
+      "de-DE": "Sport",
+      "en-US": "Sports",
+      "es-ES": "Deportes",
+      "fr-FR": "Sports",
+      "it-IT": "Sports",
+      "ja-JP": "体育・スポーツ",
+      "pl-PL": "Sport",
+      "pt-BR": "Esportes",
+      "ru-RU": "Спорт",
+      "zh-CN": "体育"
+    },
+    "code": "sports"
+  },
+  {
+    "name": {
+      "de-DE": "Stadt",
+      "en-US": "City",
+      "es-ES": "Ciudad",
+      "fr-FR": "Ville",
+      "it-IT": "Città",
+      "ja-JP": "都市・生活",
+      "pl-PL": "Miasto",
+      "pt-BR": "Cidade",
+      "ru-RU": "Город",
+      "zh-CN": "城市"
+    },
+    "code": "city"
+  },
+  {
+    "name": {
+      "de-DE": "Tiere",
+      "en-US": "Animals",
+      "es-ES": "Animales",
+      "fr-FR": "Animaux",
+      "it-IT": "Animali",
+      "ja-JP": "動物",
+      "pl-PL": "Zwierzęta",
+      "pt-BR": "Animais",
+      "ru-RU": "Животные",
+      "zh-CN": "动物"
+    },
+    "code": "animals"
+  },
+  {
+    "name": {
+      "de-DE": "Verkehr",
+      "en-US": "Transport",
+      "es-ES": "Transporte",
+      "fr-FR": "Transport",
+      "it-IT": "Trasporti",
+      "ja-JP": "交通・トランスポート",
+      "pl-PL": "Transport",
+      "pt-BR": "Transportes",
+      "ru-RU": "Транспорт",
+      "zh-CN": "运输"
+    },
+    "code": "transport"
+  },
+  {
+    "name": {
+      "de-DE": "Wetter",
+      "en-US": "Weather",
+      "es-ES": "El tiempo",
+      "fr-FR": "Météo",
+      "it-IT": "Meteo",
+      "ja-JP": "天気・ウェザー",
+      "pl-PL": "Pogoda",
+      "pt-BR": "Clima",
+      "ru-RU": "Погода",
+      "zh-CN": "天气"
+    },
+    "code": "weather"
+  },
+  {
+    "name": {
+      "de-DE": "Wissenschaft",
+      "en-US": "Science",
+      "es-ES": "Ciencia",
+      "fr-FR": "Science",
+      "it-IT": "Scienze",
+      "ja-JP": "科学・サイエンス",
+      "pl-PL": "Nauka",
+      "pt-BR": "Ciências",
+      "ru-RU": "Наука",
+      "zh-CN": "科技"
+    },
+    "code": "science"
+  },
+  {
+    "name": {
+      "de-DE": "Women",
+      "en-US": "Women",
+      "es-ES": "Women",
+      "fr-FR": "Women",
+      "it-IT": "Women",
+      "ja-JP": "Women",
+      "pl-PL": "Women",
+      "pt-BR": "Women",
+      "ru-RU": "Women",
+      "zh-CN": "Women"
+    },
+    "code": "women"
+  },
+  {
+    "name": {
+      "de-DE": "Zeit und Datum",
+      "en-US": "Time And Date",
+      "es-ES": "Fecha y hora",
+      "fr-FR": "Date et heure",
+      "it-IT": "Ora e Data",
+      "ja-JP": "日付と時刻",
+      "pl-PL": "Czas i data",
+      "pt-BR": "Data e hora",
+      "ru-RU": "Время и дата",
+      "zh-CN": "时间和日期"
+    },
+    "code": "time-and-date"
+  }
+]

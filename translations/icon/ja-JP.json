@@ -1,0 +1,485 @@
+{
+	"WEB_APP": {
+		"NEW_ICONS": "新しいアイコン",
+		"SEO": {
+			"TITLE": "{{title}} アイコン",
+			"LATEST": {
+				"DESCRIPTION": "15 個の巨大なアイコン素材集のうち {{count}} 個のアイコンは、単独のフルタイムチームによって作成されました。PNG、SVG、PDF、EPS、フォント、および SVG のセットです。",
+				"TITLE_ALL": "無料アイコン - PNG およびベクターをダウンロード",
+				"TITLE_IOS7": "{{count}} 個の iOS アイコン (iPhone アプリ用アイコン)",
+				"TITLE_WIN8": "{{count}} 個のアイコン (PNG、ベクター) が入った無料アイコンセット",
+				"TITLE_WIN10": "{{count}} Icons for Windows 10",
+				"TITLE_ANDROID": "{{count}} 個の無料 Android アイコン (PNG、ベクター)",
+				"TITLE_MATERIAL": "{{count}} 個の マテリアルデザイン 用アイコン",
+				"TITLE_COLOR": "{{count}} Flat Color Icons",
+				"TITLE_OFFICE": "{{count}} Office Icons",
+				"TITLE_DEFAULT": "{{count}} 個の無料アイコン (PNG、ベクター)"
+			},
+			"CATEGORY": {
+				"TITLE_PACK": "{{categoryTitle}} アイコンパック (PNG、ベクター)",
+				"DESCRIPTION": "Free {{categoryTitle}} icon pack in 15 flat styles. Download in any size, color, and format: SVG, PNG, and as a font.",
+				"ICON_TITLE": "{{name}} Icon - Free Download, PNG and Vector",
+				"ICON_DESCRIPTION_PLATFORM": "Free flat {{name}} icon of {{platform}}; available for download in PNG, SVG and as a font."
+			},
+			"SEARCH": {
+				"TITLE": "{{title}} アイコン",
+				"DESCRIPTION": "ここにあるのは {{term}} に関連のあるアイコンです。全てのアイコンは Icons8 のデザイナにより作成されたものですので、どれも同じスタイルと品質を持っています。各 {{term}} アイコンはフラットアイコンです。全てベクターアイコンです。これらのアイコンは最大\n 100x100 px の PNG で無料ダウンロードしてご利用いただけます。SVG、EPS、またフォントなどのベクターの場合は、アイコンをお買い求めください。",
+				"TITLE_ALL": "{{term}} アイコン - 無料ダウンロード、PNG および SVG"
+			}
+		},
+		"SEARCH": {
+			"PLACEHOLDER": "アイコンを検索する"
+		},
+		"COLLECTIONS": {
+			"DRAG_DROP_ICONS_OR": "Drag'n drop icons<br>or Upload SVG",
+			"DOWNLOAD_BUTTON": "ダウンロード",
+			"REMOVE_ICONS": "選択されたアイコンは、現在のコレクションから削除されます。いいね？",
+			"CANCEL_ACTION": "キャンセル",
+			"DELETE_ACTION": "削除",
+			"DELETE_COLLECTION": "このコレクションは削除されます。いいね？"
+		},
+		"PAGE": {
+			"LANDING": {
+				"TITLE": "アイコン フリー",
+				"SUBTITLE": "Get free icons designed to combine perfectly and fit into the style of your design."
+			}
+		},
+		"EFFECT": {
+			"RECOLOR": {
+				"TITLE": "カラーを変更",
+				"ADD": "アイコンの色を変える"
+			},
+			"OVERLAY": {
+				"TITLE": "オーバーレイ",
+				"ADD": "オーバーレイを追加"
+			},
+			"TEXT": {
+				"TITLE": "テキスト",
+				"ADD": "テキストを追加"
+			},
+			"COLOR": "カラー",
+			"STROKE_SIZE": "ストロークの太さ",
+			"ADD_EFFECT": {
+				"TITLE": "Add Effects"
+			},
+			"NO_EFFECT": {
+				"TITLE": "エフェクトなし"
+			},
+			"STROKE": {
+				"TITLE": "ストローク",
+				"ADD": "ストロークを追加"
+			},
+			"PADDING": {
+				"TITLE": "パディング",
+				"ADD": "パディングを追加"
+			},
+			"BACKGROUND": {
+				"TITLE": "背景",
+				"ADD": "背景を追加"
+			},
+			"CIRCLE": {
+				"TITLE": "円",
+				"ADD": "円で囲む"
+			},
+			"SQUARE": {
+				"TITLE": "四角",
+				"ADD": "四角で囲む"
+			},
+			"FILL": "塗りつぶし",
+			"CIRCLE_SIZE": "丸の大きさ",
+			"ICON_SIZE": "アイコンのサイズ",
+			"CORNER_RADIUS": "角の丸み",
+			"SQUARE_SIZE": "正方形の大きさ"
+		},
+		"SINGLE_ICON": {
+			"SIMPLIFIED_SVG": "シンプルなsvg",
+			"INSERT_SVG_IN_HTML": "このコードをHTMLに貼り付けてください",
+			"GENERATE_HTML_LINK": "無料でアイコンを使用するには、ページのどこかに次のリンクを挿入して下さい。<a href=\"/license\">詳しく</a>",
+			"DOWNLOAD_BUTTON": "ダウンロード",
+			"SIMPLIFIED_SVG_TOOLTIP": "“シンプルなSVG” とは複合パス、つまりアイコン全体が単一のパスでできたSVGです。フォントおよびアイコンを編集する必要がない場合に適しています。"
+		},
+		"MESSAGES": {
+			"ERROR_TITLE": "エラーです",
+			"ERROR_TITLE_2": "Icons8 がダウンしています",
+			"ERROR_DESCRIPTION": "何らかの不具合が発生しました。我々はすでに解決に向けて取り組んでいます。",
+			"ERROR_DESCRIPTION_2": "時には弱腰だと思われないために、ノーと言わねばならないこともあります。<br>そんな時は 1 時間後にもう一度来てくださいね。"
+		},
+		"VIEW_ICONS": {
+			"TITLE": {
+				"win8": "{{name}} - Free Web Icon",
+				"win10": "無料の {{name}} アイコン",
+				"ios7": "{{name}} Icon in iPhone Style",
+				"color": "{{name}} Icon in Flat  Style",
+				"office": "{{name}} Vector Icon",
+				"android": "{{name}} Icon in Android Style",
+				"p1em": "小型{{name}}アイコン",
+				"dusk": "透明な背景の{{name}}アイコン",
+				"Dusk_Wired": "iPhoneスタイルの {{name}} アイコン",
+				"androidL": "{{name}} Icon in Material  Style",
+				"dotty": "Materialスタイルの {{name}} アイコン",
+				"nolan": "Materialスタイルの {{name}} アイコン",
+				"ultraviolet": "Blue {{name}} Icon (PNG, Vector)"
+			},
+			"DESCRIPTION_PLATFORM": {
+				"win8": "この {{name}} アイコンは {{iconsCount}} ウェブアイコン素材集の一部です。アイコンはPNG、SVG、CSS、PDF、EPS形式で提供されており、フォントとして、および他のベクター形式で使えます。他のアイコン素材集とは異なり、私たちのWebアイコンは、すべて単一のデザイナーによって設計されており、一貫したスタイルと品質が保証されます。",
+				"win10": "これは <a self=\"target\" href=\"https://icons8.com/articles/unofficial-style-guide-to-windows10icons/\" class=\"c-pretty-link m-blue m-no-border \">Windows 10</a> 用の {{name}} アイコンです。どうぞご覧ください。32x32 px に最適化されているこれらのアイコンはラインスタイルで最もシンプルなアイコンです。特に、ダウンロード可能な形式は PNG と SVG です。Icons8 のアイコンパックは 4 名のデザイナからなる同一のチームによりデザインされた大量のアイコンを提供する点においてユニークですが、これらのデザイナが毎日同じスタイル、同じ品質で新しいアイコンを作成しています。Bat Face と同じぐらいクールだと言ってもよいでしょう。",
+				"ios7": "このアイコンは<a self=\"target\" href=\"/free-ios-7-icons-in-vector/\" class=\"c-pretty-link m-blue m-no-border \"> iOSスタイル</a>で作られています。このスタイルはiOS バージョン7から使われており、そして最新版でも使われています(少なくともiOS 11までは)。このスタイルは基本的に2ピクセルのラインで攻勢されており、50x50pxのサイズに最適化されています。他の多くても何百しかないアイコン素材集と違って、このアイコン素材集には {{iconsCountsIos7}} のアイコンが含まれており、すべて同じスタイルと品質で統一されています。",
+				"color": "この {{name}} アイコンは<a self=\"target\" href=\"/free-ios-7-icons-in-vector/\" class=\"c-pretty-link m-blue m-no-border \"> フラットカラースタイル</a>で作られています。このスタイルは私たちIcons8デザイナーチーム自ら作り上げたものであり、今ではウェブやモバイルアプリケーションの領域で非常に人気です。無料でこのアイコンをPNG形式でダウンロード、もしくは$5で他の形式をアンロック。他の多くても何百しかないアイコン素材集と違って、このイカしたアイコン素材集には {{iconsCountsColor}} のアイコンが含まれており、すべて同じスタイルと品質で統一されています。",
+				"office": "この {{name}} アイコンは可変です。なにが可変って？解像度に合わせて、ディテールが変化するということです。16x16から80x80の四種のサイズに最適化済みです。このスタイルはWindowsアプリケーションに最適化した最新の<a self=\"target\" href=\"https://icons8.com/articles/5-reasons-why-our-office-icons-are-better-than-microsofts/\" class=\"c-pretty-link m-blue m-no-border \">Microsoft Office</a>のRibbonツールバーから来ています。他の多くても何百しかないアイコン素材集と違って、このイカしたアイコン素材集には {{iconsCountsOffice}} のアイコンが含まれており、すべて同じスタイルと品質で統一されています。",
+				"android": "この{{name}} アイコンは<a self=\"target\" href=\"/android-kitkat-icons/\" class=\"c-pretty-link m-blue m-no-border \">Android KitKatスタイル</a>のアイコンです。Androidアプリのアイコンには最新のマテリアルデザインのアイコンパックの使用をおすすめします（右側のバーをご覧ください）。Webや印刷物などで小さなサイズで使っても美しく見えるソリッドなアイコンパックです。太めの線と角丸が特徴で、24×24ピクセルのサイズに最適化されています。",
+				"androidL": "この {{name}} アイコンは Google によって開発された <a self=\"target\" href=\"https://icons8.com/articles/a-comprehensive-overview-of-material-design/\" class=\"c-pretty-link m-blue m-no-border \">Material Design スタイル</a> で作られています。このスタイルは極めて単純化されたシェイプで、細い 2 ピクセルのラインをベースにしており、24x24 px に最適化されています。何百個近くのアイコンが入った他のベクターアイコンパックとは異なり、このアイコンパックには全て同じスタイル、同じ品質の {{iconsCountsAndroidL}} アイコンが含まれています。"
+			},
+			"RELATED_TITLE": "{{name}} の関連アイコン",
+			"RELATED_TEXT": "関連アイコンは、タグや<a class=\"c-pretty-link\" href=\"{{url}}/icon/pack/{{category}}\">すべての{{categoryLowercase}}アイコン</a>にマッチするアイコンです。すべてのアイコンは同じフラットスタイルになっています。あなたは無料のPNGアイコンをダウンロードすることも、<a class=\"c-pretty-link\" href=\"//icons8.com/paid-license-99/\">SVGのベクターデータを購入することもできます</a>",
+			"BROWSE_TAG": "Browse More by Tags",
+			"BREADCRUMBS": {
+				"FREE_ICONS": "アイコン フリー"
+			},
+			"RANDOM_DESCRIPTION": {
+				"0": "This icon is a part of a collection of <a href=\"/\" class=\"c-pretty-link m-blue m-no-border \">{{name}} flat icons</a> produced by Icons8. Icons follow the guidelines of iOS, Windows, and Android and are designed by a single designer, guaranteeing the consistent quality.",
+				"1": "This page shows the different variations of the {{name}} from an Icons8 icon pack. Feel free to resize and recolor the icon, and then download the icon in PNG format for free.",
+				"2": "{{name}} and other {{iconsCount}} icons from Icons8 icon pack follow the visual guidelines of the operating systems: Windows, iOS, Android KitKat, and Material. PNG format is free up to 100x100 px.",
+				"3": "This page contains the {{icons}} vector icon, as well as variations of this icon in different visual styles, and related icons. All icons are in the flat vector style, however, differ by the line thickness, fill, and corner radius.",
+				"4": "これは{{icons}}アイコンです。PNGとベクターで入手可能です。PNGのダウンロードは100x100pxまで無料です。",
+				"default": "これは{{icons}}アイコンです。 これはIcons8によって作成された{{iconsCount}}個のフラットアイコンのコレクションの一部です。 アイコンは、iOS、Windows、Androidのガイドラインに準拠しており、1チームのアイコンデザイナーによって設計されており、一貫した品質を保証します。 PNGとベクター (SVG、EPS、およびPDF)。"
+			},
+			"IDEA_TITLE": "{{name}} アイコンのアイデア",
+			"IDEA_AUTHOR": "by {{author}}",
+			"IDEA_SUBTITLE": "私たちは ___INSERT_DATE_HERE___ にこのアイデアを受け取り、",
+			"IDEA_AND_CREATED": "___INSERT_THE_DATE_HERE___ にアイコンを作成しました。",
+			"STORY_TITLE": "{{name}} アイコンのストーリー"
+		},
+		"GRID_TOOLTIP": {
+			"CLASSIC": "ラベル付き",
+			"ICONS": "アイコンのみ",
+			"GRID": "テーブルビュー"
+		},
+		"DROPDOWN_SIZE": {
+			"CUSTOM": "カスタム..."
+		}
+	},
+	"PLATFORMS": {
+		"ios7": {
+			"SHORT_TITLE": "iOS",
+			"TITLE": "iOS 用フリーアイコン",
+			"DESCRIPTION": "<p>弊社の iOS 用アイコンパックは Apple 社の <a href=\"https://developer.apple.com/ios/human-interface-guidelines/icons-and-images/custom-icons/\">ガイドライン</a> に準拠しています。これらのアイコンは 50x50 ピクセルの <a href=\"https://icons8.com/articles/make-pixel-perfect-icons/\">ピクセルパーフェクト</a> で、スタイルは 2 ピクセルのベースストロークによるアウトラインです。アイコンにはいずれも塗りつぶしバージョンがあります。このパックは iOS のメールアプリのように縦方向のリストを持つ iOS アプリに向いています。</p><p>これは弊社の最も人気の高いアイコンパックです。Icons8 チームはすべてのアイコンをインハウスで作成しており、iOS 7 のリリース直後に弊社の上級アイコンデザイナの Alex が立ち上げ、今日に至るまで絵を描き、監修しています。</p>",
+			"FEATURES": "<p>50×50 ピクセルでピクセルパーフェクト</p><p>ライン幅 2 ピクセル</p><p>塗りつぶしバージョン</p>",
+			"CATEGORY_TITLE": "{{title}} iOS 用アイコン",
+			"NEW_ICONS": "iOS用の新しいアイコン",
+			"SEARCH_TITLE": "{{term}} iOS 用アイコン"
+		},
+		"androidL": {
+			"SHORT_TITLE": "Material Filled",
+			"TITLE": "Material Design フリーアイコン",
+			"DESCRIPTION": "<p>このパックはどんな Android アプリにも適しています。これらのシステムアイコンは一般的なアクション、ファイル、デバイス、およびディレクトリを象徴しています。</p><p>弊社の Material Filled アイコンパックは Google 社の素材<a href=\"https://material.io/design/iconography/system-icons.html#design-principles\">ガイドライン</a>に準拠しており、最新の<a href=\"https://material.io/design/iconography/system-icons.html#icon-themes\">アイコンテーマ</a> (それぞれのアイコンの<a href=\"/icons/material\">塗りつぶし</a>、アウトライン、角丸、ツートン、およびシャープバージョン) も含まれています。すべてのテーマは 24×24 ピクセルのピクセルパーフェクトです。</p><p>素材アイコンパックは Android 、Ice Cream 用の以前のアイコンパックを引き継いでいます。</p><p>Icons8 チームはすべてのアイコンをインハウスで作成しています。iOS 7 のリリース直後に弊社の上級アイコンデザイナの Alex が立ち上げ、今日に至るまで絵を描き、監修しています。</p>",
+			"FEATURES": "<p>Android および Google 素材用</p><p>24×24 ピクセルでピクセルパーフェクト</p><p>5 つのテーマ: 塗りつぶし、アウトライン、角丸、ツートン、およびシャープ</p>",
+			"CATEGORY_TITLE": "{{title}} Material Design Style のアイコン",
+			"NEW_ICONS": "New Icons in Material Design Style",
+			"SEARCH_TITLE": "{{term}} Material Design Style 用のアイコン"
+		},
+		"m_outlined": {
+			"SHORT_TITLE": "Material Outlined",
+			"TITLE": "Free Material Outlined Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-outlined\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>Android および Google 素材用</p><p>24×24 ピクセルでピクセルパーフェクト</p><p>5 つのテーマ: 塗りつぶし、アウトライン、角丸、ツートン、およびシャープ</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Outlined Style",
+			"NEW_ICONS": "New Icons in Material Outlined Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Outlined Style"
+		},
+		"m_rounded": {
+			"SHORT_TITLE": "Material Rounded Icons",
+			"TITLE": "Free Material Rounded Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-rounded\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>Android および Google 素材用</p><p>24×24 ピクセルでピクセルパーフェクト</p><p>5 つのテーマ: 塗りつぶし、アウトライン、角丸、ツートン、およびシャープ</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Rounded Style",
+			"NEW_ICONS": "New Icons in Material Rounded Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Rounded Style"
+		},
+		"m_two_tone": {
+			"SHORT_TITLE": "Material Two Tone",
+			"TITLE": "Free Material Two Tone Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-two-tone\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>Android および Google 素材用</p><p>24×24 ピクセルでピクセルパーフェクト</p><p>5 つのテーマ: 塗りつぶし、アウトライン、角丸、ツートン、およびシャープ</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Two Tone Style",
+			"NEW_ICONS": "New Icons in Material Two Tone Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Two Tone Style"
+		},
+		"m_sharp": {
+			"SHORT_TITLE": "Material Sharp",
+			"TITLE": "Free Material Sharp Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/material-sharp\">pixel-perfect</a> at 24×24 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>Android および Google 素材用</p><p>24×24 ピクセルでピクセルパーフェクト</p><p>5 つのテーマ: 塗りつぶし、アウトライン、角丸、ツートン、およびシャープ</p>",
+			"CATEGORY_TITLE": "{{title}} Icons in Material Sharp Style",
+			"NEW_ICONS": "New Icons in Material Sharp Style",
+			"SEARCH_TITLE": "{{term}} Icons in Material Sharp Style"
+		},
+		"ios11": {
+			"SHORT_TITLE": "iOS  用グリフ",
+			"TITLE": "iOS 用フリーグリフアイコン",
+			"DESCRIPTION": "<p>弊社の iOS 用グリフアイコンパックは Apple 社のガイドラインに準拠しています。iOS グリフアイコンは 30×30 ピクセルのキャンバスに描かれ、2 ピクセルのストローク幅で統一されています。このパックはクロック、写真、またヘルスアプリなどのタブ付きの iOS アプリに適しています。</p>",
+			"FEATURES": "<p>塗りつぶしアイコン</p><p>30×30 のピクセルパーフェクト</p><p>ライン幅 2 ピクセル</p>",
+			"CATEGORY_TITLE": "{{title}} iOS 用グリフアイコン",
+			"NEW_ICONS": "New iOS Glyph Icons",
+			"SEARCH_TITLE": "{{term}} iOS 用グリフアイコン"
+		},
+		"color": {
+			"SHORT_TITLE": "カラー",
+			"TITLE": "Free Color Icons",
+			"DESCRIPTION": "<p>These icons are <a href=\"/icons/color\">pixel-perfect</a> at 48×48 pixels and are available in PNG, SVG, and PDF. Unlike other websites, Icons8 creates most of these icons in-house, ensuring the stable quality.</p>",
+			"FEATURES": "<p>Color Icons</p><p>Pixel-perfect at 48×48</p><p>Line width 2px</p>",
+			"CATEGORY_TITLE": "{{title}} Color Icons",
+			"NEW_ICONS": "New Color Icons",
+			"SEARCH_TITLE": "{{term}} Color Icons"
+		},
+		"p1em": {
+			"SHORT_TITLE": "Simple Small",
+			"TITLE": "Simple Small フリーアイコン",
+			"DESCRIPTION": "<p>このアイコンパックは特にアイコンをフォントとして使用するために作成されました。すべてのアイコンはフォントのベースライン上に配置されており、フォントとして使用するのに最適になっています (例: ボタン上)</p>",
+			"FEATURES": "<p>16x16 でピクセルパーフェクト</p><p>ライン幅 1 ピクセル</p><p>フォントとして使用するために作成されています</p>",
+			"CATEGORY_TITLE": "{{title}} Samall アイコン",
+			"NEW_ICONS": "New Small Icons",
+			"SEARCH_TITLE": "{{term}} Small アイコン"
+		},
+		"win10": {
+			"SHORT_TITLE": "Windows 10",
+			"TITLE": "Windows 10 用フリーアイコン",
+			"DESCRIPTION": "<p>弊社の Windows 10 アイコンパックは Microsoft 社のガイドラインに準拠しています。Windows 10 のアウトラインアイコンは 32x32 ピクセルのキャンバスに作成されており、角がシャープで 2 ピクセルの幅のストロークに統一されています。このパックは Windows 10 のすべてのアプリで使用できます。</p>",
+			"FEATURES": "<p>32x32 でピクセルパーフェクト</p><p>ライン幅 2 ピクセル</p><p>角がシャープ</p>",
+			"CATEGORY_TITLE": "{{title}} Windows 10 用アイコン",
+			"NEW_ICONS": "Windows 10用の新しいアイコン",
+			"SEARCH_TITLE": "{{term}} Windows 10 用アイコン"
+		},
+		"android": {
+			"SHORT_TITLE": "Ice Cream",
+			"TITLE": "Android Ice Cream 用フリーアイコン",
+			"DESCRIPTION": "<p>これらのアイコンは 24x24 ピクセルのキャンバスに作成され、2 ピクセルのストローク幅で統一されています。このパックは Android OS 4 およびそれ以前のあらゆるアプリでお使いいただけます。</p>",
+			"FEATURES": "<p>24x24 でピクセルパーフェクト</p><p>ライン幅 2 ピクセル</p><p>Android OS 4 およびそれ以前に対応</p>",
+			"CATEGORY_TITLE": "{{title}} Android Ice Cream 用アイコン",
+			"NEW_ICONS": "New Icons for Android Ice Cream",
+			"SEARCH_TITLE": "{{term}} Android Ice Cream 用アイコン"
+		},
+		"win8": {
+			"SHORT_TITLE": "Windows Metro",
+			"TITLE": "Windows Metro 用フリーアイコン",
+			"DESCRIPTION": "<p>これは Windows 8 時代の初の Microsoft 用モノクロームアイコンパックです。フラットなデザインへの大きな一歩で、Icons8 の最初のアイコンパックでした。ずっと大好きな <a href=\"/metro\">Metro</a> です。</p>",
+			"FEATURES": "<p>26x26 のピクセルパーフェクト</p><p>Windows 8 用</p><p>グリフアイコン</p>",
+			"CATEGORY_TITLE": "{{title}} Metro (Windows 8) 用アイコン",
+			"NEW_ICONS": "New Icons for Metro (Windows 8)",
+			"SEARCH_TITLE": "{{term}} Metro (Windows 8) 用アイコン"
+		},
+		"office": {
+			"SHORT_TITLE": "Office",
+			"TITLE": "Microsoft Office 用フリーアイコン",
+			"DESCRIPTION": "<p>これは弊社初のレスポンシブアイコンパックです。どのアイコンも細部のレベルが異なる 4 つのサイズ展開で作られています。第一に、すべてのアイコンには小型バージョンと大型バージョンとがあり (Microsoft Office ツールバーや Office リボンと同様)、それぞれ 16x16 ピクセルと 30x30 ピクセルです。第二に、すべてのアイコンには低解像度バージョンと高解像度バージョンとがあります (40x40、80x80)。これにより結果的に 4 つのサイズができ、その 1 つひとつが手描きの独立した描画になります。</p><p>このアイコンパックは Microsoft Office スタイルのどんなアプリにも適しています。</p>",
+			"FEATURES": "<p>4 サイズのピクセルパーフェクト</p><p>4 つのサイズ: 16、30、40、80 ピクセル</p><p>境界幅 1 ピクセル</p>",
+			"CATEGORY_TITLE": "{{title}} Microsoft Office ツールバー用アイコン",
+			"NEW_ICONS": "New Icons for Microsoft Office Toolbar",
+			"SEARCH_TITLE": "{{term}} Microsoft Office ツールバー用アイコン"
+		},
+		"ultraviolet": {
+			"SHORT_TITLE": "ブルー UI",
+			"TITLE": "ブルー UI フリーアイコン",
+			"DESCRIPTION": "<p>Since the blue theme is very popular in UI, our designer, Margarita decided to create this pack for you 🙂. This icon pack is a blue version of our <a href=\"/icon/new-icons/office\">office icon pack</a> with rounded corners.</p>",
+			"FEATURES": "<p>40x40 のピクセルパーフェクト</p><p>角丸</p><p>境界幅 1 ピクセル</p>",
+			"CATEGORY_TITLE": "{{title}} ブルーアイコン",
+			"NEW_ICONS": "New Blue Icons",
+			"SEARCH_TITLE": "{{term}} ブルーアイコン"
+		},
+		"dusk": {
+			"SHORT_TITLE": "Cute Color",
+			"TITLE": "Cute Color フリーアイコン",
+			"DESCRIPTION": "<p>Cute Color は装飾的な漫画タッチのアイコンスタイルです。どのアイコンも短いラインで装飾されており、シャドウとハイライトが施されています。Cute Color は <a href=\"/icon/new-icons/wired\">Cute Outline</a> アイコンスタイルのカラーバージョンで、どんなデスクトップ、ウェブアプリ、またプレゼンテーションにも適しています。</p>",
+			"FEATURES": "<p>64x64 のピクセルパーフェクト</p><p>境界幅 2 ピクセル</p><p>短いラインで装飾</p>",
+			"CATEGORY_TITLE": "{{title}}、Decorative Color アイコン",
+			"NEW_ICONS": "New, Decorative Color Icons",
+			"SEARCH_TITLE": "{{term}}、Decorative Color アイコン"
+		},
+		"Dusk_Wired": {
+			"SHORT_TITLE": "Cute Outline",
+			"TITLE": "Cute Outline のフリーアイコン",
+			"DESCRIPTION": "<p>Cute Outline は装飾的な漫画タッチのアイコンスタイルで、短いラインで装飾されています。このアイコンパックはどんなデスクトップ、ウェブアプリ、またプレゼンテーションにも適しています。<a href=\"/icon/new-icons/wired\">Cute Outline</a> は <a href=\"/icon/new-icons/dusk\">Cute Color</a> アイコンスタイルのアウトラインバージョンです。</p>",
+			"FEATURES": "<p>64x64 のピクセルパーフェクト</p><p>境界幅 2 ピクセル</p><p>短いラインで装飾</p>",
+			"CATEGORY_TITLE": "{{title}}、Decorative Outline アイコン",
+			"NEW_ICONS": "New, Decorative Outline Icons",
+			"SEARCH_TITLE": "{{term}}、Decorative Outline アイコン"
+		},
+		"nolan": {
+			"SHORT_TITLE": "Gradient Line",
+			"TITLE": "Gradient Line フリーアイコン",
+			"DESCRIPTION": "<p><a href=\"/icon/new-icons/color\">カラーアイコン</a>とは対照的に、Gradient Line はグラデーションに塗りつぶされた最初のアイコンパックです。このパックのほとんどのアイコンの形状は幾何学的なもので、正方形および長方形の形状に基づいて作成されています。 </p>",
+			"FEATURES": "<p>64x64 のピクセルパーフェクト</p><p>グラデーションに塗りつぶし</p><p>正方形および長方形の形状</p>",
+			"CATEGORY_TITLE": "{{title}}、Gradient アイコン",
+			"NEW_ICONS": "New, Gradient Icons",
+			"SEARCH_TITLE": "{{term}}、Gradient アイコン"
+		},
+		"dotty": {
+			"SHORT_TITLE": "Dotted",
+			"TITLE": "Dotted フリーアイコン",
+			"DESCRIPTION": "<p>Dotted アイコンは 80x80 ピクセルのキャンバス上に作成され、2 ピクセルのストローク幅で統一されています。<a href=\"/icon/new-icons/ios\">iOS アイコン</a>と同様に、これらはアウトラインとしてデザインされています。しかしこれらは 2 ピクセルのドットで装飾されています。このアイコンパックは明るく、またはっきりしたデザインのアプリまたはウェブサイトに適しています。</p>",
+			"FEATURES": "<p>80x80 のピクセルパーフェクト</p><p>アウトラインアイコン</p><p>ドットで装飾</p>",
+			"CATEGORY_TITLE": "{{title}}､Beautiful Decorative アイコン",
+			"NEW_ICONS": "New, Beautiful Decorative Icons",
+			"SEARCH_TITLE": "{{term}}､Beautiful Decorative アイコン"
+		},
+		"plasticine": {
+			"SHORT_TITLE": "Color Hand Drawn",
+			"TITLE": "Color Hand Drawn フリーアイコン",
+			"DESCRIPTION": "<p>Color Hand Drawn は装飾的で漫画タッチのアイコンスタイルです。内側の装飾的な境界線には不規則なスペースで隙間が入り、どんなデスクトップ、ウェブアプリ、またプレゼンテーションにも適しています。Color Hand Drawn は <a href=\"/icon/pack/travel/carbon-copy\">Hand Drawn<a> アイコンスタイルのカラーバージョンです。</p>",
+			"FEATURES": "<p>100x100 ピクセルのキャンバスベース</p><p>境界幅 2 ピクセル</p><p>装飾的な内側の境界線 1 ピクセル</p>",
+			"CATEGORY_TITLE": "{{title}} の Cartoon アイコン",
+			"NEW_ICONS": "New Cartoon Icons",
+			"SEARCH_TITLE": "{{term}} の Cartoon アイコン"
+		},
+		"carbon_copy": {
+			"SHORT_TITLE": "Hand Drawn",
+			"TITLE": "Hand Drawn フリーアイコン",
+			"DESCRIPTION": "<p>Hand Drawn is a decorative cartoonish icon style. The inner decorative border is dashed by irregular spaces. This icon pack works fine for any desktop, web application, or any presentation and is a version of <a href=\"/icon/pack/travel/plasticine\">Color Hand Drawn</a> icon style.</p>",
+			"FEATURES": "<p>100x100 ピクセルのキャンバスベース</p><p>境界幅 2 ピクセル</p><p>装飾的な内側の境界線 1 ピクセル</p>",
+			"CATEGORY_TITLE": "{{title}} の Cartoon アイコン",
+			"NEW_ICONS": "New Cartoon Icons",
+			"SEARCH_TITLE": "{{term}} の Cartoon アイコン"
+		},
+		"clouds": {
+			"SHORT_TITLE": "Cloud",
+			"TITLE": "Cloud フリーアイコン",
+			"DESCRIPTION": "<p>Cloud は装飾的で漫画タッチのアイコンスタイルです。<a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> や <a href=\"/icon/set/wall-mount-camera/carbon-copy\">Hand Drawn</a> のように、これらのアイコンは 100x100 ピクセルのキャンバスベースで、どんなデスクトップ、ウェブアプリ、またはプレゼンテーションにも適しています。</p>",
+			"FEATURES": "<p>100x100 ピクセルのキャンバスベース</p><p>装飾的な背景</p><p>Cloud による装飾</p>",
+			"CATEGORY_TITLE": "{{title}} イラスト",
+			"NEW_ICONS": "New Illustrations",
+			"SEARCH_TITLE": "{{term}} イラスト"
+		},
+		"bubbles": {
+			"SHORT_TITLE": "Circle Bubbles",
+			"TITLE": "Circle Bubbles フリーアイコン",
+			"DESCRIPTION": "<p>Circile Bubbles は装飾的で漫画タッチのアイコンスタイルです。<a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> や <a href=\"/icon/set/wall-mount-camera/carbon-copy\">Hand Drawn</a> のように、これらのアイコンは 100x100 ピクセスのキャンバスベースで、どんなデスクトップ、ウェブアプリ、またプレゼンテーションにも適しています。</p>",
+			"FEATURES": "<p>100x100 ピクセルのキャンバスベース</p><p>丸い背景</p><p>Circle による装飾</p>",
+			"CATEGORY_TITLE": "{{title}} Vectors",
+			"NEW_ICONS": "New Vectors",
+			"SEARCH_TITLE": "{{term}} Vector"
+		},
+		"cotton": {
+			"SHORT_TITLE": "Pastel",
+			"TITLE": "Pastel フリーアイコン",
+			"DESCRIPTION": "<p>Pastel は漫画タッチのカラーアイコンパックで、128x128 ピクセルのキャンバスベースです。どのアイコンにも太い境界線があります。<a href=\"/icon/new-icons/dusk\">Cute Color</a> や <a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> のように、このアイコンパックはどんなデスクトップ、ウェブアプリ、またプレゼンテーションにも適しています。</p>",
+			"FEATURES": "<p>128x128 ピクセルのキャンバスベース</p><p>境界幅 6 ピクセル</p><p>太い境界線の Color アイコン</p>",
+			"CATEGORY_TITLE": "{{title}} Vector Images",
+			"NEW_ICONS": "New Vector Images",
+			"SEARCH_TITLE": "{{term}} Vector Image"
+		},
+		"flat_round": {
+			"SHORT_TITLE": "Infographic",
+			"TITLE": "Round Infographic フリーアイコン",
+			"DESCRIPTION": "<p>Round Infographic アイコンは 512x512 ピクセルのキャンバスベースで、メインのオブジェクトが色付きの円の内側に置かれています。これらのアイコンは複雑な背景や写真などに適しています。</p>",
+			"FEATURES": "<p>512x512 ピクセルのキャンバスベース</p><p>Round アイコン</p><p>Color アイコン</p>",
+			"CATEGORY_TITLE": "{{title}} Round アイコン",
+			"NEW_ICONS": "New Round Icons",
+			"SEARCH_TITLE": "{{term}} Round アイコン"
+		},
+		"doodle": {
+			"SHORT_TITLE": "Doodle",
+			"TITLE": "Doodle フリーアイコン",
+			"DESCRIPTION": "<p>Doodle は装飾的で漫画タッチのアイコンスタイルで、<a href=\"/icon/set/wall-mount-camera/plasticine\">Color Hand Drawn</a> や <a href=\"/icon/set/wall-mount-camera/carbon-copy\">Hand Drawn</a> のように、これらのアイコンは 100x100 ピクセルのキャンバスベースです。このアイコンパックはどんなデスクトップ、ウェブアプリ、またプレゼンテーションにも適しています。</p>",
+			"FEATURES": "<p>512x512 ピクセルのキャンバスベース</p><p>Hand-drawn アイコン</p><p>Color アイコン</p>",
+			"CATEGORY_TITLE": "{{title}} Hand Drawn アイコン",
+			"NEW_ICONS": "New Hand Drawn Icons",
+			"SEARCH_TITLE": "Hand Drawn Icons of {{term}}"
+		}
+	},
+	"ICON": {
+		"ICONS": {
+			"ICONS_LABEL": "アイコン",
+			"INDEX": {
+				"HOW_IT_WORKS": "動作説明",
+				"POPULAR_STYLES": "Popular Styles",
+				"OTHER_STYLES": "Other Cool Styles"
+			},
+			"NEW": {
+				"POPULAR_STYLES": "Popular Styles",
+				"OTHER_STYLES": "Other Cool Styles",
+				"NEW_PAGE_DESCRIPTION": "Our community <a href=\"https://icons8.com/request-icon/\">requests the icons</a>; we draw them daily. Hey, community, we love you! Maybe for your ideas, and maybe it's just the smell, and that you make us laugh."
+			},
+			"SET": {
+				"POPULAR_STYLES": "Popular Styles",
+				"OTHER_STYLES": "Other Cool Styles",
+				"COOL_STYLES": "Cool Styles",
+				"SEARCH_TITLE": "{{title}} アイコン"
+			},
+			"PACK": {
+				"POPULAR_STYLES": "Popular Styles",
+				"OTHER_STYLES": "Other Cool Styles"
+			}
+		},
+		"COMPONENTS": {
+			"ACCORDION": {
+				"MORE": "その他",
+				"SHOW_MORE": "Show more...",
+				"OTHER_STYLES": "{{icon}} Icon in Other Styles",
+				"RELATED": "Related to",
+				"COLLECT": "Collect"
+			},
+			"LEFT_SIDEBAR": {
+				"STYLE": "スタイル",
+				"STYLE_POPULAR": "Popular styles",
+				"STYLE_MATERIAL": "Material",
+				"STYLE_OUTLINE": "Outline",
+				"STYLE_FILLED": "Filled",
+				"STYLE_COLOR": "カラー",
+				"STYLE_TINY": "Tiny",
+				"STYLE_ALL": "All",
+				"CATEGORIES": "カテゴリー",
+				"TRENDS": "Trends",
+				"OLD_INTERFACE": "Old Interface",
+				"COLLECTIONS": "Collections",
+				"VIEW_ALL": "View All"
+			},
+			"COLLECTIONS": {
+				"COLLECTIONS": "Collections",
+				"SET": "set",
+				"SETS": "sets",
+				"FAVORITES": "Favorites",
+				"MARK_ICONS": "Just mark beloved icons <br/> to use them later.",
+				"DOWNLOAD_AND_EDIT": "Download and <br/> edit multiple icons",
+				"CREATE_NEW": "Create new",
+				"CREATE_FONTS_SETS": "Create Icon fonts <br/> and SVG sets",
+				"STORE": "Store custom <br/> collections",
+				"DRAG_ICONS": "Drag icons here",
+				"DRAG_ICONS_PREVIEW": "Drag icons <br/>here",
+				"ICONS": "icons",
+				"ICON": "icon",
+				"EMPTY_STATE_ICON": "There is no icons yet",
+				"AUTOCOLLECTION": "autogenerated collection <br/>",
+				"EDIT_TITLE": "Edit Title",
+				"DELETE": "削除",
+				"SHARE_COLLECTIONS": "Share collection",
+				"CREATE_PUBLIC_LINK": "Create public link",
+				"DELETE_COLLECTION": "このコレクションは削除されます。いいね？",
+				"ICON_INFO": "from"
+			},
+			"DOWNLOAD_COLLECTION": {
+				"CHOOSE_SIZES": "Sizes (choose multiple with ctrl or cmd):",
+				"UNLOCK": "Unlock",
+				"UNLOCK_PRICE": "for $19.90/month",
+				"COLORED_FONT": "Generating font from colored icons may cause issues",
+				"SIZE_N_FORMAT": "All icons in any size and format: <br/> SVG, EPS, PDF, and PNG",
+				"NO_LINKING": "リンク不要",
+				"ZIP": "ZIP with individual SVGs",
+				"APPS": "Desktop apps",
+				"BUY": "Buy for $19.90/mo"
+			},
+			"EFFECTS": {
+				"DONE": "完了",
+				"CANCEL": "キャンセル"
+			},
+			"DOWNLOAD_SELECTOR": {
+				"PRICING": "See pricing",
+				"LOGIN": "ログイン"
+			}
+		}
+	},
+	"REQUEST_ICONS": {
+		"TITLE": "アイコンをリクエスト",
+		"WEBAPP_REQUEST": {
+			"TEXT": "欲しいアイコンを私たちに教えてください。無料で描いて差し上げますよ！"
+		}
+	}
+}

@@ -1,0 +1,73 @@
+{
+  "COMMON": {
+    "AUTH": {
+      "LOGIN": "Iniciar sesión con Icons8",
+      "LOGOUT": "Cerrar sesión",
+      "ACCOUNT": "Cuenta",
+      "PROFILE": "Perfil"
+    },
+    "LOGIN_MODAL": {
+      "LOGIN_TITLE": "Iniciar sesión",
+      "REGISTER_TITLE": "Registrarse",
+      "DESCRIPTION": "Con tu cuenta de Icons8 tienes acceso a todos nuestros productos",
+      "LOGIN_SWITCH": "¿Ya tienes una cuenta? <strong>Inicio de sesión</strong>",
+      "REGISTER_SWITCH": "¿Aún no tienes una cuenta? <strong>Regístrate</strong>",
+      "TERMS": "Estoy de acuerdo con nuestros <a href=\"https://icons8.com/terms-and-conditions\">Términos y Condiciones</a>",
+      "SUBSCRIBE": "Suscribirse a <a href=\"https://icons8.com/blog\">Icons8 Mag</a> (<a href=\"http://sendy.icons8.com//w/qVA8925h892fx2gi5p3vgGkDXQ/E8YvmhlHu763uQ5TJ9N3zxuw/Fq0Ba4MG08X1HCwCyUT8926w\">muestra de correo electrónico</a>)",
+      "PLACEHOLDER_NAME": "Nombre",
+      "PLACEHOLDER_EMAIL": "Correo electrónico",
+      "PLACEHOLDER_PASSWORD": "Contraseña"
+    },
+    "FOOTER": {
+      "NAV_ASSETS": {
+        "TITLE": "Activos de diseño",
+        "ICONS": "Iconos",
+        "PHOTOS": "Fotos Moose",
+        "OUCH": "Ilustraciones Ouch!",
+        "MUSIC": "Música Fugue"
+      },
+      "NAV_APPS": {
+        "TITLE": "Apps",
+        "PICHON": "Iconos Pichon",
+        "MOOSE": "Editor Moose"
+      },
+      "NAV_ABOUT": {
+        "TITLE": "Acerca de icons8",
+        "SHORT": "En breve",
+        "BUSINESS": "Modelo de negocio",
+        "LABS": "Labs"
+      },
+      "NAV_COMMUNITY": {
+        "TITLE": "Comunidad",
+        "BLOG": "Blog",
+        "FORUM": "Foro"
+      },
+      "NAV_REQUEST": {
+        "TITLE": "Solicitar",
+        "ICON": "Icono",
+        "PHOTO": "Sesión de fotos",
+        "LUNACY": "Característica de Lunacy"
+      },
+      "NAV_DEV": {
+        "TITLE": "Para desarrolladores",
+        "ICONS": "API de iconos",
+        "PHOTOS": "API de fotos",
+        "MUSIC": "API de música"
+      },
+      "NAV_SUPPORT": {
+        "TITLE": "Ayuda",
+        "FORUM": "Foro",
+        "FAQ": "FAQ",
+        "CONTACT": "Contáctanos"
+      },
+      "NAV_LICENSE": {
+        "TITLE": "Licencias",
+        "FREE": "Licencia gratuita",
+        "PAID": "Licencia de pago"
+      },
+      "ACCELERATED": "Acelerado por",
+      "PRIVACY": "Política de privacidad",
+      "TERMS": "Términos y condiciones"
+    }
+  }
+}

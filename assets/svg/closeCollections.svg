@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🦄-Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.699999988">
+        <g id="03-Pichon-\-Collections" transform="translate(-1408.000000, -776.000000)">
+            <g id="Group" transform="translate(0.000000, 760.000000)">
+                <g id="Group-14" transform="translate(1408.000000, 16.000000)">
+                    <rect id="Rectangle-3" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M3,3 L13,13" id="Path-5" stroke="#000000" stroke-width="2"></path>
+                    <path d="M3,13 L13,3" id="Path-5" stroke="#000000" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

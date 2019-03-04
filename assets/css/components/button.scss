@@ -1,0 +1,129 @@
+@import '../variables';
+
+.button {
+  font-size: 16px;
+  padding: 0 24px;
+  border-radius: 6px;
+  line-height: 40px;
+  height: 42px;
+  display: inline-block;
+  position: relative;
+  color: white;
+  background-color: $color-red;
+  border: 1px solid $color-red;
+  font-weight: 400;
+  cursor: pointer;
+  text-decoration: none;
+  white-space: nowrap;
+  text-align: center;
+  transition: all 0.3s ease;
+  vertical-align: middle;
+
+  a {
+    color: #fff;
+  }
+
+  &:hover {
+    background-color: darken($color-red, 4%);
+    border-color: darken($color-red, 4%);
+  }
+
+  &.is-small {
+    height: 36px;
+    line-height: 34px;
+    padding: 0 1rem;
+    font-size: 16px;
+  }
+
+  &.is-tiny {
+    height: 28px;
+    line-height: 26px;
+    padding: 0 0.5rem;
+    font-size: 14px;
+  }
+
+  &.is-white {
+    color: rgba(0,0,0,0.5);
+    background: white;
+    border-color: rgba(74,74,74,0.2);
+
+    &:hover {
+      background-color: darken(white, 3%);
+    }
+    &.is-loading {
+      color: transparent;
+      &:after {
+        border-color: rgba(155,155,155,0.2);
+        border-top-color: rgba(155,155,155,0.8);
+      }
+    }
+  }
+  &.is-blue {
+    background-color: $color-blue;
+    border-color: $color-blue;
+    color: white;
+
+    &:hover {
+      background-color: darken($color-blue, 5%);
+      border-color: darken($color-blue, 5%);
+    }
+  }
+  &.is-orange {
+    background-color: $color-orange;
+    border-color: $color-orange;
+    color: white;
+
+    &:hover {
+      background-color: darken($color-orange, 5%);
+      border-color: darken($color-orange, 5%);
+    }
+  }
+  &.is-gray {
+    background: #f3f3f3;
+    border-color: #f3f3f3;
+    color: #4a4a4a;
+
+    &:hover {
+      background: $color-grey-light;
+      border-color: $color-grey-light;
+    }
+  }
+  &.is-yellow {
+    background-color: $color-yellow;
+    border-color: $color-yellow;
+    color: black;
+    &:hover {
+      background-color: darken($color-yellow, 5%);
+      border-color: darken($color-yellow, 5%);
+    }
+  }
+  &.is-bold {
+    font-weight: 500;
+  }
+
+  &.is-disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+
+  $loading-width: 1.375rem;
+  &.is-loading {
+    color: transparent;
+
+    &:after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -$loading-width/2;
+      margin-left: -$loading-width/2;
+      width: $loading-width;
+      height: $loading-width;
+      border: 2px solid rgba(255,255,255,0.2);
+      border-radius: 50%;
+      border-top-color: rgba(255,255,255,0.8);
+
+      animation: spin 1s linear infinite;
+    }
+  }
+}
